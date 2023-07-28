@@ -1,0 +1,52 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,M32.0,Drug-induced systemic lupus erythematosus
+ICD10CM,M32.10,"Systemic lupus erythematosus, organ or system involvement unspecified"
+ICD10CM,M32.11,Endocarditis in systemic lupus erythematosus
+ICD10CM,M32.12,Pericarditis in systemic lupus erythematosus
+ICD10CM,M32.13,Lung involvement in systemic lupus erythematosus
+ICD10CM,M32.14,Glomerular disease in systemic lupus erythematosus
+ICD10CM,M32.15,Tubulo-interstitial nephropathy in systemic lupus erythematosus
+ICD10CM,M32.19,Other organ or system involvement in systemic lupus erythematosus
+ICD10CM,M32.8,Other forms of systemic lupus erythematosus
+ICD10CM,M32.9,"Systemic lupus erythematosus, unspecified"
+ICD9CM,710.0,Systemic lupus erythematosus
+SNOMED CT,4676006,"SLE glomerulonephritis syndrome, WHO class II"
+SNOMED CT,11013005,"SLE glomerulonephritis syndrome, WHO class VI"
+SNOMED CT,19682006,Lupus hepatitis
+SNOMED CT,22888007,Drug-induced lupus erythematosus due to procainamide
+SNOMED CT,25380002,Pericarditis secondary to systemic lupus erythematosus
+SNOMED CT,95332009,Rash of systemic lupus erythematosus
+SNOMED CT,95644001,Systemic lupus erythematosus encephalitis
+SNOMED CT,196138005,Lung disease with systemic lupus erythematosus
+SNOMED CT,200936003,Lupus erythematosus
+SNOMED CT,201436003,Drug-induced systemic lupus erythematosus
+SNOMED CT,309762007,Systemic lupus erythematosus with pericarditis
+SNOMED CT,239886003,Limited lupus erythematosus
+SNOMED CT,239887007,Systemic lupus erythematosus with organ/system involvement
+SNOMED CT,239888002,Lupus panniculitis
+SNOMED CT,239889005,Bullous systemic lupus erythematosus
+SNOMED CT,239890001,Systemic lupus erythematosus with multisystem involvement
+SNOMED CT,36402006,"SLE glomerulonephritis syndrome, WHO class IV"
+SNOMED CT,52042003,"SLE glomerulonephritis syndrome, WHO class V"
+SNOMED CT,54072008,Nonbacterial verrucal endocardiosis
+SNOMED CT,54912002,Drug-induced lupus erythematosus due to hydralazine
+SNOMED CT,55464009,Systemic lupus erythematosus
+SNOMED CT,61458006,Drug-induced lupus erythematosus due to diphenylhydantoin
+SNOMED CT,68815009,SLE glomerulonephritis syndrome
+SNOMED CT,73286009,"SLE glomerulonephritis syndrome, WHO class I"
+SNOMED CT,76521009,"SLE glomerulonephritis syndrome, WHO class III"
+SNOMED CT,77753005,Lupus disease of the lung
+SNOMED CT,80258006,Drug-induced lupus erythematosus
+SNOMED CT,403486000,Acute systemic lupus erythematosus
+SNOMED CT,403487009,Fulminating systemic lupus erythematosus
+SNOMED CT,95609003,Neonatal lupus erythematosus
+SNOMED CT,295101000119105,Nephropathy co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,295111000119108,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,295121000119101,Nephrosis co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,698694005,Systemic lupus erythematosus in remission
+SNOMED CT,707301001,Lupus erythematosus of oral mucous membrane
+SNOMED CT,713225000,Gingival disease due to lupus erythematosus
+SNOMED CT,724767000,Chorea co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,724781003,Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,773333003,Autosomal systemic lupus erythematosus
+SNOMED CT,403488004,Systemic lupus erythematosus of childhood

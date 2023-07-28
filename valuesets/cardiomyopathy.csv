@@ -1,0 +1,205 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,B33.24,Viral cardiomyopathy
+ICD10CM,I25.5,Ischemic cardiomyopathy
+ICD10CM,I42,Cardiomyopathy
+ICD10CM,O90.3,Peripartum cardiomyopathy
+ICD10CM,I42.0,Dilated cardiomyopathy
+ICD10CM,I42.1,Obstructive hypertrophic cardiomyopathy
+ICD10CM,I42.2,Other hypertrophic cardiomyopathy
+ICD10CM,I42.3,Endomyocardial (eosinophilic) disease
+ICD10CM,I42.4,Endocardial fibroelastosis
+ICD10CM,I42.5,Other restrictive cardiomyopathy
+ICD10CM,I42.6,Alcoholic cardiomyopathy
+ICD10CM,I42.7,Cardiomyopathy due to drug and external agent
+ICD10CM,I42.8,Other cardiomyopathies
+ICD10CM,I42.9,"Cardiomyopathy, unspecified"
+ICD9CM,414.8,Other specified forms of chronic ischemic heart disease
+ICD9CM,425,Cardiomyopathy
+ICD9CM,674.54,"Peripartum cardiomyopathy, postpartum condition or complication"
+SNOMED CT,85898001,Cardiomyopathy
+SNOMED CT,195029002,Cardiomyopathy associated with another disorder
+SNOMED CT,62377009,Peripartum cardiomyopathy in puerperium
+SNOMED CT,1173036000,Combined oxidative phosphorylation defect type 23
+SNOMED CT,1230303001,Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease
+SNOMED CT,1197430005,QRSL1-related combined oxidative phosphorylation defect
+SNOMED CT,1179293006,Erythrokeratodermia cardiomyopathy syndrome
+SNOMED CT,1204194004,Apical hypertrophic cardiomyopathy
+SNOMED CT,1186866009,Acromegalic cardiomyopathy
+SNOMED CT,1186718008,"Neonatal encephalomyopathy, cardiomyopathy, respiratory distress syndrome"
+SNOMED CT,1177176009,Intermediate epidermolysis bullosa simplex with cardiomyopathy
+SNOMED CT,1172839002,"Lethal left ventricular non-compaction, seizures, hypotonia, cataract, developmental delay syndrome"
+SNOMED CT,1187642008,"Macrocephaly, intellectual disability, left ventricular non compaction syndrome"
+SNOMED CT,1954004,Dilated cardiomyopathy secondary to toxic reaction
+SNOMED CT,2024009,Dilated cardiomyopathy secondary to metazoal myocarditis
+SNOMED CT,2816000,Dilated cardiomyopathy due to myotonic dystrophy
+SNOMED CT,6022005,Dilated cardiomyopathy due to sarcoidosis
+SNOMED CT,8209004,Dilated cardiomyopathy due to hemochromatosis
+SNOMED CT,9909003,Fatty degeneration of heart
+SNOMED CT,11104006,Dilated cardiomyopathy due to phytanic acid storage disease
+SNOMED CT,12563008,Dilated cardiomyopathy secondary to radiation
+SNOMED CT,15544002,Restrictive cardiomyopathy secondary to infiltrations
+SNOMED CT,16253001,Dilated peripartum cardiomyopathy
+SNOMED CT,20529002,Secondary dilated cardiomyopathy
+SNOMED CT,21430002,Dilated cardiomyopathy due to rheumatoid arthritis
+SNOMED CT,24584003,Restrictive cardiomyopathy secondary to malignancy
+SNOMED CT,27097002,Danish type familial amyloid cardiomyopathy
+SNOMED CT,28869005,Dilated cardiomyopathy due to muscular dystrophy
+SNOMED CT,30496006,Dilated cardiomyopathy due to viral myocarditis
+SNOMED CT,30884007,Restrictive cardiomyopathy secondary to familial storage disease
+SNOMED CT,33006007,Restrictive cardiomyopathy secondary to endocardial fibroelastosis
+SNOMED CT,33258008,Primary eosinophilic endomyocardial restrictive cardiomyopathy
+SNOMED CT,34342000,Dilated cardiomyopathy secondary to deficiency
+SNOMED CT,83521008,Dilated cardiomyopathy secondary to alcohol
+SNOMED CT,83978005,Primary familial hypertrophic cardiomyopathy
+SNOMED CT,84725008,Restrictive cardiomyopathy due to mucopolysaccharidosis
+SNOMED CT,84733009,Dilated cardiomyopathy due to nutritional deficiency
+SNOMED CT,86194008,Dilated cardiomyopathy due to infectious disease
+SNOMED CT,86995005,Dilated cardiomyopathy due to mucopolysaccharidosis
+SNOMED CT,89461002,Primary cardiomyopathy
+SNOMED CT,90202001,Dilated cardiomyopathy secondary to electrolyte deficiency
+SNOMED CT,90828009,Primary restrictive cardiomyopathy
+SNOMED CT,91604001,Dilated cardiomyopathy due to polyarteritis nodosa
+SNOMED CT,93558006,Hypertrophic cardiomyopathy secondary to hyperthyroidism
+SNOMED CT,111285003,Dilated cardiomyopathy due to metabolic disorder
+SNOMED CT,1137377003,Thyrotoxic cardiomyopathy
+SNOMED CT,1149109001,Dilated cardiomyopathy due to electrolyte imbalance
+SNOMED CT,1153452008,Dilated cardiomyopathy due to parasitic myocarditis
+SNOMED CT,788878000,Diabetic cardiomyopathy
+SNOMED CT,789037005,Rheumatic cardiomyopathy
+SNOMED CT,860837007,Cardiomyopathy due to connective tissue disease
+SNOMED CT,860839005,Cardiomyopathy due to storage disease
+SNOMED CT,871638006,Hypertrophic cardiomyopathy due to glycogen storage disease
+SNOMED CT,871639003,Dilated cardiomyopathy due to mitochondrial disease
+SNOMED CT,871646007,Infiltrative cardiomyopathy
+SNOMED CT,871649000,Hypertrophic cardiomyopathy due to lysosomal disease
+SNOMED CT,111000119104,Nonischemic congestive cardiomyopathy
+SNOMED CT,108701000119102,Cardiomyopathy due to hypertension
+SNOMED CT,119731000146105,Cardiomyopathy due to disease caused by Severe acute respiratory syndrome coronavirus 2
+SNOMED CT,204981000119101,Cardiomyopathy due to viral infection
+SNOMED CT,1086051000119107,Cardiomyopathy due to diphtheria
+SNOMED CT,16228931000119102,Cardiomyopathy caused by drug
+SNOMED CT,50270004,Dilated cardiomyopathy due to Friedreich's ataxia
+SNOMED CT,53322007,Hypertrophic cardiomyopathy secondary to Friedreich ataxia
+SNOMED CT,195030007,Cardiomyopathy in Friedreich ataxia
+SNOMED CT,445336009,Hypertrophic cardiomyopathy associated with another disorder
+SNOMED CT,447934002,Right ventricular myocardial noncompaction cardiomyopathy
+SNOMED CT,447935001,Left ventricular myocardial noncompaction cardiomyopathy
+SNOMED CT,460500001,Histiocytoid mitochondrial cardiomyopathy due to cytochrome aa3 deficiency
+SNOMED CT,471841009,Inflammatory cardiomyopathy
+SNOMED CT,471846004,Cardiomyopathy due to neuromuscular disorder
+SNOMED CT,471858004,Valvular cardiomyopathy
+SNOMED CT,471870000,Pacing-induced cardiomyopathy
+SNOMED CT,471875005,Ventricular myocardial noncompaction cardiomyopathy
+SNOMED CT,471885006,Hypertrophic cardiomyopathy with genetic marker
+SNOMED CT,471890009,Dilated cardiomyopathy with genetic marker
+SNOMED CT,472100003,Ischemic dilated cardiomyopathy due to coronary artery disease
+SNOMED CT,472315005,Mitochondrial cardiomyopathy
+SNOMED CT,472316006,Hypertrophic mitochondrial cardiomyopathy
+SNOMED CT,472317002,Histiocytoid mitochondrial cardiomyopathy
+SNOMED CT,472318007,Hypertrophic mitochondrial cardiomyopathy associated with cataracts and lactic acidosis
+SNOMED CT,472319004,Fatal infantile mitochondrial cardiomyopathy
+SNOMED CT,472320005,Maternally inherited mitochondrial cardiomyopathy and myopathy
+SNOMED CT,472323007,Fetal cardiomyopathy
+SNOMED CT,472324001,Fetal hypertrophic cardiomyopathy
+SNOMED CT,472325000,Fetal hypertrophic cardiomyopathy due to twin to twin transfusion syndrome
+SNOMED CT,472326004,Fetal hypertrophic cardiomyopathy associated with renal disease
+SNOMED CT,472327008,Fetal dilated cardiomyopathy
+SNOMED CT,699668009,Secondary nonischemic congestive cardiomyopathy
+SNOMED CT,700065003,Primary hypertrophic cardiomyopathy
+SNOMED CT,702424003,Dilated cardiomyopathy 3B
+SNOMED CT,704241002,Fetal hypertrophic cardiomyopathy due to maternal diabetes mellitus
+SNOMED CT,713523008,Cardiomyopathy co-occurrent with human immunodeficiency virus infection
+SNOMED CT,715535009,Naxos disease
+SNOMED CT,715626008,Tropical endomyocardial fibrosis
+SNOMED CT,715655000,Transthyretin related familial amyloid cardiomyopathy
+SNOMED CT,715865008,Familial isolated arrhythmogenic right ventricular dysplasia
+SNOMED CT,717812000,"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome"
+SNOMED CT,718713000,Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome
+SNOMED CT,719272007,Progressive sensorineural hearing loss and hypertrophic cardiomyopathy syndrome
+SNOMED CT,719380003,Microcephalus cardiomyopathy syndrome
+SNOMED CT,719451006,Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome
+SNOMED CT,719824001,Vici syndrome
+SNOMED CT,719835006,Wooly hair and palmoplantar keratoderma with dilated cardiomyopathy syndrome
+SNOMED CT,719839000,Tubular renal disease with cardiomyopathy syndrome
+SNOMED CT,720609003,Cardiomyopathy with cataract and hip spine disease syndrome
+SNOMED CT,720610008,Cardiomyopathy and renal anomaly syndrome
+SNOMED CT,721014007,Heart-hand syndrome Slovenian type
+SNOMED CT,723993005,Sensorineural deafness with dilated cardiomyopathy syndrome
+SNOMED CT,724173009,Maternally inherited cardiomyopathy and hearing loss syndrome
+SNOMED CT,725027004,Muscle and heart glycogen synthase deficiency
+SNOMED CT,725416005,Cardiomyopathy due to cirrhosis of liver
+SNOMED CT,763280005,"Encephalopathy, hypertrophic cardiomyopathy, renal tubular disease syndrome"
+SNOMED CT,766883006,Familial dilated cardiomyopathy with conduction defect due to LMNA mutation
+SNOMED CT,771478008,Mitochondrial hypertrophic cardiomyopathy with lactic acidosis due to MTO1 deficiency
+SNOMED CT,771509001,Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation
+SNOMED CT,771513008,Infantile hypertrophic cardiomyopathy due to MRPL44 deficiency
+SNOMED CT,774148007,Polyglucosan body myopathy type 1
+SNOMED CT,775908005,Combined oxidative phosphorylation defect type 17
+SNOMED CT,195020003,Hypertrophic cardiomyopathy without obstruction
+SNOMED CT,195021004,Primary dilated cardiomyopathy
+SNOMED CT,195023001,Nutritional and metabolic cardiomyopathies
+SNOMED CT,195025008,Cardiac glycogenosis
+SNOMED CT,195027000,Cardiomyopathy due to mucopolysaccharidosis
+SNOMED CT,195031006,Cardiomyopathy in myotonic dystrophy
+SNOMED CT,195032004,Dystrophic cardiomyopathy
+SNOMED CT,315608004,Cardiomyopathy in Duchenne muscular dystrophy
+SNOMED CT,233871002,Congestive obstructive cardiomyopathy
+SNOMED CT,233873004,Hypertrophic cardiomyopathy
+SNOMED CT,233875006,Post-myocarditic cardiomyopathy
+SNOMED CT,233877003,Restrictive cardiomyopathy without endomyocardial fibrosis
+SNOMED CT,233878008,Familial restrictive cardiomyopathy
+SNOMED CT,240077004,Severe scapuloperoneal muscular dystrophy with cardiomyopathy
+SNOMED CT,253528005,Arrhythmogenic right ventricular dysplasia
+SNOMED CT,35719004,Dilated cardiomyopathy due to systemic sclerosis
+SNOMED CT,35728003,Familial cardiomyopathy
+SNOMED CT,36471000,Dilated cardiomyopathy due to systemic lupus erythematosus
+SNOMED CT,39041004,Restrictive cardiomyopathy secondary to sarcoidosis
+SNOMED CT,39693003,Dilated cardiomyopathy due to granuloma
+SNOMED CT,40532006,Dilated cardiomyopathy due to protozoan myocarditis
+SNOMED CT,41964001,Hypertrophic cardiomyopathy secondary to neuromuscular disorder
+SNOMED CT,42099002,Primary endomyocardial fibrosis restrictive cardiomyopathy
+SNOMED CT,44630002,Dilated cardiomyopathy due to fungal myocarditis
+SNOMED CT,45227007,Hypertrophic obstructive cardiomyopathy
+SNOMED CT,46696008,Dilated cardiomyopathy due to dermatomyositis
+SNOMED CT,46939000,Keshan disease
+SNOMED CT,50275009,Cobalt cardiomyopathy
+SNOMED CT,52029003,Primary familial dilated cardiomyopathy
+SNOMED CT,53043001,Primary idiopathic dilated cardiomyopathy
+SNOMED CT,53703001,Primary eosinophilic endomyocardial cardiomyopathy
+SNOMED CT,54830008,Dilated cardiomyopathy due to bacterial myocarditis
+SNOMED CT,56941009,Restrictive cardiomyopathy secondary to hemochromatosis
+SNOMED CT,58629009,Dilated cardiomyopathy due to amyloidosis
+SNOMED CT,58911001,Dilated cardiomyopathy due to glycogen storage disease
+SNOMED CT,60514000,Dilated cardiomyopathy due to familial storage disease
+SNOMED CT,63183009,Primary idiopathic hypertrophic cardiomyopathy
+SNOMED CT,64041007,Primary idiopathic restrictive cardiomyopathy
+SNOMED CT,64077000,Myocardial degeneration
+SNOMED CT,64615000,Restrictive cardiomyopathy secondary to glycogen storage disease
+SNOMED CT,64749001,Dilated cardiomyopathy secondary to infiltration
+SNOMED CT,68602002,Primary endomyocardial fibrosis cardiomyopathy
+SNOMED CT,69609002,Nonobstructive cardiomyopathy
+SNOMED CT,72972005,Dilated cardiomyopathy secondary to drug
+SNOMED CT,74249003,Dilated cardiomyopathy due to malignancy
+SNOMED CT,76931005,Restrictive cardiomyopathy secondary to granulomas
+SNOMED CT,79152002,Dilated cardiomyopathy due to neuromuscular disorder
+SNOMED CT,79754008,Restrictive cardiomyopathy secondary to amyloidosis
+SNOMED CT,398716006,Endomyocardial fibrosis
+SNOMED CT,398754006,Restrictive cardiomyopathy with endomyocardial fibrosis
+SNOMED CT,399020009,Dilated cardiomyopathy
+SNOMED CT,406428006,Hypertrophy of septomarginal trabeculation
+SNOMED CT,413994008,Dilated cardiomyopathy with connective tissue disorder
+SNOMED CT,413995009,Dilated cardiomyopathy due to taurine deficiency
+SNOMED CT,415295002,Restrictive cardiomyopathy
+SNOMED CT,415509000,Secondary restrictive cardiomyopathy
+SNOMED CT,419097006,Danon disease
+SNOMED CT,426300009,Tachycardia-induced cardiomyopathy
+SNOMED CT,426856002,Ischemic congestive cardiomyopathy
+SNOMED CT,441541008,Takotsubo cardiomyopathy
+SNOMED CT,880014009,Dilated cardiomyopathy due to carnitine deficiency
+SNOMED CT,880038008,Dilated cardiomyopathy due to lysosomal storage disease
+SNOMED CT,880040003,Arrhythmogenic left ventricular cardiomyopathy
+SNOMED CT,880042006,Dilated cardiomyopathy caused by anthracycline
+SNOMED CT,890119003,Hypertrophic cardiomyopathy due to Friedreich ataxia
+SNOMED CT,890120009,Hypertrophic cardiomyopathy due to neuromuscular disorder
+SNOMED CT,890121008,Hypertrophic cardiomyopathy due to hyperthyroidism
+SNOMED CT,890122001,Hypertrophic cardiomyopathy due to disorder

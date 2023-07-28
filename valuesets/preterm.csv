@@ -1,0 +1,49 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,Z3A.20,20 weeks gestation of pregnancy
+ICD10CM,Z3A.21,21 weeks gestation of pregnancy
+ICD10CM,Z3A.22,22 weeks gestation of pregnancy
+ICD10CM,Z3A.23,23 weeks gestation of pregnancy
+ICD10CM,Z3A.24,24 weeks gestation of pregnancy
+ICD10CM,Z3A.25,25 weeks gestation of pregnancy
+ICD10CM,Z3A.26,26 weeks gestation of pregnancy
+ICD10CM,Z3A.27,27 weeks gestation of pregnancy
+ICD10CM,Z3A.28,28 weeks gestation of pregnancy
+ICD10CM,Z3A.29,29 weeks gestation of pregnancy
+ICD10CM,Z3A.30,30 weeks gestation of pregnancy
+ICD10CM,Z3A.31,31 weeks gestation of pregnancy
+ICD10CM,Z3A.32,32 weeks gestation of pregnancy
+ICD10CM,Z3A.33,33 weeks gestation of pregnancy
+ICD10CM,Z3A.34,34 weeks gestation of pregnancy
+ICD10CM,Z3A.35,35 weeks gestation of pregnancy
+ICD10CM,Z3A.36,36 weeks gestation of pregnancy
+SNOMED CT,7707000,"Gestation period, 32 weeks"
+SNOMED CT,13763000,"Gestation period, 34 weeks"
+SNOMED CT,23464008,"Gestation period, 20 weeks"
+SNOMED CT,84132007,"Gestation period, 35 weeks"
+SNOMED CT,86883006,"Gestation period, 23 weeks"
+SNOMED CT,90797000,"Gestation period, 28 weeks"
+SNOMED CT,313178001,Gestation less than 24 weeks
+SNOMED CT,41438001,"Gestation period, 21 weeks"
+SNOMED CT,45139008,"Gestation period, 29 weeks"
+SNOMED CT,46906003,"Gestation period, 27 weeks"
+SNOMED CT,48688005,"Gestation period, 26 weeks"
+SNOMED CT,57907009,"Gestation period, 36 weeks"
+SNOMED CT,64920003,"Gestation period, 31 weeks"
+SNOMED CT,65035007,"Gestation period, 22 weeks"
+SNOMED CT,71355009,"Gestation period, 30 weeks"
+SNOMED CT,72544005,"Gestation period, 25 weeks"
+SNOMED CT,78395001,"Gestation period, 33 weeks"
+SNOMED CT,6678005,"Gestation period, 15 weeks"
+SNOMED CT,25026004,"Gestation period, 18 weeks"
+SNOMED CT,54318006,"Gestation period, 19 weeks"
+SNOMED CT,65683006,"Gestation period, 17 weeks"
+SNOMED CT,72846000,"Gestation period, 14 weeks"
+SNOMED CT,428567001,Gestation 14 - 20 weeks
+ICD9CM,765.21,Less than 24 completed weeks of gestation
+ICD9CM,765.22,24 completed weeks of gestation
+ICD9CM,765.23,25-26 completed weeks of gestation
+ICD9CM,765.24,27-28 completed weeks of gestation
+ICD9CM,765.25,29-30 completed weeks of gestation
+ICD9CM,765.26,31-32 completed weeks of gestation
+ICD9CM,765.27,33-34 completed weeks of gestation
+ICD9CM,765.28,35-36 completed weeks of gestation

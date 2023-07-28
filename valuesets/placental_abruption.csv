@@ -1,0 +1,45 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,O45,Premature separation of placenta [abruptio placentae]
+ICD10CM,O45.0,Premature separation of placenta with coagulation defect
+ICD10CM,O45.00,"Premature separation of placenta with coagulation defect, unspecified"
+ICD10CM,O45.001,"Premature separation of placenta with coagulation defect, unspecified, first trimester"
+ICD10CM,O45.002,"Premature separation of placenta with coagulation defect, unspecified, second trimester"
+ICD10CM,O45.003,"Premature separation of placenta with coagulation defect, unspecified, third trimester"
+ICD10CM,O45.009,"Premature separation of placenta with coagulation defect, unspecified, unspecified trimester"
+ICD10CM,O45.01,Premature separation of placenta with afibrinogenemia
+ICD10CM,O45.011,"Premature separation of placenta with afibrinogenemia, first trimester"
+ICD10CM,O45.012,"Premature separation of placenta with afibrinogenemia, second trimester"
+ICD10CM,O45.013,"Premature separation of placenta with afibrinogenemia, third trimester"
+ICD10CM,O45.019,"Premature separation of placenta with afibrinogenemia, unspecified trimester"
+ICD10CM,O45.02,Premature separation of placenta with disseminated intravascular coagulation
+ICD10CM,O45.021,"Premature separation of placenta with disseminated intravascular coagulation, first trimester"
+ICD10CM,O45.022,"Premature separation of placenta with disseminated intravascular coagulation, second trimester"
+ICD10CM,O45.023,"Premature separation of placenta with disseminated intravascular coagulation, third trimester"
+ICD10CM,O45.029,"Premature separation of placenta with disseminated intravascular coagulation, unspecified trimester"
+ICD10CM,O45.09,Premature separation of placenta with other coagulation defect
+ICD10CM,O45.091,"Premature separation of placenta with other coagulation defect, first trimester"
+ICD10CM,O45.092,"Premature separation of placenta with other coagulation defect, second trimester"
+ICD10CM,O45.093,"Premature separation of placenta with other coagulation defect, third trimester"
+ICD10CM,O45.099,"Premature separation of placenta with other coagulation defect, unspecified trimester"
+ICD10CM,O45.8,Other premature separation of placenta
+ICD10CM,O45.8X,Other premature separation of placenta
+ICD10CM,O45.8X1,"Other premature separation of placenta, first trimester"
+ICD10CM,O45.8X2,"Other premature separation of placenta, second trimester"
+ICD10CM,O45.8X3,"Other premature separation of placenta, third trimester"
+ICD10CM,O45.8X9,"Other premature separation of placenta, unspecified trimester"
+ICD10CM,O45.9,"Premature separation of placenta, unspecified"
+ICD10CM,O45.90,"Premature separation of placenta, unspecified, unspecified trimester"
+ICD10CM,O45.91,"Premature separation of placenta, unspecified, first trimester"
+ICD10CM,O45.92,"Premature separation of placenta, unspecified, second trimester"
+ICD10CM,O45.93,"Premature separation of placenta, unspecified, third trimester"
+SNOMED CT,415105001,Placental abruption
+SNOMED CT,10751771000119107,Placental abruption due to afibrinogenemia
+SNOMED CT,198910006,Placental abruption - delivered
+SNOMED CT,198911005,Placental abruption - not delivered
+SNOMED CT,198912003,Premature separation of placenta with coagulation defect
+SNOMED CT,237273008,Revealed placental abruption
+SNOMED CT,237274002,Concealed placental abruption
+SNOMED CT,237275001,Mixed placental abruption
+SNOMED CT,62131008,Couvelaire uterus
+SNOMED CT,267197003,"Antepartum hemorrhage, abruptio placentae and placenta previa"
+ICD9CM,641.2,Premature separation of placenta

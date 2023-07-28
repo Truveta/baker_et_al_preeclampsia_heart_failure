@@ -1,0 +1,649 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,F20,Schizophrenia
+ICD10CM,F21,Schizotypal disorder
+ICD10CM,F22,Delusional disorders
+ICD10CM,F23,Brief psychotic disorder
+ICD10CM,F24,Shared psychotic disorder
+ICD10CM,F25,Schizoaffective disorders
+ICD10CM,F28,Other psychotic disorder not due to a substance or known physiological condition
+ICD10CM,F29,Unspecified psychosis not due to a substance or known physiological condition
+ICD10CM,F30,Manic episode
+ICD10CM,F31,Bipolar disorder
+ICD10CM,F32,"Major depressive disorder, single episode"
+ICD10CM,F33,"Major depressive disorder, recurrent"
+ICD10CM,F34,Persistent mood [affective] disorders
+ICD10CM,F39,Unspecified mood [affective] disorder
+ICD10CM,O99.34,"Other mental disorders complicating pregnancy, childbirth, and the puerperium"
+ICD10CM,F32.A,"Depression, unspecified"
+ICD10CM,F20.0,Paranoid schizophrenia
+ICD10CM,F20.1,Disorganized schizophrenia
+ICD10CM,F20.2,Catatonic schizophrenia
+ICD10CM,F20.3,Undifferentiated schizophrenia
+ICD10CM,F20.5,Residual schizophrenia
+ICD10CM,F20.8,Other schizophrenia
+ICD10CM,F20.81,Schizophreniform disorder
+ICD10CM,F20.89,Other schizophrenia
+ICD10CM,F20.9,"Schizophrenia, unspecified"
+ICD10CM,F25.0,"Schizoaffective disorder, bipolar type"
+ICD10CM,F25.1,"Schizoaffective disorder, depressive type"
+ICD10CM,F25.8,Other schizoaffective disorders
+ICD10CM,F25.9,"Schizoaffective disorder, unspecified"
+ICD10CM,F30.1,Manic episode without psychotic symptoms
+ICD10CM,F30.10,"Manic episode without psychotic symptoms, unspecified"
+ICD10CM,F30.11,"Manic episode without psychotic symptoms, mild"
+ICD10CM,F30.12,"Manic episode without psychotic symptoms, moderate"
+ICD10CM,F30.13,"Manic episode, severe, without psychotic symptoms"
+ICD10CM,F30.2,"Manic episode, severe with psychotic symptoms"
+ICD10CM,F30.3,Manic episode in partial remission
+ICD10CM,F30.4,Manic episode in full remission
+ICD10CM,F30.8,Other manic episodes
+ICD10CM,F30.9,"Manic episode, unspecified"
+ICD10CM,F31.0,"Bipolar disorder, current episode hypomanic"
+ICD10CM,F31.1,"Bipolar disorder, current episode manic without psychotic features"
+ICD10CM,F31.10,"Bipolar disorder, current episode manic without psychotic features, unspecified"
+ICD10CM,F31.11,"Bipolar disorder, current episode manic without psychotic features, mild"
+ICD10CM,F31.12,"Bipolar disorder, current episode manic without psychotic features, moderate"
+ICD10CM,F31.13,"Bipolar disorder, current episode manic without psychotic features, severe"
+ICD10CM,F31.2,"Bipolar disorder, current episode manic severe with psychotic features"
+ICD10CM,F31.3,"Bipolar disorder, current episode depressed, mild or moderate severity"
+ICD10CM,F31.30,"Bipolar disorder, current episode depressed, mild or moderate severity, unspecified"
+ICD10CM,F31.31,"Bipolar disorder, current episode depressed, mild"
+ICD10CM,F31.32,"Bipolar disorder, current episode depressed, moderate"
+ICD10CM,F31.4,"Bipolar disorder, current episode depressed, severe, without psychotic features"
+ICD10CM,F31.5,"Bipolar disorder, current episode depressed, severe, with psychotic features"
+ICD10CM,F31.6,"Bipolar disorder, current episode mixed"
+ICD10CM,F31.60,"Bipolar disorder, current episode mixed, unspecified"
+ICD10CM,F31.61,"Bipolar disorder, current episode mixed, mild"
+ICD10CM,F31.62,"Bipolar disorder, current episode mixed, moderate"
+ICD10CM,F31.63,"Bipolar disorder, current episode mixed, severe, without psychotic features"
+ICD10CM,F31.64,"Bipolar disorder, current episode mixed, severe, with psychotic features"
+ICD10CM,F31.7,"Bipolar disorder, currently in remission"
+ICD10CM,F31.70,"Bipolar disorder, currently in remission, most recent episode unspecified"
+ICD10CM,F31.71,"Bipolar disorder, in partial remission, most recent episode hypomanic"
+ICD10CM,F31.72,"Bipolar disorder, in full remission, most recent episode hypomanic"
+ICD10CM,F31.73,"Bipolar disorder, in partial remission, most recent episode manic"
+ICD10CM,F31.74,"Bipolar disorder, in full remission, most recent episode manic"
+ICD10CM,F31.75,"Bipolar disorder, in partial remission, most recent episode depressed"
+ICD10CM,F31.76,"Bipolar disorder, in full remission, most recent episode depressed"
+ICD10CM,F31.77,"Bipolar disorder, in partial remission, most recent episode mixed"
+ICD10CM,F31.78,"Bipolar disorder, in full remission, most recent episode mixed"
+ICD10CM,F31.8,Other bipolar disorders
+ICD10CM,F31.81,Bipolar II disorder
+ICD10CM,F31.89,Other bipolar disorder
+ICD10CM,F31.9,"Bipolar disorder, unspecified"
+ICD10CM,F32.0,"Major depressive disorder, single episode, mild"
+ICD10CM,F32.1,"Major depressive disorder, single episode, moderate"
+ICD10CM,F32.2,"Major depressive disorder, single episode, severe without psychotic features"
+ICD10CM,F32.3,"Major depressive disorder, single episode, severe with psychotic features"
+ICD10CM,F32.4,"Major depressive disorder, single episode, in partial remission"
+ICD10CM,F32.5,"Major depressive disorder, single episode, in full remission"
+ICD10CM,F32.8,Other depressive episodes
+ICD10CM,F32.81,Premenstrual dysphoric disorder
+ICD10CM,F32.89,Other specified depressive episodes
+ICD10CM,F32.9,"Major depressive disorder, single episode, unspecified"
+ICD10CM,F33.0,"Major depressive disorder, recurrent, mild"
+ICD10CM,F33.1,"Major depressive disorder, recurrent, moderate"
+ICD10CM,F33.2,"Major depressive disorder, recurrent severe without psychotic features"
+ICD10CM,F33.3,"Major depressive disorder, recurrent, severe with psychotic symptoms"
+ICD10CM,F33.4,"Major depressive disorder, recurrent, in remission"
+ICD10CM,F33.40,"Major depressive disorder, recurrent, in remission, unspecified"
+ICD10CM,F33.41,"Major depressive disorder, recurrent, in partial remission"
+ICD10CM,F33.42,"Major depressive disorder, recurrent, in full remission"
+ICD10CM,F33.8,Other recurrent depressive disorders
+ICD10CM,F33.9,"Major depressive disorder, recurrent, unspecified"
+ICD10CM,F34.0,Cyclothymic disorder
+ICD10CM,F34.1,Dysthymic disorder
+ICD10CM,F34.8,Other persistent mood [affective] disorders
+ICD10CM,F34.81,Disruptive mood dysregulation disorder
+ICD10CM,F34.89,Other specified persistent mood disorders
+ICD10CM,F34.9,"Persistent mood [affective] disorder, unspecified"
+ICD10CM,O99.340,"Other mental disorders complicating pregnancy, unspecified trimester"
+ICD10CM,O99.341,"Other mental disorders complicating pregnancy, first trimester"
+ICD10CM,O99.342,"Other mental disorders complicating pregnancy, second trimester"
+ICD10CM,O99.343,"Other mental disorders complicating pregnancy, third trimester"
+ICD10CM,O99.344,Other mental disorders complicating childbirth
+ICD10CM,O99.345,Other mental disorders complicating the puerperium
+ICD9CM,295,Schizophrenic disorders
+ICD9CM,296,Episodic mood disorders
+ICD9CM,297,Paranoid states (Delusional disorders)
+ICD9CM,298,Other nonorganic psychoses
+SNOMED CT,5464005,Brief reactive psychosis
+SNOMED CT,13746004,Bipolar disorder
+SNOMED CT,31027006,Schizotypal personality disorder
+SNOMED CT,36923009,"Major depression, single episode"
+SNOMED CT,46206005,Mood disorder
+SNOMED CT,48500005,Delusional disorder
+SNOMED CT,58214004,Schizophrenia
+SNOMED CT,61831009,Shared paranoid disorder
+SNOMED CT,66344007,Recurrent major depression
+SNOMED CT,68890003,Schizoaffective disorder
+SNOMED CT,69322001,Psychotic disorder
+SNOMED CT,268619003,"Manic disorder, single episode"
+SNOMED CT,1231503005,Psychotic disorder with insight present
+SNOMED CT,596004,Premenstrual dysphoric disorder
+SNOMED CT,832007,Moderate major depression
+SNOMED CT,1196001,"Chronic bipolar II disorder, most recent episode major depressive"
+SNOMED CT,1383008,Hallucinogen mood disorder
+SNOMED CT,1499003,"Bipolar I disorder, single manic episode with postpartum onset"
+SNOMED CT,1973000,"Sedative, hypnotic AND/OR anxiolytic-induced psychotic disorder with delusions"
+SNOMED CT,2506003,Early onset dysthymia
+SNOMED CT,2618002,Chronic recurrent major depressive disorder
+SNOMED CT,3109008,Secondary dysthymia early onset
+SNOMED CT,162004,Severe manic bipolar I disorder without psychotic features
+SNOMED CT,4441000,Severe bipolar disorder with psychotic features
+SNOMED CT,4926007,Schizophrenia in remission
+SNOMED CT,5510009,Organic delusional disorder
+SNOMED CT,5703000,Bipolar disorder in partial remission
+SNOMED CT,7025000,Subchronic undifferentiated schizophrenia with acute exacerbations
+SNOMED CT,7052005,Alcohol hallucinosis
+SNOMED CT,9167000,Moderate mood disorder
+SNOMED CT,10327003,Cocaine-induced mood disorder
+SNOMED CT,10875004,"Severe mixed bipolar I disorder with psychotic features, mood-incongruent"
+SNOMED CT,10981006,Severe mixed bipolar I disorder with psychotic features
+SNOMED CT,12939007,Chronic disorganized schizophrenia
+SNOMED CT,12969000,"Severe bipolar II disorder, most recent episode major depressive, in full remission"
+SNOMED CT,13313007,Mild bipolar disorder
+SNOMED CT,13581000,"Severe bipolar I disorder, single manic episode with psychotic features, mood-congruent"
+SNOMED CT,14070001,Multi-infarct dementia with depression
+SNOMED CT,14144000,Erotomanic delusion disorder
+SNOMED CT,14183003,"Chronic major depressive disorder, single episode"
+SNOMED CT,14291003,Subchronic disorganized schizophrenia with acute exacerbations
+SNOMED CT,14495005,"Severe bipolar I disorder, single manic episode without psychotic features"
+SNOMED CT,15193003,"Severe recurrent major depression with psychotic features, mood-incongruent"
+SNOMED CT,15639000,"Moderate major depression, single episode"
+SNOMED CT,16295005,"Bipolar II disorder, most recent episode major depressive"
+SNOMED CT,16506000,Mixed bipolar I disorder
+SNOMED CT,16990005,Subchronic schizophrenia
+SNOMED CT,17782008,"Bipolar I disorder, most recent episode manic with catatonic features"
+SNOMED CT,18260003,Postpartum psychosis
+SNOMED CT,18573003,Obsessional erotomania
+SNOMED CT,18818009,Moderate recurrent major depression
+SNOMED CT,19300006,"Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-congruent"
+SNOMED CT,19527009,Single episode of major depression in full remission
+SNOMED CT,19694002,Late onset dysthymia
+SNOMED CT,20250007,"Severe major depression, single episode, with psychotic features, mood-incongruent"
+SNOMED CT,20385005,Psychotic disorder with delusions caused by opioid
+SNOMED CT,20960007,"Severe bipolar II disorder, most recent episode major depressive with psychotic features, mood-incongruent"
+SNOMED CT,21900002,"Bipolar I disorder, most recent episode depressed with catatonic features"
+SNOMED CT,22121000,Depressed bipolar I disorder in full remission
+SNOMED CT,22407005,"Bipolar II disorder, most recent episode major depressive with catatonic features"
+SNOMED CT,22419002,Mood disorder with mixed features due to general medical condition
+SNOMED CT,23645006,Organic mood disorder
+SNOMED CT,25922000,"Major depressive disorder, single episode with postpartum onset"
+SNOMED CT,26025008,Residual schizophrenia
+SNOMED CT,26203008,"Severe depressed bipolar I disorder with psychotic features, mood-incongruent"
+SNOMED CT,26472000,Paraphrenia
+SNOMED CT,26516009,Severe mood disorder with psychotic features
+SNOMED CT,26530004,"Severe bipolar disorder with psychotic features, mood-incongruent"
+SNOMED CT,27387000,Subchronic disorganized schizophrenia
+SNOMED CT,28357009,Transitory postpartum mood disturbance
+SNOMED CT,28475009,Severe recurrent major depression with psychotic features
+SNOMED CT,28663008,Severe manic bipolar I disorder with psychotic features
+SNOMED CT,28676002,Mood disorder with manic features due to general medical condition
+SNOMED CT,28864000,"Sedative, hypnotic AND/OR anxiolytic-induced mood disorder"
+SNOMED CT,28884001,"Moderate bipolar I disorder, single manic episode"
+SNOMED CT,29599000,Chronic undifferentiated schizophrenia
+SNOMED CT,29733004,Mood disorder caused by opioid
+SNOMED CT,29929003,"Bipolar I disorder, most recent episode depressed with atypical features"
+SNOMED CT,30336007,Chronic residual schizophrenia with acute exacerbations
+SNOMED CT,30491001,Cocaine delusional disorder
+SNOMED CT,30520009,"Severe bipolar II disorder, most recent episode major depressive with psychotic features"
+SNOMED CT,30605009,Major depression in partial remission
+SNOMED CT,30687003,"Bipolar II disorder, most recent episode major depressive with postpartum onset"
+SNOMED CT,30935000,Manic bipolar I disorder in full remission
+SNOMED CT,31446002,"Bipolar I disorder, most recent episode hypomanic"
+SNOMED CT,31658008,Chronic paranoid schizophrenia
+SNOMED CT,32358001,Amphetamine delusional disorder
+SNOMED CT,32552001,Organic delusional disorder caused by psychoactive substance
+SNOMED CT,33078009,"Severe recurrent major depression with psychotic features, mood-congruent"
+SNOMED CT,33135002,Recurrent major depression in partial remission
+SNOMED CT,33323008,Somatic delusion disorder
+SNOMED CT,33380008,"Severe manic bipolar I disorder with psychotic features, mood-incongruent"
+SNOMED CT,33736005,"Severe major depression with psychotic features, mood-congruent"
+SNOMED CT,34315001,"Bipolar II disorder, most recent episode major depressive with melancholic features"
+SNOMED CT,81319007,"Severe bipolar II disorder, most recent episode major depressive without psychotic features"
+SNOMED CT,82218004,Postoperative depression
+SNOMED CT,82998009,Moderate manic bipolar I disorder
+SNOMED CT,83176005,Primary dysthymia
+SNOMED CT,83458005,Agitated depression
+SNOMED CT,83501007,Organic mood disorder of mixed type
+SNOMED CT,83746006,Chronic schizophrenia
+SNOMED CT,84760002,"Schizoaffective disorder, depressive type"
+SNOMED CT,84788008,Menopausal depression
+SNOMED CT,85080004,Secondary dysthymia
+SNOMED CT,85248005,Bipolar disorder in remission
+SNOMED CT,85861002,Subchronic undifferentiated schizophrenia
+SNOMED CT,86058007,"Severe bipolar I disorder, single manic episode with psychotic features, mood-incongruent"
+SNOMED CT,87203005,"Bipolar I disorder, most recent episode depressed with postpartum onset"
+SNOMED CT,87414006,Reactive depression (situational)
+SNOMED CT,87512008,Mild major depression
+SNOMED CT,87842000,Generalized neuromuscular exhaustion syndrome
+SNOMED CT,87950005,"Bipolar I disorder, single manic episode with catatonic features"
+SNOMED CT,88939009,Severe mood disorder without psychotic features
+SNOMED CT,88975006,Schizophreniform disorder
+SNOMED CT,89618007,Persecutory delusion disorder
+SNOMED CT,111482003,Subchronic schizophrenia with acute exacerbations
+SNOMED CT,111483008,Catatonic schizophrenia in remission
+SNOMED CT,111484002,Undifferentiated schizophrenia
+SNOMED CT,111485001,Mixed bipolar I disorder in full remission
+SNOMED CT,129602009,Symbiotic infantile psychosis
+SNOMED CT,129604005,Delusion of heart disease syndrome
+SNOMED CT,1153570009,Treatment resistant depression
+SNOMED CT,1153575004,Persistent depressive disorder
+SNOMED CT,65971000052100,Acute psychosis
+SNOMED CT,788120007,Antenatal depression
+SNOMED CT,788983007,Mood disorder caused by cannabis
+SNOMED CT,789061003,Rapid cycling bipolar II disorder
+SNOMED CT,789119007,Synthetic cannabinoid induced mood disorder
+SNOMED CT,838528007,Mood disorder with manic symptoms caused by amphetamine and/or amphetamine derivative
+SNOMED CT,838529004,Mood disorder with mixed depressive and manic symptoms caused by amphetamine and/or amphetamine derivative
+SNOMED CT,838530009,Mood disorder with depressive symptoms caused by amphetamine and/or amphetamine derivative
+SNOMED CT,251000119105,"Severe major depression, single episode"
+SNOMED CT,261000119107,Severe depressed bipolar I disorder
+SNOMED CT,271000119101,Severe mixed bipolar I disorder
+SNOMED CT,281000119103,Severe recurrent major depression
+SNOMED CT,7761000119106,Psychotic disorder due to amphetamine use
+SNOMED CT,10211000132109,Perinatal depression
+SNOMED CT,21071000119101,Mood disorder of manic type
+SNOMED CT,21831000119109,Psychotic disorder caused by phencyclidine
+SNOMED CT,22981000119106,Recurrent severe manic episodes
+SNOMED CT,23741000119105,Severe manic bipolar I disorder
+SNOMED CT,31081000119101,Presenile dementia with delusions
+SNOMED CT,60401000119104,Postpartum psychosis in remission
+SNOMED CT,94631000119100,Depressive disorder in mother complicating pregnancy
+SNOMED CT,94921000119107,Episodic mood disorder
+SNOMED CT,104851000119103,Postpartum major depression in remission
+SNOMED CT,133091000119105,Rapid cycling bipolar I disorder
+SNOMED CT,133121000119109,Severe seasonal affective disorder
+SNOMED CT,153071000119108,Recurrent manic episodes in partial remission
+SNOMED CT,288511000119108,Chronic mood disorder
+SNOMED CT,288751000119101,"Reactive depressive psychosis, single episode"
+SNOMED CT,288851000119106,Opioid-induced mood disorder due to opioid abuse
+SNOMED CT,288861000119108,Opioid-induced mood disorder due to opioid dependence
+SNOMED CT,10760421000119102,Psychotic disorder in mother complicating childbirth
+SNOMED CT,10760461000119107,Psychotic disorder in mother complicating pregnancy
+SNOMED CT,10811121000119102,Major depressive disorder in mother complicating childbirth
+SNOMED CT,10811161000119107,Major depressive disorder in mother complicating pregnancy
+SNOMED CT,10835871000119104,Depressive disorder in mother complicating childbirth
+SNOMED CT,12398321000119100,Mood disorder caused by methamphetamine
+SNOMED CT,15921731000119106,Psychotic disorder caused by methamphetamine
+SNOMED CT,16238181000119101,Depressive disorder caused by amphetamine
+SNOMED CT,16238221000119109,Depressive disorder caused by metamfetamine
+SNOMED CT,16238741000119105,Bipolar disorder caused by drug
+SNOMED CT,16264621000119109,Recurrent mild major depressive disorder co-occurrent with anxiety
+SNOMED CT,16264821000119108,Recurrent severe major depressive disorder co-occurrent with anxiety
+SNOMED CT,16264901000119109,Recurrent moderate major depressive disorder co-occurrent with anxiety
+SNOMED CT,16265061000119105,Recurrent major depressive disorder co-occurrent with anxiety in full remission
+SNOMED CT,16265301000119106,Recurrent major depressive disorder in partial remission co-occurrent with anxiety
+SNOMED CT,16265951000119109,Mild major depressive disorder co-occurrent with anxiety single episode
+SNOMED CT,16266831000119100,Moderate major depressive disorder co-occurrent with anxiety single episode
+SNOMED CT,16266991000119108,Severe major depressive disorder co-occurrent with anxiety single episode
+SNOMED CT,786120041000132108,Substance induced psychotic disorder
+SNOMED CT,3530005,"Bipolar 1 disorder, single manic episode, full remission"
+SNOMED CT,4863002,PCP (phencyclidine) mood disorder
+SNOMED CT,9340000,"Bipolar 1 disorder, single manic episode"
+SNOMED CT,17262008,Non-alcoholic amnestic syndrome
+SNOMED CT,31373002,"Disorganized schizophrenia, in remission"
+SNOMED CT,35489007,Depressive episode
+SNOMED CT,49468007,"Bipolar I disorder, most recent episode depressed"
+SNOMED CT,55009008,"Alzheimers dementia, late onset, with delusions"
+SNOMED CT,68569003,"Bipolar I disorder, most recent episode manic"
+SNOMED CT,75360000,"Bipolar 1 disorder, single manic episode, in remission"
+SNOMED CT,78269000,"Bipolar 1 disorder, single manic episode, in partial remission"
+SNOMED CT,83225003,Bipolar 2 disorder
+SNOMED CT,191471000,Korsakov alcoholic psychosis with peripheral neuritis
+SNOMED CT,357705009,Cotard syndrome
+SNOMED CT,371596008,Bipolar 1 disorder
+SNOMED CT,450714000,Severe major depression
+SNOMED CT,473452003,Atypical psychosis
+SNOMED CT,698946008,Cyclothymia in remission
+SNOMED CT,698951002,Delusional disorder in remission
+SNOMED CT,698957003,Depressive disorder in remission
+SNOMED CT,712823008,Acute depression
+SNOMED CT,712824002,Acute polymorphic psychotic disorder without symptoms of schizophrenia
+SNOMED CT,712850003,Acute polymorphic psychotic disorder co-occurrent with symptoms of schizophrenia
+SNOMED CT,715924009,Disruptive mood dysregulation disorder
+SNOMED CT,718636001,Minimal depression
+SNOMED CT,719592004,Moderately severe major depression
+SNOMED CT,719593009,Moderately severe depression
+SNOMED CT,719717006,Psychosis co-occurrent and due to Parkinson's disease
+SNOMED CT,720451004,Minimal recurrent major depression
+SNOMED CT,720452006,Moderately severe recurrent major depression
+SNOMED CT,720453001,Moderately severe major depression single episode
+SNOMED CT,720454007,Minimal major depression single episode
+SNOMED CT,720455008,Minimal major depression
+SNOMED CT,723899008,Delusional disorder currently symptomatic
+SNOMED CT,723900003,Delusional disorder currently in partial remission
+SNOMED CT,723901004,Delusional disorder currently in full remission
+SNOMED CT,723903001,Bipolar type I disorder currently in full remission
+SNOMED CT,723905008,Bipolar type II disorder currently in full remission
+SNOMED CT,723912004,Secondary mood disorder
+SNOMED CT,723913009,Olfactory reference disorder
+SNOMED CT,723927004,Psychotic disorder caused by alcohol with schizophreniform symptoms
+SNOMED CT,723928009,Mood disorder with depressive symptoms caused by alcohol
+SNOMED CT,723929001,Mood disorder with manic symptoms caused by alcohol
+SNOMED CT,723930006,Mood disorder with mixed manic and depressive symptoms caused by alcohol
+SNOMED CT,723936000,Psychotic disorder caused by cannabis
+SNOMED CT,724655005,Psychotic disorder caused by opioid
+SNOMED CT,724673008,Psychotic disorder caused by sedative
+SNOMED CT,724674002,Psychotic disorder caused by hypnotic
+SNOMED CT,724675001,Psychotic disorder caused by anxiolytic
+SNOMED CT,724676000,Mood disorder with depressive symptoms caused by sedative
+SNOMED CT,724677009,Mood disorder with depressive symptoms caused by hypnotic
+SNOMED CT,724678004,Mood disorder with depressive symptoms caused by anxiolytic
+SNOMED CT,724679007,Mood disorder with manic symptoms caused by sedative
+SNOMED CT,724680005,Mood disorder with manic symptoms caused by hypnotic
+SNOMED CT,724681009,Mood disorder with manic symptoms caused by anxiolytic
+SNOMED CT,724682002,Mood disorder with mixed depressive and manic symptoms caused by sedative
+SNOMED CT,724683007,Mood disorder with mixed depressive and manic symptoms caused by hypnotic
+SNOMED CT,724684001,Mood disorder with mixed depressive and manic symptoms caused by anxiolytic
+SNOMED CT,724689006,Psychotic disorder caused by cocaine
+SNOMED CT,724690002,Mood disorder with depressive symptoms caused by cocaine
+SNOMED CT,724691003,Mood disorder with manic symptoms caused by cocaine
+SNOMED CT,724692005,Mood disorder with mixed depressive and manic symptoms caused by cocaine
+SNOMED CT,724696008,Psychotic disorder caused by hallucinogen
+SNOMED CT,724702008,Psychotic disorder caused by volatile inhalant
+SNOMED CT,724706006,Psychotic disorder caused by methylenedioxymethamphetamine
+SNOMED CT,724707002,Mood disorder caused by methylenedioxymethamphetamine
+SNOMED CT,724718002,Psychotic disorder caused by dissociative drug
+SNOMED CT,724719005,Psychotic disorder caused by ketamine
+SNOMED CT,724720004,Mood disorder caused by dissociative drug
+SNOMED CT,724721000,Mood disorder caused by ketamine
+SNOMED CT,724729003,Psychotic disorder caused by psychoactive substance
+SNOMED CT,724755002,Positive symptoms co-occurrent and due to primary psychotic disorder
+SNOMED CT,724756001,Negative symptoms co-occurrent and due to primary psychotic disorder
+SNOMED CT,724757005,Depressive symptoms due to primary psychotic disorder
+SNOMED CT,724758000,Manic symptoms co-occurrent and due to primary psychotic disorder
+SNOMED CT,724759008,Psychomotor symptom co-occurrent and due to psychotic disorder
+SNOMED CT,724760003,Cognitive impairment co-occurrent and due to primary psychotic disorder
+SNOMED CT,726772006,Major depression with psychotic features
+SNOMED CT,735750005,Psychotic disorder with schizophreniform symptoms caused by cocaine
+SNOMED CT,737225007,Secondary psychotic syndrome with hallucinations and delusions
+SNOMED CT,737340007,Psychotic disorder caused by synthetic cannabinoid
+SNOMED CT,762320004,Mood disorder with manic symptoms caused by opioid
+SNOMED CT,762321000,Mood disorder with depressive symptoms caused by opioid
+SNOMED CT,762322007,Mood disorder with mixed depressive and manic symptoms caused by opioid
+SNOMED CT,762325009,Psychotic disorder caused by stimulant
+SNOMED CT,762326005,Psychotic disorder with hallucinations caused by stimulant
+SNOMED CT,762327001,Psychotic disorder with delusions caused by stimulant
+SNOMED CT,762328006,Mood disorder caused by stimulant
+SNOMED CT,762329003,Mood disorder with depressive symptoms caused by stimulant
+SNOMED CT,762330008,Mood disorder with mixed depressive and manic symptoms caused by stimulant
+SNOMED CT,762335003,Mood disorder with manic symptoms caused by hallucinogen
+SNOMED CT,762336002,Mood disorder with depressive symptoms caused by hallucinogen
+SNOMED CT,762337006,Mood disorder with mixed depressive and manic symptoms caused by hallucinogen
+SNOMED CT,762338001,Mood disorder with manic symptoms caused by volatile inhalant
+SNOMED CT,762339009,Mood disorder with depressive symptoms caused by volatile inhalant
+SNOMED CT,762340006,Mood disorder with mixed depressive and manic symptoms caused by volatile inhalant
+SNOMED CT,762344002,Mood disorder with manic symptoms caused by dissociative drug
+SNOMED CT,762345001,Mood disorder with depressive symptoms caused by dissociative drug
+SNOMED CT,762346000,Mood disorder with mixed depressive and manic symptoms caused by dissociative drug
+SNOMED CT,762507003,Psychotic disorder caused by synthetic cathinone
+SNOMED CT,762508008,Psychotic disorder with hallucinations caused by synthetic cathinone
+SNOMED CT,762509000,Psychotic disorder with delusions caused by synthetic cathinone
+SNOMED CT,762510005,Psychotic disorder with schizophreniform symptoms caused by synthetic cathinone
+SNOMED CT,762511009,Mood disorder caused by synthetic cathinone
+SNOMED CT,762512002,Mood disorder with depressive symptoms caused by synthetic cathinone
+SNOMED CT,762513007,Mood disorder with manic symptoms caused by synthetic cathinone
+SNOMED CT,762514001,Mood disorder with mixed depressive and manic symptoms caused by synthetic cathinone
+SNOMED CT,765176007,Psychosis and severe depression co-occurrent and due to bipolar affective disorder
+SNOMED CT,767631007,"Bipolar disorder, most recent episode depression"
+SNOMED CT,767632000,"Bipolar disorder, most recent episode manic"
+SNOMED CT,767633005,"Bipolar affective disorder, most recent episode mixed"
+SNOMED CT,767635003,"Bipolar I disorder, most recent episode manic"
+SNOMED CT,767636002,"Bipolar I disorder, most recent episode depression"
+SNOMED CT,162313000,Morbid jealousy
+SNOMED CT,162722001,O/E - depressed
+SNOMED CT,191447007,Organic psychotic condition
+SNOMED CT,191475009,Chronic alcoholic brain syndrome
+SNOMED CT,191478006,Alcoholic paranoia
+SNOMED CT,191483003,Psychotic disorder caused by drug
+SNOMED CT,191484009,Drug-induced paranoia or hallucinatory states
+SNOMED CT,191485005,Paranoid state caused by drug
+SNOMED CT,191486006,Hallucinosis caused by drug
+SNOMED CT,191494004,Amnestic disorder caused by drug
+SNOMED CT,191495003,Depressive disorder caused by drug
+SNOMED CT,191499009,Transient organic psychoses
+SNOMED CT,191525009,Non-organic psychosis
+SNOMED CT,191526005,Schizophrenic disorders
+SNOMED CT,191527001,Simple schizophrenia
+SNOMED CT,191531007,Acute exacerbation of chronic schizophrenia
+SNOMED CT,191542003,Catatonic schizophrenia
+SNOMED CT,191547009,Acute exacerbation of subchronic catatonic schizophrenia
+SNOMED CT,191548004,Acute exacerbation of chronic catatonic schizophrenia
+SNOMED CT,191554003,Acute exacerbation of subchronic paranoid schizophrenia
+SNOMED CT,191555002,Acute exacerbation of chronic paranoid schizophrenia
+SNOMED CT,191559008,Latent schizophrenia
+SNOMED CT,191561004,Subchronic latent schizophrenia
+SNOMED CT,191562006,Chronic latent schizophrenia
+SNOMED CT,191563001,Acute exacerbation of subchronic latent schizophrenia
+SNOMED CT,191564007,Acute exacerbation of chronic latent schizophrenia
+SNOMED CT,191565008,Latent schizophrenia in remission
+SNOMED CT,191567000,Schizoaffective schizophrenia
+SNOMED CT,191569002,Subchronic schizoaffective schizophrenia
+SNOMED CT,191570001,Chronic schizoaffective schizophrenia
+SNOMED CT,191571002,Acute exacerbation of subchronic schizoaffective schizophrenia
+SNOMED CT,191572009,Acute exacerbation of chronic schizoaffective schizophrenia
+SNOMED CT,191574005,Schizoaffective schizophrenia in remission
+SNOMED CT,191577003,Cenesthopathic schizophrenia
+SNOMED CT,191583000,"Single manic episode, mild"
+SNOMED CT,191584006,"Single manic episode, moderate"
+SNOMED CT,191586008,"Single manic episode, severe, with psychosis"
+SNOMED CT,191588009,Single manic episode in full remission
+SNOMED CT,191590005,Recurrent manic episodes
+SNOMED CT,191592002,"Recurrent manic episodes, mild"
+SNOMED CT,191593007,"Recurrent manic episodes, moderate"
+SNOMED CT,191595000,"Recurrent manic episodes, severe, with psychosis"
+SNOMED CT,191597008,"Recurrent manic episodes, in full remission"
+SNOMED CT,191604000,"Single major depressive episode, severe, with psychosis"
+SNOMED CT,191610000,"Recurrent major depressive episodes, mild"
+SNOMED CT,191611001,"Recurrent major depressive episodes, moderate"
+SNOMED CT,191613003,"Recurrent major depressive episodes, severe, with psychosis"
+SNOMED CT,191616006,Recurrent depression
+SNOMED CT,191618007,"Bipolar affective disorder, current episode manic"
+SNOMED CT,191620005,"Bipolar affective disorder, currently manic, mild"
+SNOMED CT,191621009,"Bipolar affective disorder, currently manic, moderate"
+SNOMED CT,191623007,"Bipolar affective disorder, currently manic, severe, with psychosis"
+SNOMED CT,191625000,"Bipolar affective disorder, currently manic, in full remission"
+SNOMED CT,191627008,"Bipolar affective disorder, current episode depression"
+SNOMED CT,191629006,"Bipolar affective disorder, currently depressed, mild"
+SNOMED CT,191630001,"Bipolar affective disorder, currently depressed, moderate"
+SNOMED CT,191634005,"Bipolar affective disorder, currently depressed, in full remission"
+SNOMED CT,191636007,Mixed bipolar affective disorder
+SNOMED CT,191638008,"Mixed bipolar affective disorder, mild"
+SNOMED CT,191639000,"Mixed bipolar affective disorder, moderate"
+SNOMED CT,191641004,"Mixed bipolar affective disorder, severe, with psychosis"
+SNOMED CT,191643001,"Mixed bipolar affective disorder, in full remission"
+SNOMED CT,191658009,Atypical manic disorder
+SNOMED CT,191659001,Atypical depressive disorder
+SNOMED CT,191667009,Paranoid disorder
+SNOMED CT,191668004,Simple paranoid state
+SNOMED CT,191670008,Shared paranoid disorder
+SNOMED CT,191672000,Paranoia querulans
+SNOMED CT,191676002,Reactive depressive psychosis
+SNOMED CT,191678001,Reactive confusion
+SNOMED CT,191680007,Psychogenic paranoid psychosis
+SNOMED CT,192079006,Postviral depression
+SNOMED CT,192080009,Chronic depression
+SNOMED CT,192362008,"Bipolar affective disorder, current episode mixed"
+SNOMED CT,307417003,Cycloid psychosis
+SNOMED CT,310495003,Mild depression
+SNOMED CT,310496002,Moderate depression
+SNOMED CT,310497006,Severe depression
+SNOMED CT,319768000,Recurrent major depressive disorder with melancholic features
+SNOMED CT,320751009,"Major depression, melancholic type"
+SNOMED CT,321717001,Involutional depression
+SNOMED CT,370143000,Major depressive disorder
+SNOMED CT,371024007,Senile dementia with delusion
+SNOMED CT,371026009,Senile dementia with psychosis
+SNOMED CT,371599001,Severe bipolar I disorder
+SNOMED CT,371600003,Severe bipolar disorder
+SNOMED CT,371604007,Severe bipolar II disorder
+SNOMED CT,231437006,Reactive psychoses
+SNOMED CT,231438001,Presbyophrenic psychosis
+SNOMED CT,231443008,Right hemispheric organic affective disorder
+SNOMED CT,231444002,Organic bipolar disorder
+SNOMED CT,231446000,Organic emotionally labile disorder
+SNOMED CT,231449007,Epileptic psychosis
+SNOMED CT,231450007,Psychosis associated with intensive care
+SNOMED CT,231451006,Drug-induced intensive care psychosis
+SNOMED CT,231485007,Post-schizophrenic depression
+SNOMED CT,231487004,Persistent delusional disorder
+SNOMED CT,231489001,Acute transient psychotic disorder
+SNOMED CT,231494001,Mania
+SNOMED CT,231495000,Manic stupor
+SNOMED CT,231496004,Hypomania
+SNOMED CT,231499006,Endogenous depression first episode
+SNOMED CT,231500002,Masked depression
+SNOMED CT,231504006,Mixed anxiety and depressive disorder
+SNOMED CT,231542000,Depressive conduct disorder
+SNOMED CT,237349002,Mild postnatal depression
+SNOMED CT,237350002,Severe postnatal depression
+SNOMED CT,237351003,Mild postnatal psychosis
+SNOMED CT,237352005,Severe postnatal psychosis
+SNOMED CT,238972008,Cutaneous monosymptomatic delusional psychosis
+SNOMED CT,238973003,Delusions of parasitosis
+SNOMED CT,238974009,Delusions of infestation
+SNOMED CT,238975005,Delusion of foul odor
+SNOMED CT,238977002,Delusional hyperhidrosis
+SNOMED CT,238978007,Hyperschemazia
+SNOMED CT,238979004,Hyposchemazia
+SNOMED CT,247803002,Seasonal affective disorder
+SNOMED CT,247804008,Schizophrenic prodrome
+SNOMED CT,35218008,Chronic disorganized schizophrenia with acute exacerbation
+SNOMED CT,35252006,Disorganized schizophrenia
+SNOMED CT,35481005,Mixed bipolar I disorder in remission
+SNOMED CT,35722002,"Severe bipolar II disorder, most recent episode major depressive, in remission"
+SNOMED CT,35846004,"Moderate bipolar II disorder, most recent episode major depressive"
+SNOMED CT,36158005,Schizophreniform disorder with good prognostic features
+SNOMED CT,36170009,Secondary dysthymia late onset
+SNOMED CT,36474008,Severe recurrent major depression without psychotic features
+SNOMED CT,36583000,Mixed bipolar I disorder in partial remission
+SNOMED CT,36622002,Mild mood disorder
+SNOMED CT,37331004,Organic mood disorder caused by psychoactive substance
+SNOMED CT,37739004,Mood disorder due to a general medical condition
+SNOMED CT,38295006,Involutional paraphrenia
+SNOMED CT,38368003,"Schizoaffective disorder, bipolar type"
+SNOMED CT,38451003,Primary dysthymia early onset
+SNOMED CT,38547003,Mood disorder in full remission
+SNOMED CT,38694004,Recurrent major depressive disorder with atypical features
+SNOMED CT,39610001,Undifferentiated schizophrenia in remission
+SNOMED CT,39809009,Recurrent major depressive disorder with catatonic features
+SNOMED CT,40379007,Mild recurrent major depression
+SNOMED CT,40568001,Recurrent brief depressive disorder
+SNOMED CT,40926005,Moderate mixed bipolar I disorder
+SNOMED CT,41552001,"Mild bipolar I disorder, single manic episode"
+SNOMED CT,41832009,"Severe bipolar I disorder, single manic episode with psychotic features"
+SNOMED CT,41836007,Bipolar disorder in full remission
+SNOMED CT,41932008,Amok
+SNOMED CT,42344001,Psychosis caused by ingestible alcohol
+SNOMED CT,42594001,Organic mood disorder of depressed type
+SNOMED CT,42810003,Major depression in remission
+SNOMED CT,42868002,Subchronic catatonic schizophrenia
+SNOMED CT,42925002,"Major depressive disorder, single episode with atypical features"
+SNOMED CT,43568002,"Bipolar II disorder, most recent episode major depressive with atypical features"
+SNOMED CT,43769008,Mild mixed bipolar I disorder
+SNOMED CT,45479006,Manic bipolar I disorder in remission
+SNOMED CT,46229002,Severe mixed bipolar I disorder without psychotic features
+SNOMED CT,46244001,Recurrent major depression in full remission
+SNOMED CT,47447001,Grandiose delusion disorder
+SNOMED CT,47664006,"Sedative, hypnotic AND/OR anxiolytic-induced psychotic disorder with hallucinations"
+SNOMED CT,48589009,Minor depressive disorder
+SNOMED CT,48937005,"Bipolar II disorder, most recent episode hypomanic"
+SNOMED CT,49512000,Depressed bipolar I disorder in partial remission
+SNOMED CT,50722006,PCP delusional disorder
+SNOMED CT,50933003,Hallucinogen delusional disorder
+SNOMED CT,51133006,Residual schizophrenia in remission
+SNOMED CT,51637008,"Chronic bipolar I disorder, most recent episode depressed"
+SNOMED CT,53049002,Severe bipolar disorder without psychotic features
+SNOMED CT,53607008,Depressed bipolar I disorder in remission
+SNOMED CT,53936005,Mood disorder caused by ingestible alcohol
+SNOMED CT,54502004,"Primary degenerative dementia of the Alzheimer type, presenile onset, with delusions"
+SNOMED CT,54761006,"Severe depressed bipolar I disorder with psychotic features, mood-congruent"
+SNOMED CT,55516002,"Bipolar I disorder, most recent episode manic with postpartum onset"
+SNOMED CT,55736003,Schizophreniform disorder without good prognostic features
+SNOMED CT,58329000,Organic mood disorder of manic type
+SNOMED CT,58647003,"Severe mood disorder with psychotic features, mood-congruent"
+SNOMED CT,58703003,Postpartum depression
+SNOMED CT,59617007,Severe depressed bipolar I disorder with psychotic features
+SNOMED CT,60099002,"Severe major depression with psychotic features, mood-incongruent"
+SNOMED CT,60123008,"Delusional disorder, mixed type"
+SNOMED CT,61144001,Alcohol-induced psychotic disorder with delusions
+SNOMED CT,61403008,Severe depressed bipolar I disorder without psychotic features
+SNOMED CT,63181006,Paranoid schizophrenia in remission
+SNOMED CT,63204009,Bouffée délirante
+SNOMED CT,63249007,Manic bipolar I disorder in partial remission
+SNOMED CT,63412003,Major depression in full remission
+SNOMED CT,63649001,Cannabis delusional disorder
+SNOMED CT,63778009,"Major depressive disorder, single episode with melancholic features"
+SNOMED CT,64731001,"Severe mixed bipolar I disorder with psychotic features, mood-congruent"
+SNOMED CT,64905009,Paranoid schizophrenia
+SNOMED CT,65042007,"Bipolar I disorder, most recent episode mixed with postpartum onset"
+SNOMED CT,65179007,Koro
+SNOMED CT,66631006,Moderate depressed bipolar I disorder
+SNOMED CT,67002003,"Severe bipolar II disorder, most recent episode major depressive, in partial remission"
+SNOMED CT,67711008,Primary dysthymia late onset
+SNOMED CT,68019004,Recurrent major depression in remission
+SNOMED CT,68995007,Chronic catatonic schizophrenia
+SNOMED CT,69392006,"Major depressive disorder, single episode with catatonic features"
+SNOMED CT,69482004,Korsakoff's psychosis
+SNOMED CT,70043001,"Severe mood disorder with psychotic features, mood-incongruent"
+SNOMED CT,70546001,"Severe bipolar disorder with psychotic features, mood-congruent"
+SNOMED CT,70747007,"Major depression single episode, in partial remission"
+SNOMED CT,70814008,Subchronic residual schizophrenia with acute exacerbations
+SNOMED CT,71103003,Chronic residual schizophrenia
+SNOMED CT,71294008,"Mild bipolar II disorder, most recent episode major depressive"
+SNOMED CT,71336009,Recurrent major depressive disorder with postpartum onset
+SNOMED CT,71984005,Mild manic bipolar I disorder
+SNOMED CT,73471000,"Bipolar I disorder, most recent episode mixed with catatonic features"
+SNOMED CT,73867007,Severe major depression with psychotic features
+SNOMED CT,74266001,Mood disorder in partial remission
+SNOMED CT,74686005,Mild depressed bipolar I disorder
+SNOMED CT,75084000,Severe major depression without psychotic features
+SNOMED CT,75122001,Inhalant-induced psychotic disorder with delusions
+SNOMED CT,75752004,"Bipolar I disorder, most recent episode depressed with melancholic features"
+SNOMED CT,75837004,Mood disorder with depressive features due to general medical condition
+SNOMED CT,76105009,Cyclothymia
+SNOMED CT,76441001,"Severe major depression, single episode, without psychotic features"
+SNOMED CT,76566000,Subchronic residual schizophrenia
+SNOMED CT,77475008,Jealous delusion disorder
+SNOMED CT,77486005,Mood disorder with major depressive-like episode due to general medical condition
+SNOMED CT,77911002,"Severe major depression, single episode, with psychotic features, mood-congruent"
+SNOMED CT,78640000,"Severe manic bipolar I disorder with psychotic features, mood-congruent"
+SNOMED CT,78667006,Dysthymia
+SNOMED CT,79204003,Chronic undifferentiated schizophrenia with acute exacerbations
+SNOMED CT,79298009,"Mild major depression, single episode"
+SNOMED CT,79584002,Moderate bipolar disorder
+SNOMED CT,79842004,Stuporous depression
+SNOMED CT,79866005,Subchronic paranoid schizophrenia
+SNOMED CT,403595006,Pinocchio syndrome
+SNOMED CT,408858002,Infantile psychosis
+SNOMED CT,416340002,Late onset schizophrenia
+SNOMED CT,426578000,Premenstrual dysphoric disorder in remission
+SNOMED CT,427975003,Delusional disorder caused by drug
+SNOMED CT,429672007,Mood disorder caused by drug
+SNOMED CT,430852001,"Severe major depression, single episode, with psychotic features"
+SNOMED CT,441704009,Affective psychosis
+SNOMED CT,441833000,Lethal catatonia
+SNOMED CT,442057004,Chronic depressive personality disorder
+SNOMED CT,268612007,Senile and presenile organic psychotic conditions
+SNOMED CT,268617001,Acute schizophrenic episode
+SNOMED CT,268621008,Recurrent major depressive episodes
+SNOMED CT,268622001,Chronic paranoid psychosis
+SNOMED CT,268624000,Acute paranoid reaction
+SNOMED CT,270901009,"Schizoaffective disorder, mixed type"
+SNOMED CT,271428004,"Schizoaffective disorder, manic type"
+SNOMED CT,274948002,Endogenous depression - recurrent
+SNOMED CT,274952002,Borderline schizophrenia
+SNOMED CT,274953007,Acute polymorphic psychotic disorder
+SNOMED CT,278506006,Involutional paranoid state
+SNOMED CT,278508007,Delusional dysmorphophobia
+SNOMED CT,278852008,Paranoid-hallucinatory epileptic psychosis
+SNOMED CT,278853003,Acute schizophrenia-like psychotic disorder
+SNOMED CT,279225001,Maternity blues
+SNOMED CT,280949006,Erotomania
+SNOMED CT,300706003,Endogenous depression
+SNOMED CT,301643003,"Sedative, hypnotic AND/OR anxiolytic-induced persisting amnestic disorder"
+SNOMED CT,302507002,Sedative amnestic disorder
+SNOMED CT,1204417003,Early onset schizophrenia
+SNOMED CT,1220650006,Delusion of emitting foul body odor

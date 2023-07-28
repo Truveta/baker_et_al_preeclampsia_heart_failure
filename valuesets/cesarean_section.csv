@@ -1,0 +1,17 @@
+CodeSystem,ConceptCode,ConceptName
+ICD9CM,654.2,Previous cesarean section complicating pregnancy or childbirth
+ICD10CM,O34.21,Maternal care for scar from previous cesarean delivery
+ICD10CM,O34.211,Maternal care for low transverse scar from previous cesarean delivery
+ICD10CM,O34.212,Maternal care for vertical scar from previous cesarean delivery
+ICD10CM,O34.219,Maternal care for unspecified type scar from previous cesarean delivery
+ICD10CM,O34.218,Maternal care for other type scar from previous cesarean delivery
+SNOMED CT,38451000119105,Failed attempted vaginal birth after previous cesarean section
+SNOMED CT,74961000119106,Supervision of high risk pregnancy with history of previous cesarean section done
+SNOMED CT,702736005,Supervision of high risk pregnancy with history of previous cesarean section
+SNOMED CT,706890009,Vaginal birth after previous cesarean section declined
+SNOMED CT,161805006,H/O: cesarean section
+SNOMED CT,200151008,Cesarean section following previous cesarean section
+SNOMED CT,237297004,Placenta adherent to previous uterine scar
+SNOMED CT,302254004,Delivered by cesarean delivery following previous cesarean delivery
+SNOMED CT,725949007,History of elective cesarean section
+SNOMED CT,725951006,History of emergency cesarean section

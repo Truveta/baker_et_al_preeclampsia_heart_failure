@@ -1,0 +1,313 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,D50,Iron deficiency anemia
+ICD10CM,D55,Anemia due to enzyme disorders
+ICD10CM,D56,Thalassemia
+ICD10CM,D57.1,Sickle-cell disease without crisis
+ICD10CM,D57.20,Sickle-cell/Hb-C disease without crisis
+ICD10CM,D57.3,Sickle-cell trait
+ICD10CM,D57.40,Sickle-cell thalassemia without crisis
+ICD10CM,D57.80,Other sickle-cell disorders without crisis
+ICD10CM,D58,Other hereditary hemolytic anemias
+ICD10CM,D59,Acquired hemolytic anemia
+ICD10CM,O99.01,Anemia complicating pregnancy
+ICD10CM,O99.02,Anemia complicating childbirth
+ICD10CM,D55.29,Anemia due to other disorders of glycolytic enzymes
+ICD10CM,D55.21,Anemia due to pyruvate kinase deficiency
+ICD10CM,D50.0,Iron deficiency anemia secondary to blood loss (chronic)
+ICD10CM,D50.1,Sideropenic dysphagia
+ICD10CM,D50.8,Other iron deficiency anemias
+ICD10CM,D50.9,"Iron deficiency anemia, unspecified"
+ICD10CM,D55.0,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency
+ICD10CM,D55.1,Anemia due to other disorders of glutathione metabolism
+ICD10CM,D55.2,Anemia due to disorders of glycolytic enzymes
+ICD10CM,D55.3,Anemia due to disorders of nucleotide metabolism
+ICD10CM,D55.8,Other anemias due to enzyme disorders
+ICD10CM,D55.9,"Anemia due to enzyme disorder, unspecified"
+ICD10CM,D56.0,Alpha thalassemia
+ICD10CM,D56.1,Beta thalassemia
+ICD10CM,D56.2,Delta-beta thalassemia
+ICD10CM,D56.3,Thalassemia minor
+ICD10CM,D56.4,Hereditary persistence of fetal hemoglobin [HPFH]
+ICD10CM,D56.5,Hemoglobin E-beta thalassemia
+ICD10CM,D56.8,Other thalassemias
+ICD10CM,D56.9,"Thalassemia, unspecified"
+ICD10CM,D58.0,Hereditary spherocytosis
+ICD10CM,D58.1,Hereditary elliptocytosis
+ICD10CM,D58.2,Other hemoglobinopathies
+ICD10CM,D58.8,Other specified hereditary hemolytic anemias
+ICD10CM,D58.9,"Hereditary hemolytic anemia, unspecified"
+ICD10CM,D59.0,Drug-induced autoimmune hemolytic anemia
+ICD10CM,D59.1,Other autoimmune hemolytic anemias
+ICD10CM,D59.2,Drug-induced nonautoimmune hemolytic anemia
+ICD10CM,D59.3,Hemolytic-uremic syndrome
+ICD10CM,D59.4,Other nonautoimmune hemolytic anemias
+ICD10CM,D59.5,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli]
+ICD10CM,D59.6,Hemoglobinuria due to hemolysis from other external causes
+ICD10CM,D59.8,Other acquired hemolytic anemias
+ICD10CM,D59.9,"Acquired hemolytic anemia, unspecified"
+ICD10CM,O99.011,"Anemia complicating pregnancy, first trimester"
+ICD10CM,O99.012,"Anemia complicating pregnancy, second trimester"
+ICD10CM,O99.013,"Anemia complicating pregnancy, third trimester"
+ICD10CM,O99.019,"Anemia complicating pregnancy, unspecified trimester"
+ICD10CM,D59.10,"Autoimmune hemolytic anemia, unspecified"
+ICD10CM,D59.11,Warm autoimmune hemolytic anemia
+ICD10CM,D59.12,Cold autoimmune hemolytic anemia
+ICD10CM,D59.13,Mixed type autoimmune hemolytic anemia
+ICD10CM,D59.19,Other autoimmune hemolytic anemia
+SNOMED CT,4854004,Acquired hemolytic anemia
+SNOMED CT,16402000,Sickle cell trait
+SNOMED CT,27342004,Anemia of pregnancy
+SNOMED CT,87522002,Iron deficiency anemia
+SNOMED CT,111577008,Anemia due to enzyme deficiency
+SNOMED CT,10741751000119100,Anemia in mother complicating childbirth
+SNOMED CT,38911009,Hereditary hemolytic anemia
+SNOMED CT,40108008,Thalassemia
+SNOMED CT,416180004,Hemoglobin SS disease without crisis
+SNOMED CT,417048006,Sickle cell-thalassemia disease without crisis
+SNOMED CT,417683006,Sickle cell-hemoglobin C disease without crisis
+SNOMED CT,934007,Thalassemia intermedia
+SNOMED CT,3978000,Warm autoimmune hemolytic anemia
+SNOMED CT,4939006,Hemolytic anemia due to nonlymphoid neoplasm
+SNOMED CT,5300004,Hemoglobin Bart's hydrops syndrome
+SNOMED CT,5315003,Hemolytic anemia due to erythrocyte adenosine deaminase overproduction
+SNOMED CT,5994005,Hereditary elliptocytosis due to deficiency of protein 4.1
+SNOMED CT,6398009,Idiopathic chronic cold agglutinin disease
+SNOMED CT,8857001,Hereditary elliptocytosis due to alpha spectrin defect
+SNOMED CT,10564005,Severe hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin
+SNOMED CT,11781007,Autoimmune hemolytic anemia due to complement
+SNOMED CT,13172003,Chronic idiopathic thrombocytopenic purpura
+SNOMED CT,15121005,Hereditary elliptocytosis due to glycophorin C deficiency
+SNOMED CT,15276008,Drug-induced enzyme deficiency anemia
+SNOMED CT,16360009,Delta beta thalassemia
+SNOMED CT,16427007,Delta thalassemia
+SNOMED CT,16964007,Hereditary persistence of fetal hemoglobin thalassemia
+SNOMED CT,18323000,"Drug-induced immune hemolytic anemia, immune complex type"
+SNOMED CT,19442009,Heterozygous thalassemia
+SNOMED CT,22098000,Chronic idiopathic autoimmune hemolytic anemia
+SNOMED CT,23371004,Epsilon gamma delta beta thalassemia
+SNOMED CT,24975009,Mild hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin
+SNOMED CT,25251008,HNSHA due to gamma glutamyl cysteine synthetase deficiency
+SNOMED CT,25266006,Hereditary spherocytosis due to spectrin deficiency
+SNOMED CT,26682008,Homozygous beta thalassemia
+SNOMED CT,29177004,Anemia due to pentose phosphate pathway defect
+SNOMED CT,32648007,Mild hereditary spherocytosis due to spectrin deficiency
+SNOMED CT,32855007,HPFH unlinked to beta-globulin gene cluster
+SNOMED CT,33183004,Post infectious thrombocytopenic purpura
+SNOMED CT,33905008,Hereditary spherocytosis due to deficiency of protein 4.2
+SNOMED CT,34194007,HNSHA due to pyrimidine-5'-nucleotidase deficiency
+SNOMED CT,81711008,Hemolytic anemia due to drugs
+SNOMED CT,84188003,Thalassemia syndrome
+SNOMED CT,85557000,HPFH deletion type
+SNOMED CT,86225009,Hapten type high affinity hemolytic anemia
+SNOMED CT,86715000,Beta zero thalassemia
+SNOMED CT,89459006,HPFH linked to beta-globulin gene cluster
+SNOMED CT,89810003,^A^gamma delta beta^0^ thalassemia
+SNOMED CT,91217009,Megaloblastic anemia due to pregnancy
+SNOMED CT,111469006,"Hemolytic disease of the newborn due to non-ABO, non-Rh isoimmunization"
+SNOMED CT,111578003,HNSHA due to aldolase A deficiency
+SNOMED CT,111579006,HNSHA due to glutathione synthetase deficiency
+SNOMED CT,127041004,Sickle cell-beta-thalassemia
+SNOMED CT,127042006,Sickle cell beta plus thalassemia
+SNOMED CT,127043001,Sickle cell-beta^0^-thalassemia
+SNOMED CT,127044007,Sickle cell-delta beta^0^-thalassemia
+SNOMED CT,127045008,Sickle cell anemia with coexistent alpha-thalassemia
+SNOMED CT,127046009,Sickle cell trait with coexistent alpha-thalassemia
+SNOMED CT,127049002,Primary (idiopathic) autoimmune hemolytic anemia
+SNOMED CT,127050002,Secondary autoimmune hemolytic anemia
+SNOMED CT,127052005,Secondary warm autoimmune hemolytic anemia
+SNOMED CT,127053000,Post-infectious cold agglutinin disease
+SNOMED CT,127055007,Chronic cold agglutinin disease
+SNOMED CT,127056008,Chronic cold agglutinin disease associated with B-cell neoplasm
+SNOMED CT,127057004,Paroxysmal cold hemoglobinuria
+SNOMED CT,127058009,Paroxysmal cold hemoglobinuria associated with tertiary syphilis
+SNOMED CT,127060006,"Drug-induced immune hemolytic anemia, hapten type"
+SNOMED CT,127061005,"Autoimmune hemolytic anemia, categorized by antibody class AND/OR complement"
+SNOMED CT,127319005,Anemia due to alloimmune destruction of transfused red cells
+SNOMED CT,1142030006,Nutritional anemia of pregnancy
+SNOMED CT,1142062009,Macrocytic anemia of pregnancy
+SNOMED CT,1142083003,Hemolytic anemia of pregnancy
+SNOMED CT,1148853004,Post gastrectomy iron deficiency anemia
+SNOMED CT,1148855006,Iron deficiency anemia due to increased requirement in adolescence
+SNOMED CT,1148856007,Iron deficiency anemia due to increased requirement in infancy
+SNOMED CT,1148861009,Iron deficiency anemia due to celiac disease
+SNOMED CT,1148880006,Drug-induced non autoimmune hemolytic anemia
+SNOMED CT,1148893001,Hemolytic anemia due to glyceraldehyde-3-phosphate dehydrogenase deficiency
+SNOMED CT,1148895008,Hemolytic anemia due to red cell enolase deficiency
+SNOMED CT,1148897000,Hemoglobin Paksé disease
+SNOMED CT,1148899002,Hemoglobin Seal Rock disease
+SNOMED CT,1153358006,Lymphocyte passenger syndrome following organ transplantation
+SNOMED CT,1153399000,Homozygous hereditary elliptocytosis
+SNOMED CT,1153403009,Hereditary iron deficiency anemia
+SNOMED CT,788944005,Gamma delta beta thalassemia
+SNOMED CT,863953007,Primaquine sensitivity anemia
+SNOMED CT,72321000119107,Sickle cell trait in mother complicating pregnancy
+SNOMED CT,72331000119105,Thalassemia in mother complicating pregnancy
+SNOMED CT,119641000119103,Homozygous hemoglobin H constant spring thalassemia
+SNOMED CT,119691000119106,Hemoglobin C/beta thalassemia disease
+SNOMED CT,119701000119106,Hemoglobin D/beta thalassemia disease
+SNOMED CT,350601000119109,Hemolytic disease of newborn co-occurrent and due to ABO immunization
+SNOMED CT,10759401000119105,Sickle cell trait in mother complicating childbirth
+SNOMED CT,10806241000119108,Thalassemia in mother complicating childbirth
+SNOMED CT,10812081000119108,Iron deficiency anemia in mother complicating childbirth
+SNOMED CT,5603006,Autoimmune hemolytic anemia caused by immunoglobulin G
+SNOMED CT,5967006,A>gamma< beta^+^ HPFH AND beta^0^ thalassaemia in cis
+SNOMED CT,15326009,"beta^+^ Thalassaemia, normal Hb A>2<, type 2"
+SNOMED CT,22933009,G-6-PD class I variant anaemia
+SNOMED CT,24661004,Glucose-6-phosphate dehydrogenase deficiency class III variant anemia
+SNOMED CT,27080008,Beta zero thalassemia deletion type
+SNOMED CT,28147001,Hemolytic anemia caused by Clostridium welchii
+SNOMED CT,32858009,ABO HDN - ABO hemolytic disease of the newborn
+SNOMED CT,33491002,Autoimmune hemolytic anemia caused by IgA plus complement
+SNOMED CT,34852006,Glucose-6-phosphate dehydrogenase deficiency class II variant anemia
+SNOMED CT,39586009,HPFH A gamma beta^+^ thalassaemia
+SNOMED CT,47084006,Beta plus thalassemia normal hemoglobin A>2< type 1 silent
+SNOMED CT,56205004,"Hereditary persistence of fetal hemoglobin, nondeletion type"
+SNOMED CT,62609001,Autoimmune hemolytic anemia caused by IgG plus complement
+SNOMED CT,69216008,Hb Lepore thalassaemia
+SNOMED CT,71832003,Autoimmune hemolytic anemia caused by immunoglobulin M
+SNOMED CT,73190000,Epsilon gamma delta beta^0^ thalassemia
+SNOMED CT,76366001,Hemolytic anemia caused by Bartonella
+SNOMED CT,80126007,Sideropenic dysphagia
+SNOMED CT,80963002,Glucose-6-phosphate dehydrogenase deficiency class V variant anemia
+SNOMED CT,82003006,Glucose-6-phosphate dehydrogenase deficiency class IV variant anemia
+SNOMED CT,85422000,Alpha plus thalassemia non deletion type
+SNOMED CT,86242003,Alpha plus thalassemia deletion type
+SNOMED CT,86859003,G-6-PD variant enzyme deficiency anaemia
+SNOMED CT,86986002,Hemolytic disease due to rhesus isoimmunization
+SNOMED CT,91411007,Autoimmune hemolytic anemia caused by IgA
+SNOMED CT,111572002,Beta zero thalassemia non deletion type
+SNOMED CT,127054006,Cold agglutinin disease caused by Epstein-Barr virus infection
+SNOMED CT,240453002,Carrion's disease
+SNOMED CT,387705004,Erythroblastosis fetalis
+SNOMED CT,421851008,Acquired hemolytic anemia associated with acquired immunodeficiency syndrome
+SNOMED CT,447117006,Hemoglobin H constant spring thalassemia
+SNOMED CT,713533000,Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection
+SNOMED CT,715342005,Alpha thalassaemia X-linked intellectual disability syndrome
+SNOMED CT,716682000,Dominant beta-thalassemia
+SNOMED CT,717948004,Acquired iron deficiency anemia due to increased iron requirement
+SNOMED CT,718196002,Beta thalassemia X-linked thrombocytopenia syndrome
+SNOMED CT,718716008,Autoimmune hemolytic anemia mixed type
+SNOMED CT,719402008,Lethal hemolytic anemia and genital anomaly syndrome
+SNOMED CT,720982007,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome"
+SNOMED CT,722005000,Iron-refractory iron deficiency anemia
+SNOMED CT,724556004,Iron deficiency anemia due to blood loss
+SNOMED CT,724557008,Acquired iron deficiency anemia due to decreased absorption
+SNOMED CT,725057008,Nonspherocytic hemolytic anemia due to deficiency of adenosinetriphosphatase
+SNOMED CT,732960002,Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,732962005,Secondary autoimmune hemolytic anemia co-occurrent and due to chronic inflammatory disease
+SNOMED CT,732963000,Secondary autoimmune hemolytic anemia co-occurrent and due to lymphoproliferative disorder
+SNOMED CT,732965007,Secondary autoimmune hemolytic anemia co-occurrent and due to rheumatic disorder
+SNOMED CT,732966008,Secondary autoimmune hemolytic anemia co-occurrent and due to ulcerative colitis
+SNOMED CT,734349003,Alpha-thalassemia intellectual disability syndrome linked to chromosome 16
+SNOMED CT,766982000,Hemolytic anemia due to adenylate kinase deficiency
+SNOMED CT,774083009,Neonatal autoimmune hemolytic anemia
+SNOMED CT,191128004,Iron deficiency anemia due to dietary causes
+SNOMED CT,191169008,Hereditary elliptocytosis
+SNOMED CT,191170009,Hemolytic anemia due to glutathione metabolism disorder
+SNOMED CT,191178002,Hemolytic anemia due to pyruvate kinase deficiency
+SNOMED CT,191179005,Hemolytic anemia due to triose phosphate isomerase deficiency
+SNOMED CT,191187006,Alpha trait thalassemia
+SNOMED CT,191189009,Beta thalassemia intermedia
+SNOMED CT,191210005,Primary cold-type hemolytic anemia
+SNOMED CT,191211009,Primary warm-type hemolytic anemia
+SNOMED CT,191212002,Secondary cold-type hemolytic anemia
+SNOMED CT,191213007,Secondary warm-type hemolytic anemia
+SNOMED CT,191216004,Non-autoimmune hemolytic anemia
+SNOMED CT,191217008,Mechanical hemolytic anemia
+SNOMED CT,191218003,Toxic hemolytic anemia
+SNOMED CT,191222008,Hemoglobinuria due to hemolysis from external causes
+SNOMED CT,191228007,Acquired spherocytosis
+SNOMED CT,191229004,Infantile pyknocytosis
+SNOMED CT,199248002,Iron deficiency anemia of pregnancy
+SNOMED CT,307333004,Rhesus isoimmunization due to anti-D
+SNOMED CT,307334005,Rhesus isoimmunization due to anti-c
+SNOMED CT,307335006,Rhesus isoimmunization due to anti-E
+SNOMED CT,307336007,Rhesus isoimmunization due to anti-Cw
+SNOMED CT,307337003,Duffy isoimmunization of the newborn
+SNOMED CT,307338008,Kidd isoimmunization of the newborn
+SNOMED CT,307343001,Acquired hemoglobin H disease
+SNOMED CT,309742004,Drug-induced autoimmune hemolytic anemia
+SNOMED CT,363041004,Congenital nonspherocytic hemolytic anemia due to inborn error of metabolism
+SNOMED CT,371315009,Iron deficiency anemia secondary to inadequate dietary iron intake
+SNOMED CT,373420004,Congenital ADAMTS-13 deficiency
+SNOMED CT,234380002,Kell isoimmunization of the newborn
+SNOMED CT,234381003,Maternal autoimmune hemolytic anemia
+SNOMED CT,234383000,Homozygous alpha thalassemia
+SNOMED CT,234385007,Alpha thalassemia-2 trait
+SNOMED CT,234386008,Hemoglobin Constant Spring trait
+SNOMED CT,234387004,Hemoglobin Lepore trait
+SNOMED CT,234388009,Delta-beta-Lepore thalassemia
+SNOMED CT,234389001,Alpha-beta thalassemia
+SNOMED CT,234390005,Gamma thalassemia
+SNOMED CT,234392002,Haemoglobin E/beta thalassaemia disease
+SNOMED CT,234410008,Hereditary elliptocytosis with transient poikilocytosis
+SNOMED CT,35703006,Post-viral paroxysmal cold hemoglobinuria
+SNOMED CT,36467003,Alpha plus thalassemia
+SNOMED CT,36472007,Sickle cell-thalassemia disease
+SNOMED CT,36568005,Hemolytic uremic syndrome of childhood
+SNOMED CT,38689004,Hemolytic anemia due to infection
+SNOMED CT,41387000,HNSHA due to phosphofructokinase deficiency
+SNOMED CT,42484009,HNSHA due to hexokinase deficiency
+SNOMED CT,44206008,Hapten type low affinity hemolytic anemia
+SNOMED CT,44641000,HNSHA due to triosephosphate isomerase deficiency
+SNOMED CT,47047009,Thalassemia with other hemoglobinopathy
+SNOMED CT,47516005,Hereditary spherocytosis due to combined deficiency of spectrin AND ankyrin
+SNOMED CT,47526003,HNSHA due to NADH diaphorase deficiency
+SNOMED CT,48553001,Hemoglobin H disease
+SNOMED CT,50253007,Secondary paroxysmal cold hemoglobinuria
+SNOMED CT,52212006,HNSHA due to glutathione reductase deficiency
+SNOMED CT,52413004,HNSHA due to glucose phosphate isomerase deficiency
+SNOMED CT,54006005,Hereditary persistence of fetal hemoglobin delta beta plus thalassemia
+SNOMED CT,55995005,Hereditary spherocytosis
+SNOMED CT,59644002,HNSHA due to phosphoglycerate kinase deficiency
+SNOMED CT,61395005,Hereditary persistence of fetal hemoglobin G gamma beta plus thalassemia
+SNOMED CT,61777009,Thalassemia-hemoglobin C disease
+SNOMED CT,62074008,Delta zero thalassemia
+SNOMED CT,62268000,HNSHA due to diphosphoglycerate mutase deficiency
+SNOMED CT,62403005,Glucose-6-phosphate dehydrogenase deficiency anemia
+SNOMED CT,62871001,Idiopathic paroxysmal cold hemoglobinuria
+SNOMED CT,65959000,Beta thalassemia
+SNOMED CT,66055002,Alpha zero thalassemia
+SNOMED CT,66262001,Hereditary elliptocytosis due to beta spectrin-ankyrin interaction
+SNOMED CT,68361004,Late anemia due to isoimmunization
+SNOMED CT,68913001,Alpha thalassemia
+SNOMED CT,69981004,Hereditary spherocytosis due to beta spectrin defect
+SNOMED CT,73073009,Hereditary elliptocytosis due to beta spectrin defect in self-association
+SNOMED CT,73162004,Posttransfusion purpura
+SNOMED CT,74703006,HNSHA (hereditary nonspherocytic hemolytic anemia) due to pyruvate kinase deficiency
+SNOMED CT,75331009,Evans syndrome
+SNOMED CT,75443009,Hereditary elliptocytosis due to abnormal protein 4.1
+SNOMED CT,75451007,Thalassemia major
+SNOMED CT,76336008,Delta beta zero thalassemia
+SNOMED CT,77413008,Severe hereditary spherocytosis due to spectrin deficiency
+SNOMED CT,77663007,Hemolytic anemia due to malaria
+SNOMED CT,78129009,Thrombotic thrombocytopenic purpura
+SNOMED CT,78908001,HNSHA due to decreased adenosine deaminase activity
+SNOMED CT,79592006,Beta plus thalassemia
+SNOMED CT,398937006,Cold autoimmune hemolytic anemia
+SNOMED CT,402653004,Thrombocytopenic purpura due to defective platelet production
+SNOMED CT,402654005,Thrombocytopenic purpura due to platelet consumption
+SNOMED CT,413603009,Autoimmune hemolytic anemia
+SNOMED CT,416826005,Sickle cell-thalassemia disease with crisis
+SNOMED CT,417626001,Thrombocytopenic purpura associated with metabolic disorder
+SNOMED CT,438476003,Autoimmune thrombotic thrombocytopenic purpura
+SNOMED CT,439007008,Acquired thrombotic thrombocytopenic purpura
+SNOMED CT,441322009,Drug induced thrombotic thrombocytopenic purpura
+SNOMED CT,269175006,Beta thalassemia trait
+SNOMED CT,273985002,Anemia due to isoimmunization
+SNOMED CT,276580005,Atypical isoimmunization of newborn
+SNOMED CT,290246007,Sideropenic anemia with reticuloendothelial siderosis
+SNOMED CT,301317008,Hereditary nonspherocytic hemolytic anemia
+SNOMED CT,302873008,Thrombocytopenic purpura
+SNOMED CT,350611000119107,Hemolytic disease of fetus due to ABO immunization
+ICD9CM,280,Iron deficiency anemias
+ICD9CM,282,Hereditary hemolytic anemias
+ICD9CM,282.3,Other hemolytic anemias due to enzyme deficiency
+ICD9CM,282.4,Thalassemias
+ICD9CM,282.41,Sickle-cell thalassemia without crisis
+ICD9CM,282.5,Sickle-cell trait
+ICD9CM,282.61,Hb-SS disease without crisis
+ICD9CM,282.63,Sickle-cell/Hb-C disease without crisis
+ICD9CM,282.68,Other sickle-cell disease without crisis
+ICD9CM,283,Acquired hemolytic anemias
+ICD9CM,648.24,"Anemia of mother, postpartum condition or complication"

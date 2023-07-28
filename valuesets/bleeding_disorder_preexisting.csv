@@ -1,0 +1,427 @@
+CodeSystem,ConceptCode,ConceptName
+ICD9CM,286.0,Congenital factor VIII disorder
+ICD9CM,286.1,Congenital factor IX disorder
+ICD9CM,286.2,Congenital factor XI deficiency
+ICD9CM,286.3,Congenital deficiency of other clotting factors
+ICD9CM,286.4,Von Willebrand's disease
+ICD9CM,286.5,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors"
+ICD9CM,286.7,Acquired coagulation factor deficiency
+ICD9CM,286.9,Other and unspecified coagulation defects
+ICD9CM,287,Purpura and other hemorrhagic conditions
+ICD10CM,D66,Hereditary factor VIII deficiency
+ICD10CM,D67,Hereditary factor IX deficiency
+ICD10CM,D68,Other coagulation defects
+ICD10CM,D69,Purpura and other hemorrhagic conditions
+ICD10CM,D68.0,Von Willebrand's disease
+ICD10CM,D68.1,Hereditary factor XI deficiency
+ICD10CM,D68.2,Hereditary deficiency of other clotting factors
+ICD10CM,D68.3,Hemorrhagic disorder due to circulating anticoagulants
+ICD10CM,D68.31,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors"
+ICD10CM,D68.311,Acquired hemophilia
+ICD10CM,D68.312,Antiphospholipid antibody with hemorrhagic disorder
+ICD10CM,D68.318,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors"
+ICD10CM,D68.32,Hemorrhagic disorder due to extrinsic circulating anticoagulants
+ICD10CM,D68.4,Acquired coagulation factor deficiency
+ICD10CM,D68.5,Primary thrombophilia
+ICD10CM,D68.51,Activated protein C resistance
+ICD10CM,D68.52,Prothrombin gene mutation
+ICD10CM,D68.59,Other primary thrombophilia
+ICD10CM,D68.6,Other thrombophilia
+ICD10CM,D68.61,Antiphospholipid syndrome
+ICD10CM,D68.62,Lupus anticoagulant syndrome
+ICD10CM,D68.69,Other thrombophilia
+ICD10CM,D68.8,Other specified coagulation defects
+ICD10CM,D68.9,"Coagulation defect, unspecified"
+ICD10CM,D69.0,Allergic purpura
+ICD10CM,D69.1,Qualitative platelet defects
+ICD10CM,D69.2,Other nonthrombocytopenic purpura
+ICD10CM,D69.3,Immune thrombocytopenic purpura
+ICD10CM,D69.4,Other primary thrombocytopenia
+ICD10CM,D69.41,Evans syndrome
+ICD10CM,D69.42,Congenital and hereditary thrombocytopenia purpura
+ICD10CM,D69.49,Other primary thrombocytopenia
+ICD10CM,D69.5,Secondary thrombocytopenia
+ICD10CM,D69.51,Posttransfusion purpura
+ICD10CM,D69.59,Other secondary thrombocytopenia
+ICD10CM,D69.6,"Thrombocytopenia, unspecified"
+ICD10CM,D69.8,Other specified hemorrhagic conditions
+ICD10CM,D69.9,"Hemorrhagic condition, unspecified"
+SNOMED CT,4320005,Factor V deficiency
+SNOMED CT,18604004,Factor XIII deficiency disease
+SNOMED CT,19267009,Lupus anticoagulant disorder
+SNOMED CT,25904003,Acquired coagulation factor deficiency
+SNOMED CT,33297000,Hereditary factor II deficiency disease
+SNOMED CT,89729000,Factor IX inhibitor disorder
+SNOMED CT,128101008,Platelet factor V deficiency (factor V Quebec)
+SNOMED CT,128105004,von Willebrand disorder
+SNOMED CT,10749581000119100,Blood coagulation disorder complicating childbirth
+SNOMED CT,10749641000119106,Blood coagulation disorder complicating pregnancy
+SNOMED CT,28293008,Classical hemophilia
+SNOMED CT,31925001,Hereditary hypofibrinogenemia
+SNOMED CT,37193007,Stable factor deficiency
+SNOMED CT,49762007,Plasma thromboplastin antecedent deficiency
+SNOMED CT,88776002,Parahemophilia
+SNOMED CT,767712006,Factor IX deficiency
+SNOMED CT,767713001,Factor XI deficiency
+SNOMED CT,785308008,Acquired hemophilia
+SNOMED CT,161460007,H/O: coagulation defect
+SNOMED CT,191287000,Hemorrhagic disorder due to circulating anticoagulants
+SNOMED CT,234440005,Factor VIII deficiency
+SNOMED CT,234454002,Prothrombin complex deficiency
+SNOMED CT,234456000,Congenital fibrinogen abnormality
+SNOMED CT,234467004,Thrombophilia
+SNOMED CT,37350004,Hereditary factor X deficiency disease
+SNOMED CT,40855001,Hereditary factor VII deficiency disease
+SNOMED CT,43217004,Hereditary factor XII deficiency disease
+SNOMED CT,46981006,Factor XII deficiency disease
+SNOMED CT,47307007,Factor VIII inhibitor disorder
+SNOMED CT,50189006,Hereditary factor XIII deficiency disease
+SNOMED CT,55464009,Systemic lupus erythematosus
+SNOMED CT,64779008,Blood coagulation disorder
+SNOMED CT,439458000,Factor I deficiency disease
+SNOMED CT,1177171004,Hyperfibrinolysis
+SNOMED CT,1162807005,Acquired prekallikrein deficiency
+SNOMED CT,1162804003,Hereditary congenital prekallikrein deficiency
+SNOMED CT,1177197005,Antepartum hemorrhage with disseminated intravascular coagulation
+SNOMED CT,1286003,Vitamin K deficiency coagulation disorder
+SNOMED CT,1908008,"von Willebrand disease, type IIC"
+SNOMED CT,2036003,Acquired factor VII deficiency disease
+SNOMED CT,3230006,Illegal termination of pregnancy with afibrinogenemia
+SNOMED CT,3760002,"Familial multiple factor deficiency syndrome, type V"
+SNOMED CT,4676006,"SLE glomerulonephritis syndrome, WHO class II"
+SNOMED CT,6364000,Acquired factor XIII deficiency disease
+SNOMED CT,6647006,Legal termination of pregnancy with defibrination syndrome
+SNOMED CT,6935003,Familial hemorrhagic diathesis
+SNOMED CT,9489006,Factor X inhibitor disorder
+SNOMED CT,10153004,Systemic fibrinogenolysis
+SNOMED CT,10934005,Cryofibrinogenemia
+SNOMED CT,11013005,"SLE glomerulonephritis syndrome, WHO class VI"
+SNOMED CT,12501008,"von Willebrand disease, type IIF"
+SNOMED CT,13507004,Purpura fulminans
+SNOMED CT,13993001,Factor XIII inhibitor disorder
+SNOMED CT,15132005,Acquired factor XII deficiency disease
+SNOMED CT,16773005,Drug-induced coagulation inhibitor disorder
+SNOMED CT,16872008,Severe hereditary factor VIII deficiency disease
+SNOMED CT,16922007,Hereditary coagulation factor deficiency
+SNOMED CT,19307009,Drug-induced immune thrombocytopenia
+SNOMED CT,19520006,"von Willebrand disease, type IIB"
+SNOMED CT,19682006,Lupus hepatitis
+SNOMED CT,21360006,Miscarriage with afibrinogenemia
+SNOMED CT,24149006,Hemorrhagic disease of the newborn due to factor II deficiency
+SNOMED CT,24663001,"von Willebrand disease, type IIH"
+SNOMED CT,25380002,Pericarditis secondary to systemic lupus erythematosus
+SNOMED CT,26029002,Mild hereditary factor VIII deficiency disease
+SNOMED CT,26843008,Antiphospholipid syndrome
+SNOMED CT,27068000,Failed attempted termination of pregnancy with afibrinogenemia
+SNOMED CT,27312002,High molecular weight kininogen deficiency
+SNOMED CT,30182008,Thrombocytopenia due to extracorporeal circulation
+SNOMED CT,30479005,Legal termination of pregnancy with afibrinogenemia
+SNOMED CT,32605001,Transient neonatal disorder of coagulation
+SNOMED CT,33169001,"Factor XI deficiency, type II"
+SNOMED CT,33344008,Moderate hereditary factor VIII deficiency disease
+SNOMED CT,34395002,Thrombocytopenia due to hypothermia
+SNOMED CT,34417008,Disseminated intravascular coagulation in newborn
+SNOMED CT,34478009,Failed attempted termination of pregnancy with defibrination syndrome
+SNOMED CT,80988005,Mixed cryofibrinogenemia
+SNOMED CT,81783000,Familial multiple factor deficiency syndrome
+SNOMED CT,85796009,Afibrinogenemia following molar AND/OR ectopic pregnancy
+SNOMED CT,86075001,Coagulation factor deficiency syndrome
+SNOMED CT,87397002,"von Willebrand disease, type IIA"
+SNOMED CT,88540000,"Factor XI deficiency, type I"
+SNOMED CT,90935002,Hemophilia
+SNOMED CT,95623001,Neonatal coagulation disorder
+SNOMED CT,95644001,Systemic lupus erythematosus encephalitis
+SNOMED CT,95839005,Disorder involving the fibrinolytic system
+SNOMED CT,95840007,Hypoplasminogenemia
+SNOMED CT,95841006,Hereditary hypoplasminogenemia
+SNOMED CT,95842004,Autosomal dominant deficiency of plasminogen
+SNOMED CT,95843009,Acquired hypoplasminogenemia
+SNOMED CT,95844003,Dysplasminogenemia
+SNOMED CT,95845002,Hereditary dysplasminogenemia
+SNOMED CT,105604006,Deficiency of naturally occurring coagulation factor inhibitor
+SNOMED CT,111452009,Postpartum afibrinogenemia with hemorrhage
+SNOMED CT,111588002,Heparin-induced thrombocytopenia with thrombosis
+SNOMED CT,111589005,Dysfibrinogenemia
+SNOMED CT,123786007,Blood coagulation disorder with shortened coagulation time
+SNOMED CT,123787003,Blood coagulation disorder with prolonged coagulation time
+SNOMED CT,123788008,Blood coagulation disorder with shortened bleeding time
+SNOMED CT,123789000,Blood coagulation disorder with prolonged bleeding time
+SNOMED CT,123790009,Blood coagulation disorder with impaired clot retraction time
+SNOMED CT,128088003,"Blood coagulation disorder, categorized by value of screening test"
+SNOMED CT,128090002,Benign gestational thrombocytopenia
+SNOMED CT,128092005,Secondary autoimmune thrombocytopenia
+SNOMED CT,128106003,Hereditary von Willebrand disease type 1
+SNOMED CT,128107007,Hereditary von Willebrand disease type 2
+SNOMED CT,128108002,Hereditary von Willebrand disease type 3
+SNOMED CT,128113003,Hereditary von Willebrand disease type 1B
+SNOMED CT,128114009,Hereditary von Willebrand disease type 1C
+SNOMED CT,128115005,Platelet type-von Willebrand disease
+SNOMED CT,1148849001,Fibrinolytic disorder caused by urokinase
+SNOMED CT,1148857003,Fibrinolytic disorder caused by tissue plasminogen activator
+SNOMED CT,1148859000,Drug-induced fibrinolytic disorder
+SNOMED CT,1148862002,Factor X deficiency due to systemic amyloidosis
+SNOMED CT,1148929009,Vitamin K deficiency coagulation disorder due to malabsorption
+SNOMED CT,1148930004,Deficiency of coagulation factor due to vitamin K malabsorption in obstructive biliary disease
+SNOMED CT,1156746003,Vaccine-induced prothrombotic immune thrombocytopenia
+SNOMED CT,1197595004,Thrombomodulin-related bleeding disorder
+SNOMED CT,789291002,Consumption coagulopathy caused by snake venom
+SNOMED CT,860725002,Low von Willebrand factor
+SNOMED CT,39191000119103,Disseminated intravascular coagulation due to placental abruption
+SNOMED CT,72161000119100,Antiphospholipid syndrome in pregnancy
+SNOMED CT,97571000119109,Thrombocytopenia co-occurrent and due to alcoholism
+SNOMED CT,295101000119105,Nephropathy co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,295111000119108,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,295121000119101,Nephrosis co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,10854051000119101,Overdose of enoxaparin
+SNOMED CT,1563006,Protein S deficiency
+SNOMED CT,12153008,"Hemophilia B, acquired"
+SNOMED CT,12546009,Hemorrhagic diathesis of newborn
+SNOMED CT,14230004,Acquired factor VIII deficiency
+SNOMED CT,33820001,Acquired factor 10 deficiency
+SNOMED CT,36351005,AT (antithrombin) deficiency
+SNOMED CT,41788008,Christmas disease
+SNOMED CT,61551003,Factor IX AND factor XI deficiency
+SNOMED CT,65768009,Factor VIII AND factor IX deficiency
+SNOMED CT,76407009,Protein C deficiency
+SNOMED CT,76642003,Factor 10 deficiency
+SNOMED CT,84048006,Factor V AND factor VIII deficiency
+SNOMED CT,86635005,Thrombocytopenia-hemangioma syndrome
+SNOMED CT,95605009,Hemolysis-elevated liver enzymes-low platelet count syndrome
+SNOMED CT,234446004,Congenital von Willebrand disease
+SNOMED CT,234447008,Congenital von Willebrand disease type I
+SNOMED CT,234448003,Congenital von Willebrand disease type II
+SNOMED CT,234450006,Congenital von Willebrand disease type III
+SNOMED CT,234451005,Acquired von Willebrand disease
+SNOMED CT,359700009,Hereditary von Willebrand disease type 1A
+SNOMED CT,421527008,Resistance to activated protein C caused by Factor V R506Q
+SNOMED CT,421766003,Thrombocytopenia with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,609329007,Catastrophic antiphospholipid syndrome
+SNOMED CT,609456005,Induced termination of pregnancy complicated by afibrinogenemia
+SNOMED CT,609462000,Induced termination of pregnancy complicated by defibrination syndrome
+SNOMED CT,698694005,Systemic lupus erythematosus in remission
+SNOMED CT,699208000,Thrombocytopenia due to alcohol
+SNOMED CT,715559004,Combined deficiency of factor V and factor VIII
+SNOMED CT,716746003,Congenital alpha-2-antiplasmin deficiency
+SNOMED CT,717407006,Congenital plasminogen activator inhibitor deficiency type 1
+SNOMED CT,717935003,Early onset diffuse bleeding diathesis secondary to vitamin K deficient hemorrhagic disease of fetus and newborn
+SNOMED CT,717936002,Classic onset hemorrhagic disease of newborn due to vitamin K deficiency
+SNOMED CT,717937006,Late onset diffuse bleeding diathesis secondary to vitamin K deficient hemorrhagic disease of fetus and newborn
+SNOMED CT,721304007,Refractory thrombocytopenia
+SNOMED CT,724344004,Hypercoagulability syndrome due to glycosylphosphatidylinositol deficiency
+SNOMED CT,724356003,Hereditary combined deficiency of vitamin K-dependent clotting factors
+SNOMED CT,724637001,Isolated thrombocytopenia
+SNOMED CT,724767000,Chorea co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,724781003,Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,724854007,Purpura of skin and/or skin-associated mucous membrane co-occurrent and due to coagulation disorder
+SNOMED CT,725105006,Bleeding disorder due to calcium and DAG-regulated guanine exchange factor-1 deficiency
+SNOMED CT,725157006,Acquired purpura fulminans
+SNOMED CT,725291001,Defect of purinergic receptor p2y G protein-coupled 12
+SNOMED CT,726513006,History of hemolysis-elevated liver enzymes-low platelet count syndrome
+SNOMED CT,733028000,"Multiple sclerosis, ichthyosis, factor VIII deficiency syndrome"
+SNOMED CT,773333003,Autosomal systemic lupus erythematosus
+SNOMED CT,773422002,East Texas bleeding disorder
+SNOMED CT,774084003,Neonatal antiphospholipid syndrome
+SNOMED CT,782909004,Hemorrhagic disease due to alpha-1-antitrypsin Pittsburgh mutation
+SNOMED CT,782934004,Bleeding diathesis due to collagen receptor defect
+SNOMED CT,783194008,Bleeding diathesis due to thromboxane synthesis deficiency
+SNOMED CT,783250007,Hereditary thrombophilia due to congenital histidine-rich (poly-L) glycoprotein deficiency
+SNOMED CT,783256001,Familial thrombomodulin anomalies
+SNOMED CT,154818001,Congenital afibrinogenemia
+SNOMED CT,154826009,Secondary thrombocytopenia
+SNOMED CT,180481005,Anti-factor II disorder
+SNOMED CT,181456001,Antiprothrombin disorder
+SNOMED CT,191288005,Hemorrhagic disorder due to antithrombinemia
+SNOMED CT,191289002,Hemorrhagic disorder due to hyperheparinemia
+SNOMED CT,191290006,Hemorrhagic disorder due to increase in anti-VIIIa
+SNOMED CT,191291005,Hemorrhagic disorder due to increase in anti-9a
+SNOMED CT,191292003,Hemorrhagic disorder due to increase in anti-10a
+SNOMED CT,191293008,Hemorrhagic disorder due to increase in anti-11a
+SNOMED CT,191296000,Deficiency of coagulation factor due to liver disease
+SNOMED CT,191297009,Deficiency of coagulation factor due to vitamin K deficiency
+SNOMED CT,191298004,Acquired factor II deficiency
+SNOMED CT,191322006,Thrombocytopenia due to drugs
+SNOMED CT,191323001,Thrombocytopenia due to extracorporeal circulation of blood
+SNOMED CT,196138005,Lung disease with systemic lupus erythematosus
+SNOMED CT,198912003,Premature separation of placenta with coagulation defect
+SNOMED CT,198917009,Antepartum hemorrhage with coagulation defect - delivered
+SNOMED CT,198918004,Antepartum hemorrhage with coagulation defect - not delivered
+SNOMED CT,200030007,Postpartum coagulation defects - delivered with postnatal problem
+SNOMED CT,200031006,Postpartum coagulation defects with postnatal problem
+SNOMED CT,200173001,Intrapartum hemorrhage with coagulation defect
+SNOMED CT,201436003,Drug-induced systemic lupus erythematosus
+SNOMED CT,307091009,Factor V Leiden mutation
+SNOMED CT,307115002,Homozygous Factor V Leiden mutation
+SNOMED CT,307116001,Heterozygous Factor V Leiden mutation
+SNOMED CT,307342006,Thrombocytopenia due to massive blood transfusion
+SNOMED CT,307514008,Idiopathic factor VIII deficiency
+SNOMED CT,307515009,Autoimmune factor VIII deficiency
+SNOMED CT,307517001,Pregnancy-related factor VIII deficiency
+SNOMED CT,307518006,Malignancy-related factor VIII deficiency
+SNOMED CT,309762007,Systemic lupus erythematosus with pericarditis
+SNOMED CT,359704000,"von Willebrand disease, type 1^a^"
+SNOMED CT,359709005,von Willebrand disease type IA
+SNOMED CT,359711001,Hereditary von Willebrand disease type 2A
+SNOMED CT,359714009,von Willebrand disease type 2A
+SNOMED CT,359717002,Hereditary von Willebrand disease type 2B
+SNOMED CT,359721009,von Willebrand disease type IIB
+SNOMED CT,359723007,Acquired hypofibrinogenemia
+SNOMED CT,359725000,Hereditary von Willebrand disease type 2M
+SNOMED CT,359727008,Fibrinogen deficiency
+SNOMED CT,359730001,Acquired afibrinogenemia
+SNOMED CT,359732009,Hereditary von Willebrand disease type 2N
+SNOMED CT,371074009,Radiation thrombocytopenia
+SNOMED CT,234442002,Hereditary factor VIII deficiency disease with inhibitor
+SNOMED CT,234444001,Congenital factor IX deficiency variant
+SNOMED CT,234445000,Congenital factor IX deficiency with inhibitor
+SNOMED CT,234452003,Contact factor deficiency
+SNOMED CT,234453008,Passovoy factor deficiency
+SNOMED CT,234455001,Fibrinogen abnormality
+SNOMED CT,234457009,Hypofibrinogenemia
+SNOMED CT,234458004,Hypodysfibrinogenemia
+SNOMED CT,234459007,Alpha chain defect dysfibrinogenemia
+SNOMED CT,234460002,Beta chain defect dysfibrinogenemia
+SNOMED CT,234461003,Gamma chain defect dysfibrinogenemia
+SNOMED CT,234462005,Acquired fibrinogen abnormality
+SNOMED CT,234463000,Combined coagulation factor deficiency
+SNOMED CT,234464006,Fibrinolytic bleeding syndrome
+SNOMED CT,234465007,Alpha-2-antiplasmin deficiency
+SNOMED CT,234466008,Acquired coagulation disorder
+SNOMED CT,234468009,Heparin cofactor II deficiency
+SNOMED CT,237270006,Antepartum hemorrhage with hypofibrinogenemia
+SNOMED CT,237271005,Antepartum hemorrhage with hyperfibrinolysis
+SNOMED CT,237272003,Antepartum hemorrhage with afibrinogenemia
+SNOMED CT,237336007,Fibrinolysis - postpartum
+SNOMED CT,237337003,Afibrinogenemia - postpartum
+SNOMED CT,239886003,Limited lupus erythematosus
+SNOMED CT,239887007,Systemic lupus erythematosus with organ/system involvement
+SNOMED CT,239888002,Lupus panniculitis
+SNOMED CT,239889005,Bullous systemic lupus erythematosus
+SNOMED CT,239890001,Systemic lupus erythematosus with multisystem involvement
+SNOMED CT,239892009,Primary antiphospholipid syndrome
+SNOMED CT,239894005,Primary antiphospholipid syndrome with multisystem involvement
+SNOMED CT,239895006,Secondary antiphospholipid syndrome
+SNOMED CT,239897003,Secondary antiphospholipid syndrome with multisystem involvement
+SNOMED CT,35066007,"von Willebrand disease, type IID"
+SNOMED CT,35554008,Acquired factor XI deficiency disease
+SNOMED CT,35913006,Acquired factor V deficiency disease
+SNOMED CT,36402006,"SLE glomerulonephritis syndrome, WHO class IV"
+SNOMED CT,38879000,Factor XI inhibitor disorder
+SNOMED CT,41106001,von Willebrand factor inhibitor disorder
+SNOMED CT,41690001,Factor V inhibitor disorder
+SNOMED CT,41816006,Secondary cryofibrinogenemia
+SNOMED CT,43302000,Anticoagulant overdosage
+SNOMED CT,45366001,Hereditary dysfibrinogenemia
+SNOMED CT,45963004,"Factor XI deficiency, type III"
+SNOMED CT,47546008,Warfarin overdosage
+SNOMED CT,48976006,Prekallikrein deficiency
+SNOMED CT,49177006,Postpartum coagulation defect with hemorrhage
+SNOMED CT,49886003,Thrombocytopenia due to blood loss
+SNOMED CT,50770000,Miscarriage with defibrination syndrome
+SNOMED CT,51624005,Dilutional thrombocytopenia
+SNOMED CT,52042003,"SLE glomerulonephritis syndrome, WHO class V"
+SNOMED CT,52137009,"von Willebrand disease, type IIE"
+SNOMED CT,54072008,Nonbacterial verrucal endocardiosis
+SNOMED CT,58327003,Factor I inhibitor disorder
+SNOMED CT,61802005,Primary cryofibrinogenemia
+SNOMED CT,61810006,Illegal termination of pregnancy with defibrination syndrome
+SNOMED CT,62410004,Postpartum fibrinolysis with hemorrhage
+SNOMED CT,62698000,Defibrination syndrome following molar AND/OR ectopic pregnancy
+SNOMED CT,64315007,"Familial multiple factor deficiency syndrome, type III"
+SNOMED CT,64509006,Acquired coagulation factor inhibitor disorder
+SNOMED CT,66909001,"Familial multiple factor deficiency syndrome, type IV"
+SNOMED CT,67406007,Disseminated intravascular coagulation
+SNOMED CT,68815009,SLE glomerulonephritis syndrome
+SNOMED CT,69500007,Blood coagulation disorder due to liver disease
+SNOMED CT,71723006,"von Willebrand disease, type IIG"
+SNOMED CT,73286009,"SLE glomerulonephritis syndrome, WHO class I"
+SNOMED CT,73397007,Heparin-induced thrombocytopenia
+SNOMED CT,73975000,Factor II deficiency
+SNOMED CT,74576004,Acquired thrombocytopenia
+SNOMED CT,76521009,"SLE glomerulonephritis syndrome, WHO class III"
+SNOMED CT,76771005,Parturient hemorrhage associated with hypofibrinogenemia
+SNOMED CT,77753005,Lupus disease of the lung
+SNOMED CT,79674009,Hyperheparinemia
+SNOMED CT,402851000,Neonatal purpura fulminans due to homozygous protein C deficiency
+SNOMED CT,402865003,Systemic lupus erythematosus-associated antiphospholipid syndrome
+SNOMED CT,403486000,Acute systemic lupus erythematosus
+SNOMED CT,403487009,Fulminating systemic lupus erythematosus
+SNOMED CT,403488004,Systemic lupus erythematosus of childhood
+SNOMED CT,416902009,Uremic thrombocytopenia
+SNOMED CT,425949001,Mild hereditary factor VIII deficiency disease with inhibitor
+SNOMED CT,426199009,Congenital factor IX deficiency without inhibitor
+SNOMED CT,438360006,Hereditary factor VIII deficiency disease without inhibitor
+SNOMED CT,438372000,Hereditary factor IX deficiency disease with inhibitor
+SNOMED CT,438373005,Severe hereditary factor VIII deficiency disease with inhibitor
+SNOMED CT,438599002,Moderate hereditary factor VIII deficiency disease with inhibitor
+SNOMED CT,438792009,Hereditary factor IX deficiency disease without inhibitor
+SNOMED CT,438827002,Hereditary thrombophilic dysfibrinogenemia
+SNOMED CT,439000005,Hyperfibrinogenemia
+SNOMED CT,439001009,Acquired thrombophilia
+SNOMED CT,439002002,Thrombophilia due to acquired protein C deficiency
+SNOMED CT,439006004,Hereditary hyperhomocysteinemia
+SNOMED CT,439125003,Thrombophilia due to acquired protein S deficiency
+SNOMED CT,439126002,Thrombophilia due to acquired antithrombin III deficiency
+SNOMED CT,439145006,Congenital hypofibrinogenemia
+SNOMED CT,439156006,Acquired combined coagulation factor deficiency
+SNOMED CT,439157002,Hereditary combined coagulation factor deficiency
+SNOMED CT,439274008,Hereditary protein C deficiency
+SNOMED CT,439455002,Hereditary factor XIII A subunit deficiency
+SNOMED CT,439459008,Hereditary factor XIII B subunit deficiency
+SNOMED CT,439460003,Hereditary factor XIII A subunit and B subunit deficiency
+SNOMED CT,439698008,Hereditary thrombophilia
+SNOMED CT,439699000,Hereditary antithrombin III deficiency
+SNOMED CT,439701000,Hereditary heparin cofactor II deficiency
+SNOMED CT,439702007,Hereditary protein S deficiency
+SNOMED CT,440820004,Mild hereditary factor VIII deficiency disease without inhibitor
+SNOMED CT,440866009,Severe hereditary factor IX deficiency disease with inhibitor
+SNOMED CT,440867000,Moderate hereditary factor IX deficiency disease with inhibitor
+SNOMED CT,440868005,Mild hereditary factor IX deficiency disease with inhibitor
+SNOMED CT,440924009,Hereditary hyperfibrinogenemia
+SNOMED CT,440988005,Heterozygous protein S deficiency
+SNOMED CT,440989002,Prothrombin G20210A mutation
+SNOMED CT,440993008,Severe hereditary factor VIII deficiency disease without inhibitor
+SNOMED CT,441001005,Hereditary elevated factor XI
+SNOMED CT,441006000,Moderate hereditary factor VIII deficiency disease without inhibitor
+SNOMED CT,441042008,Hereditary elevated factor VIII
+SNOMED CT,441079006,Thrombophilia due to antiphospholipid antibody
+SNOMED CT,441101007,Heterozygous protein C deficiency
+SNOMED CT,441188004,Homozygous protein C deficiency
+SNOMED CT,441189007,Homozygous protein S deficiency
+SNOMED CT,441190003,Severe hereditary factor IX deficiency disease without inhibitor
+SNOMED CT,441191004,Moderate hereditary factor IX deficiency disease without inhibitor
+SNOMED CT,441192006,Mild hereditary factor IX deficiency disease without inhibitor
+SNOMED CT,441420000,Homozygous prothrombin G20210A mutation
+SNOMED CT,441421001,Heterozygous prothrombin G20210A mutation
+SNOMED CT,441697004,Thrombophilia associated with pregnancy
+SNOMED CT,441762006,Thrombophilia due to immobilization
+SNOMED CT,441945008,Thrombophilia due to trauma
+SNOMED CT,441946009,Thrombophilia due to myeloproliferative disorder
+SNOMED CT,441990004,Thrombophilia due to paroxysmal nocturnal hemoglobinuria
+SNOMED CT,442078001,Thrombophilia due to malignant neoplasm
+SNOMED CT,442121006,Thrombophilia due to vascular anomaly
+SNOMED CT,442197003,Thrombophilia due to drug therapy
+SNOMED CT,442363001,Thrombophilia due to vascular device
+SNOMED CT,442654007,Thrombophilia due to hormone therapy
+SNOMED CT,442760001,Thrombophilia due to antineoplastic agent therapy
+SNOMED CT,267199000,Antepartum hemorrhage associated with coagulation defect
+SNOMED CT,267272006,Postpartum coagulation defects
+SNOMED CT,278365007,Anticoagulant-induced bleeding
+SNOMED CT,278366008,Anticoagulant excess without bleeding
+SNOMED CT,278504009,Afibrinogenemia
+SNOMED CT,282707003,Acquired inhibitor of coagulation
+SNOMED CT,296926001,Heparin overdose
+SNOMED CT,296927005,Accidental heparin overdose
+SNOMED CT,296928000,Intentional heparin overdose
+SNOMED CT,296929008,Heparin overdose of undetermined intent
+SNOMED CT,296930003,Coumarin overdose
+SNOMED CT,296931004,Accidental coumarin overdose
+SNOMED CT,296932006,Intentional coumarin overdose
+SNOMED CT,296933001,Coumarin overdose of undetermined intent
+SNOMED CT,296934007,Accidental warfarin overdose
+SNOMED CT,296935008,Intentional warfarin sodium overdose
+SNOMED CT,296936009,Warfarin overdose of undetermined intent
+SNOMED CT,62751000119108,Fetal hemophilia
+SNOMED CT,1196942001,Acquired antithrombin III deficiency
+SNOMED CT,1217411000,Acquired heparin cofactor II deficiency
+SNOMED CT,1217410004,Acquired protein C deficiency
+SNOMED CT,1217409009,Acquired protein S deficiency

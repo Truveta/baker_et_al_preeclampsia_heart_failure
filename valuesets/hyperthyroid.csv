@@ -1,0 +1,93 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,E05.00,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm
+ICD10CM,E05.01,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm
+ICD10CM,E05.10,Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm
+ICD10CM,E05.11,Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm
+ICD10CM,E05.20,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm
+ICD10CM,E05.21,Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm
+ICD10CM,E05.30,Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm
+ICD10CM,E05.31,Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm
+ICD10CM,E05.40,Thyrotoxicosis factitia without thyrotoxic crisis or storm
+ICD10CM,E05.41,Thyrotoxicosis factitia with thyrotoxic crisis or storm
+ICD10CM,E05.80,Other thyrotoxicosis without thyrotoxic crisis or storm
+ICD10CM,E05.81,Other thyrotoxicosis with thyrotoxic crisis or storm
+ICD10CM,E05.90,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm"
+ICD10CM,E05.91,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm"
+ICD9CM,242.00,Toxic diffuse goiter without mention of thyrotoxic crisis or storm
+ICD9CM,242.01,Toxic diffuse goiter with mention of thyrotoxic crisis or storm
+ICD9CM,242.10,Toxic uninodular goiter without mention of thyrotoxic crisis or storm
+ICD9CM,242.11,Toxic uninodular goiter with mention of thyrotoxic crisis or storm
+ICD9CM,242.20,Toxic multinodular goiter without mention of thyrotoxic crisis or storm
+ICD9CM,242.21,Toxic multinodular goiter with mention of thyrotoxic crisis or storm
+ICD9CM,242.30,"Toxic nodular goiter, unspecified type, without mention of thyrotoxic crisis or storm"
+ICD9CM,242.31,"Toxic nodular goiter, unspecified type, with mention of thyrotoxic crisis or storm"
+ICD9CM,242.40,Thyrotoxicosis from ectopic thyroid nodule without mention of thyrotoxic crisis or storm
+ICD9CM,242.41,Thyrotoxicosis from ectopic thyroid nodule with mention of thyrotoxic crisis or storm
+ICD9CM,242.80,Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm
+ICD9CM,242.81,Thyrotoxicosis of other specified origin with mention of thyrotoxic crisis or storm
+ICD9CM,242.90,"Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+ICD9CM,242.91,"Thyrotoxicosis without mention of goiter or other cause, with mention of thyrotoxic crisis or storm"
+SNOMED CT,4997005,Thyrotoxicosis factitia
+SNOMED CT,22350004,T>3< thyrotoxicosis
+SNOMED CT,25008002,Hyperthyroidism due to struma ovarii
+SNOMED CT,26389007,Toxic multinodular goiter
+SNOMED CT,87232008,Hyperthyroidism due to ectopic thyroid nodule
+SNOMED CT,88740003,Thyrotoxicosis factitia with thyrotoxic crisis
+SNOMED CT,89719007,Thyrotoxicosis without goiter or other cause
+SNOMED CT,90739004,Thyrotoxicosis
+SNOMED CT,27538003,Hashitoxicosis
+SNOMED CT,237512007,Thyrotoxicosis due to thyrotropin-secreting pituitary adenoma
+SNOMED CT,360361000,Thyrotoxicosis due to inappropriate thyroid stimulating hormone secretion
+SNOMED CT,190255006,Hyperthyroidism due to ectopic thyroid tissue
+SNOMED CT,190256007,Thyrotoxicosis from ectopic thyroid nodule with crisis
+SNOMED CT,193214009,Myasthenic syndrome due to thyrotoxicosis
+SNOMED CT,360353005,Thyrotoxicosis due to pituitary thyroid hormone resistance
+SNOMED CT,360358001,Thyrotoxicosis due to overproduction of thyroid stimulating hormone
+SNOMED CT,237499004,Thyrotoxicosis due to Graves' disease
+SNOMED CT,237501007,Thyrotoxicosis due to acute thyroiditis
+SNOMED CT,237503005,Borderline thyrotoxicosis
+SNOMED CT,237505003,Apathetic thyrotoxicosis
+SNOMED CT,237506002,Thyrotoxicosis in pregnancy
+SNOMED CT,237507006,HCG-induced thyrotoxicosis
+SNOMED CT,237508001,Iatrogenic thyrotoxicosis
+SNOMED CT,237509009,Thyrotoxicosis on thyroxine therapy
+SNOMED CT,237510004,Iodine-induced hyperthyroidism
+SNOMED CT,237538007,Chronic thyroiditis with transient thyrotoxicosis
+SNOMED CT,62052002,Hyperthyroidism secondary to amiodarone
+SNOMED CT,68437005,Thyrotoxic myopathy
+SNOMED CT,73869005,Toxic uninodular goiter
+SNOMED CT,431588009,Radionuclide iodine 131 therapy for thyrotoxicosis
+SNOMED CT,267374005,Toxic diffuse goiter
+SNOMED CT,286909009,Thyrotoxicosis with or without goiter
+SNOMED CT,1163454006,Thyrotoxicosis due to toxic thyroid adenoma
+SNOMED CT,5834008,Hyperthyroidism secondary to potassium iodide
+SNOMED CT,13795004,Neonatal thyrotoxicosis
+SNOMED CT,15470004,Toxic diffuse goiter with acropachy
+SNOMED CT,26151008,Graves' disease with acropachy AND with thyrotoxic crisis
+SNOMED CT,29028009,Thyrotoxic crisis
+SNOMED CT,30985009,Toxic nodular goiter with thyrotoxic storm
+SNOMED CT,67761000119108,Autonomously functioning thyroid goiter
+SNOMED CT,137421000119106,Graves' disease in remission
+SNOMED CT,368361000119108,Thyrotoxicosis factitia without thyrotoxic crisis
+SNOMED CT,1740001000004102,Iatrogenic thyrotoxicosis factitia
+SNOMED CT,479003,Graves' disease with pretibial myxoedema AND with thyrotoxic crisis
+SNOMED CT,353295004,Exophthalmic goiter
+SNOMED CT,703309000,Familial gestational hyperthyroidism
+SNOMED CT,190241003,Toxic diffuse goiter with no crisis
+SNOMED CT,190242005,Toxic diffuse goiter with crisis
+SNOMED CT,190244006,Toxic uninodular goiter with no crisis
+SNOMED CT,190247004,Toxic multinodular goiter with no crisis
+SNOMED CT,237498007,Toxic goiter
+SNOMED CT,237500008,Hashitoxicosis - transient
+SNOMED CT,237504004,Autonomous thyroid function
+SNOMED CT,237824009,Juvenile Graves' disease
+SNOMED CT,40607004,Hyperthyroidism due to hydatidiform mole with thyrotoxic crisis
+SNOMED CT,55807009,Exophthalmos due to toxic diffuse goiter
+SNOMED CT,57777000,Toxic nodular goiter
+SNOMED CT,59957008,Neonatal Graves' disease
+SNOMED CT,60216004,Toxic diffuse goiter with thyrotoxic crisis
+SNOMED CT,60268006,Toxic diffuse goiter with pretibial myxedema
+SNOMED CT,62278002,Toxic multinodular goiter with thyrotoxic crisis
+SNOMED CT,66628005,Toxic diffuse goiter with exophthalmos AND with thyrotoxic storm
+SNOMED CT,67723002,Hyperthyroidism secondary to radio contrast dye
+SNOMED CT,69329005,Toxic uninodular goiter with thyrotoxic crisis

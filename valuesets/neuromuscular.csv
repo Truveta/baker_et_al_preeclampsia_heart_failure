@@ -1,0 +1,490 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,G40,Epilepsy and recurrent seizures
+ICD10CM,G70,Myasthenia gravis and other myoneural disorders
+ICD10CM,O99.35,"Diseases of the nervous system complicating pregnancy, childbirth, and the puerperium"
+ICD10CM,G40.0,Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+ICD10CM,G40.00,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable"
+ICD10CM,G40.001,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, with status epilepticus"
+ICD10CM,G40.009,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus"
+ICD10CM,G40.01,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable"
+ICD10CM,G40.011,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, with status epilepticus"
+ICD10CM,G40.019,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus"
+ICD10CM,G40.1,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures
+ICD10CM,G40.10,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable"
+ICD10CM,G40.101,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus"
+ICD10CM,G40.109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus"
+ICD10CM,G40.11,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable"
+ICD10CM,G40.111,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus"
+ICD10CM,G40.119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus"
+ICD10CM,G40.2,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures
+ICD10CM,G40.20,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable"
+ICD10CM,G40.201,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus"
+ICD10CM,G40.209,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus"
+ICD10CM,G40.21,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable"
+ICD10CM,G40.50,"Epileptic seizures related to external causes, not intractable"
+ICD10CM,G40.211,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus"
+ICD10CM,G40.219,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus"
+ICD10CM,G40.3,Generalized idiopathic epilepsy and epileptic syndromes
+ICD10CM,G40.30,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable"
+ICD10CM,G40.301,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+ICD10CM,G40.309,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+ICD10CM,G40.31,"Generalized idiopathic epilepsy and epileptic syndromes, intractable"
+ICD10CM,G40.311,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus"
+ICD10CM,G40.319,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus"
+ICD10CM,G40.4,Other generalized epilepsy and epileptic syndromes
+ICD10CM,G40.40,"Other generalized epilepsy and epileptic syndromes, not intractable"
+ICD10CM,G40.401,"Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+ICD10CM,G40.409,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+ICD10CM,G40.41,"Other generalized epilepsy and epileptic syndromes, intractable"
+ICD10CM,G40.411,"Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus"
+ICD10CM,G40.419,"Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus"
+ICD10CM,G40.5,Epileptic seizures related to external causes
+ICD10CM,G40.501,"Epileptic seizures related to external causes, not intractable, with status epilepticus"
+ICD10CM,G40.509,"Epileptic seizures related to external causes, not intractable, without status epilepticus"
+ICD10CM,G40.8,Other epilepsy and recurrent seizures
+ICD10CM,G40.80,Other epilepsy
+ICD10CM,G40.801,"Other epilepsy, not intractable, with status epilepticus"
+ICD10CM,G40.802,"Other epilepsy, not intractable, without status epilepticus"
+ICD10CM,G40.803,"Other epilepsy, intractable, with status epilepticus"
+ICD10CM,G40.804,"Other epilepsy, intractable, without status epilepticus"
+ICD10CM,G40.81,Lennox-Gastaut syndrome
+ICD10CM,G40.811,"Lennox-Gastaut syndrome, not intractable, with status epilepticus"
+ICD10CM,G40.812,"Lennox-Gastaut syndrome, not intractable, without status epilepticus"
+ICD10CM,G40.813,"Lennox-Gastaut syndrome, intractable, with status epilepticus"
+ICD10CM,G40.814,"Lennox-Gastaut syndrome, intractable, without status epilepticus"
+ICD10CM,G40.82,Epileptic spasms
+ICD10CM,G40.821,"Epileptic spasms, not intractable, with status epilepticus"
+ICD10CM,G40.822,"Epileptic spasms, not intractable, without status epilepticus"
+ICD10CM,G40.823,"Epileptic spasms, intractable, with status epilepticus"
+ICD10CM,G40.824,"Epileptic spasms, intractable, without status epilepticus"
+ICD10CM,G40.89,Other seizures
+ICD10CM,G40.9,"Epilepsy, unspecified"
+ICD10CM,G40.90,"Epilepsy, unspecified, not intractable"
+ICD10CM,G40.901,"Epilepsy, unspecified, not intractable, with status epilepticus"
+ICD10CM,G40.909,"Epilepsy, unspecified, not intractable, without status epilepticus"
+ICD10CM,G40.91,"Epilepsy, unspecified, intractable"
+ICD10CM,G40.911,"Epilepsy, unspecified, intractable, with status epilepticus"
+ICD10CM,G40.919,"Epilepsy, unspecified, intractable, without status epilepticus"
+ICD10CM,G40.A,Absence epileptic syndrome
+ICD10CM,G40.A0,"Absence epileptic syndrome, not intractable"
+ICD10CM,G40.A01,"Absence epileptic syndrome, not intractable, with status epilepticus"
+ICD10CM,G40.A09,"Absence epileptic syndrome, not intractable, without status epilepticus"
+ICD10CM,G40.A1,"Absence epileptic syndrome, intractable"
+ICD10CM,G40.A11,"Absence epileptic syndrome, intractable, with status epilepticus"
+ICD10CM,G40.A19,"Absence epileptic syndrome, intractable, without status epilepticus"
+ICD10CM,G40.B,Juvenile myoclonic epilepsy [impulsive petit mal]
+ICD10CM,G40.B0,"Juvenile myoclonic epilepsy, not intractable"
+ICD10CM,G40.B01,"Juvenile myoclonic epilepsy, not intractable, with status epilepticus"
+ICD10CM,G40.B09,"Juvenile myoclonic epilepsy, not intractable, without status epilepticus"
+ICD10CM,G40.B1,"Juvenile myoclonic epilepsy, intractable"
+ICD10CM,G40.B11,"Juvenile myoclonic epilepsy, intractable, with status epilepticus"
+ICD10CM,G40.B19,"Juvenile myoclonic epilepsy, intractable, without status epilepticus"
+ICD10CM,G70.0,Myasthenia gravis
+ICD10CM,G70.00,Myasthenia gravis without (acute) exacerbation
+ICD10CM,G70.01,Myasthenia gravis with (acute) exacerbation
+ICD10CM,G70.1,Toxic myoneural disorders
+ICD10CM,G70.2,Congenital and developmental myasthenia
+ICD10CM,G70.8,Other specified myoneural disorders
+ICD10CM,G70.80,"Lambert-Eaton syndrome, unspecified"
+ICD10CM,G70.81,Lambert-Eaton syndrome in disease classified elsewhere
+ICD10CM,G70.89,Other specified myoneural disorders
+ICD10CM,G70.9,"Myoneural disorder, unspecified"
+ICD10CM,O99.350,"Diseases of the nervous system complicating pregnancy, unspecified trimester"
+ICD10CM,O99.351,"Diseases of the nervous system complicating pregnancy, first trimester"
+ICD10CM,O99.352,"Diseases of the nervous system complicating pregnancy, second trimester"
+ICD10CM,O99.353,"Diseases of the nervous system complicating pregnancy, third trimester"
+ICD10CM,O99.354,Diseases of the nervous system complicating childbirth
+ICD10CM,O99.355,Diseases of the nervous system complicating the puerperium
+ICD10CM,G40.42,Cyclin-Dependent Kinase-Like 5 Deficiency Disorder
+ICD10CM,G40.83,Dravet syndrome
+ICD10CM,G40.833,"Dravet syndrome, intractable, with status epilepticus"
+ICD10CM,G40.834,"Dravet syndrome, intractable, without status epilepticus"
+ICD9CM,345,Epilepsy and recurrent seizures
+ICD9CM,358,Myoneural disorders
+SNOMED CT,84757009,Epilepsy
+SNOMED CT,199297006,"Disease of nervous system complicating pregnancy, childbirth and puerperium"
+SNOMED CT,257277002,Neuromuscular disorder
+SNOMED CT,1172593006,"Early-onset progressive diffuse brain atrophy, microcephaly, muscle weakness, optic atrophy syndrome"
+SNOMED CT,1187042007,"Early-onset seizures, distal limb anomalies, facial dysmorphism, global developmental delay syndrome"
+SNOMED CT,1179294000,"Autosomal dominant distal axonal motor neuropathy, myofibrillar myopathy syndrome"
+SNOMED CT,1163529009,Epilepsy due to bacterial endocarditis
+SNOMED CT,1163527006,Epilepsy due to parasitic disease
+SNOMED CT,1197587003,"Lethal neonatal spasticity, epileptic encephalopathy syndrome"
+SNOMED CT,1179359005,Maternal epilepsy due to perinatal stroke
+SNOMED CT,1208615009,Neurogenic scapuloperoneal syndrome Kaeser type
+SNOMED CT,1208939001,Progressive myoclonic epilepsy type 7
+SNOMED CT,1228857005,Progressive myoclonic epilepsy type 9
+SNOMED CT,1222659003,RNF13-related severe early-onset epileptic encephalopathy
+SNOMED CT,1222704008,Autosomal recessive lethal neonatal axonal sensorimotor polyneuropathy
+SNOMED CT,1231282002,Benign familial neonatal-infantile seizures
+SNOMED CT,1187278006,"Spastic paraplegia, severe developmental delay, epilepsy syndrome"
+SNOMED CT,1179282009,"Severe neurodevelopmental disorder with feeding difficulties, stereotypic hand movement, bilateral cataract"
+SNOMED CT,1167371007,"Polyhydramnios, megalencephaly, symptomatic epilepsy syndrome"
+SNOMED CT,16415791000119104,Myasthenia gravis in remission
+SNOMED CT,2198002,Visceral epilepsy
+SNOMED CT,241006,Epilepsia partialis continua
+SNOMED CT,5127009,Jaw-winking syndrome
+SNOMED CT,6204001,Juvenile myoclonic epilepsy
+SNOMED CT,7033004,Absence status epilepticus
+SNOMED CT,13973009,Grand mal status
+SNOMED CT,15523002,Benign focal epilepsy of childhood
+SNOMED CT,19598007,Generalized epilepsy
+SNOMED CT,26609002,Neuralgic amyotrophy
+SNOMED CT,28055006,West syndrome
+SNOMED CT,31839002,"Myasthenia gravis, adult form"
+SNOMED CT,80976008,Myasthenic crisis
+SNOMED CT,82178003,Neonatal myasthenia gravis
+SNOMED CT,87842000,Generalized neuromuscular exhaustion syndrome
+SNOMED CT,91637004,Myasthenia gravis
+SNOMED CT,95208000,Photogenic epilepsy
+SNOMED CT,109478007,Kohlschutter syndrome
+SNOMED CT,111498005,Extratemporal epilepsy
+SNOMED CT,1156827007,Inverse Marcus-Gunn phenomenon
+SNOMED CT,787172004,Childhood-onset autosomal recessive myopathy with external ophthalmoplegia
+SNOMED CT,788417006,"Alopecia, epilepsy, intellectual disability syndrome Moynahan type"
+SNOMED CT,860804005,Epilepsy due to infectious encephalitis
+SNOMED CT,860806007,Epilepsy due to infectious meningitis
+SNOMED CT,860815000,Epilepsy due to neonatal central nervous system infection
+SNOMED CT,3371000119106,Refractory generalized convulsive epilepsy
+SNOMED CT,5321000124109,Temporal lobe epilepsy with mesial temporal sclerosis
+SNOMED CT,8291000119107,Atonic epilepsy
+SNOMED CT,14401000119109,Partial frontal lobe epilepsy
+SNOMED CT,20121000119105,Partial occipital lobe epilepsy
+SNOMED CT,21391000119102,Partial parietal lobe epilepsy
+SNOMED CT,47391000119107,Primary generalized absence epilepsy
+SNOMED CT,77461000119109,Myasthenia gravis with exacerbation
+SNOMED CT,77471000119103,Myasthenia gravis without exacerbation
+SNOMED CT,82381000119103,Epileptic dementia with behavioral disturbance
+SNOMED CT,84161000119100,Complex partial seizure of parietal lobe
+SNOMED CT,84171000119106,Complex partial seizure of frontal lobe
+SNOMED CT,84181000119109,Complex partial seizure of occipital lobe
+SNOMED CT,84191000119107,Complex partial seizure of temporal lobe
+SNOMED CT,84201000119105,Intractable partial temporal lobe epilepsy with impairment of consciousness
+SNOMED CT,84211000119108,Intractable complex partial parietal lobe epilepsy
+SNOMED CT,84221000119101,Intractable partial frontal lobe epilepsy with impairment of consciousness
+SNOMED CT,84231000119103,Intractable partial occipital lobe epilepsy with impairment of consciousness
+SNOMED CT,100941000119100,Epilepsy in mother complicating pregnancy
+SNOMED CT,119001000119108,Intractable simple partial epilepsy
+SNOMED CT,187931000119106,Atypical absence epilepsy
+SNOMED CT,290671000119100,Status epilepticus due to complex partial epileptic seizure
+SNOMED CT,290681000119102,Status epilepticus due to refractory complex partial seizures
+SNOMED CT,290691000119104,Status epilepticus due to generalized idiopathic epilepsy
+SNOMED CT,290711000119101,Status epilepticus due to intractable idiopathic generalized epilepsy
+SNOMED CT,290721000119108,Status epilepticus due to refractory epilepsy
+SNOMED CT,290731000119106,Idiopathic partial status epilepticus
+SNOMED CT,290741000119102,Intractable idiopathic partial epilepsy
+SNOMED CT,290761000119103,Status epilepticus due to refractory simple partial epilepsy
+SNOMED CT,290871000119101,Infantile spasms co-occurrent with status epilepticus
+SNOMED CT,290881000119103,Refractory infantile spasms co-occurrent with status epilepticus
+SNOMED CT,291311000119108,Status epilepticus in benign Rolandic epilepsy
+SNOMED CT,292991000119106,Eaton Lambert syndrome without underlying malignancy
+SNOMED CT,329991000119104,Intractable atypical absence epilepsy
+SNOMED CT,430811000124100,"Benign familial neonatal seizures, refractory"
+SNOMED CT,430821000124108,"Benign familial neonatal seizures, non-refractory"
+SNOMED CT,431071000124107,"Early infantile epileptic encephalopathy, refractory"
+SNOMED CT,431081000124105,"Early infantile epileptic encephalopathy, non-refractory"
+SNOMED CT,431091000124108,"Benign myoclonic epilepsy in infancy, refractory"
+SNOMED CT,431101000124102,"Benign myoclonic epilepsy in infancy, non-refractory"
+SNOMED CT,431111000124104,"Lennox-Gastaut syndrome, refractory"
+SNOMED CT,431131000124105,"Myoclonic absence epilepsy, refractory"
+SNOMED CT,431141000124100,"Myoclonic absence epilepsy, non-refractory"
+SNOMED CT,431151000124103,"Childhood absence epilepsy, refractory"
+SNOMED CT,431161000124101,"Childhood absence epilepsy, non-refractory"
+SNOMED CT,431461000124109,"Juvenile absence epilepsy, refractory"
+SNOMED CT,431471000124102,"Juvenile absence epilepsy, non-refractory"
+SNOMED CT,431961000124104,"Benign occipital epilepsy of childhood - late onset, refractory"
+SNOMED CT,431971000124106,"Benign occipital epilepsy of childhood - late onset, non-refractory"
+SNOMED CT,431991000124107,"Petit mal status, non-refractory"
+SNOMED CT,432031000124101,"Infantile spasms, non-refractory"
+SNOMED CT,432151000124107,"Myoclonic seizure, non-refractory"
+SNOMED CT,432161000124109,"Severe myoclonic epilepsy in infancy, non-refractory"
+SNOMED CT,432171000124102,"Severe myoclonic epilepsy in infancy, refractory"
+SNOMED CT,432291000124105,"Temporal lobe epilepsy, non-refractory"
+SNOMED CT,432461000124101,"Post-traumatic epilepsy, refractory"
+SNOMED CT,432471000124108,"Post-traumatic epilepsy, non-refractory"
+SNOMED CT,432541000124104,"Epilepsia partialis continua, non-refractory"
+SNOMED CT,434201000124105,"Grand mal status epilepticus, refractory"
+SNOMED CT,434211000124108,"Grand mal status epilepticus, non-refractory"
+SNOMED CT,434291000124103,"Myoclonic seizure, refractory"
+SNOMED CT,434491000124104,"Idiopathic generalized epilepsy, non-refractory"
+SNOMED CT,434501000124107,"Complex partial status epilepticus, refractory"
+SNOMED CT,434511000124105,"Complex partial status epilepticus, non-refractory"
+SNOMED CT,434541000124109,"Benign Rolandic epilepsy, refractory"
+SNOMED CT,434551000124106,"Benign Rolandic epilepsy, non-refractory"
+SNOMED CT,435321000124106,"Acquired epileptic aphasia, non-refractory"
+SNOMED CT,435331000124109,"Acquired epileptic aphasia, refractory"
+SNOMED CT,435341000124104,"Rasmussen syndrome, refractory"
+SNOMED CT,435361000124100,"Juvenile myoclonic epilepsy, non-refractory"
+SNOMED CT,436011000124108,"Petit mal status, refractory"
+SNOMED CT,438411000124101,"Myoclonic astatic epilepsy, refractory"
+SNOMED CT,438421000124109,"Myoclonic astatic epilepsy, non-refractory"
+SNOMED CT,440211000124100,"Generalized convulsive epilepsy, non-refractory"
+SNOMED CT,442151000124108,"Autosomal dominant nocturnal frontal lobe epilepsy, refractory"
+SNOMED CT,442161000124105,"Autosomal dominant nocturnal frontal lobe epilepsy, non-refractory"
+SNOMED CT,444441000124109,"Generalized epilepsy with febrile seizures plus, refractory"
+SNOMED CT,444451000124106,"Generalized epilepsy with febrile seizures plus, non-refractory"
+SNOMED CT,10750951000119106,Epilepsy in mother complicating childbirth
+SNOMED CT,15729961000119108,External ophthalmoplegia of left eye
+SNOMED CT,15985351000119105,Intractable juvenile myoclonic status epilepticus
+SNOMED CT,16005191000119106,Left Parsonage Turner syndrome
+SNOMED CT,16005231000119102,Right Parsonage Turner syndrome
+SNOMED CT,322112361000132104,Scar epilepsy
+SNOMED CT,29145002,Burton syndrome
+SNOMED CT,44145005,Centralopathic epilepsy
+SNOMED CT,56989000,Myasthenic syndrome
+SNOMED CT,58756001,Huntington disease
+SNOMED CT,230299004,Juvenile onset Huntington disease
+SNOMED CT,230300007,Late onset Huntington disease
+SNOMED CT,230301006,Akinetic-rigid form of Huntington disease
+SNOMED CT,230387008,Benign childhood occipital epilepsy Panayiotopoulos type
+SNOMED CT,230388003,"Benign childhood occipital epilepsy, Gastaut type"
+SNOMED CT,230438007,Aphasia co-occurrent with epilepsy
+SNOMED CT,431121000124107,"Lennox-Gastaut syndrome, non-intractable"
+SNOMED CT,445355009,Refractory epilepsy
+SNOMED CT,608874000,Eaton Lambert syndrome with underlying malignancy
+SNOMED CT,698021005,Autosomal dominant nocturnal frontal lobe epilepsy
+SNOMED CT,698760002,Generalized non-convulsive absence epilepsy
+SNOMED CT,698761003,Refractory juvenile myoclonic epilepsy
+SNOMED CT,698762005,Refractory myoclonic epilepsy
+SNOMED CT,698763000,Postoperative status epilepticus
+SNOMED CT,698764006,Post infectious grand mal epilepsy
+SNOMED CT,698767004,Post-cerebrovascular accident epilepsy
+SNOMED CT,699688008,Generalized epilepsy with febrile seizures plus
+SNOMED CT,702326000,Progressive myoclonus epilepsy with ataxia
+SNOMED CT,703524005,Spinal muscular atrophy with progressive myoclonic epilepsy
+SNOMED CT,710046001,Refractory idiopathic generalized epilepsy
+SNOMED CT,715534008,ICCA syndrome
+SNOMED CT,715629001,Generalized epilepsy and paroxysmal dyskinesia syndrome
+SNOMED CT,716278005,Jeavons syndrome
+SNOMED CT,716706009,Female restricted epilepsy with intellectual disability syndrome
+SNOMED CT,717223008,X-linked epilepsy with learning disability and behavior disorder syndrome
+SNOMED CT,717225001,Benign adult familial myoclonic epilepsy
+SNOMED CT,717266001,Sensory ataxic neuropathy with dysarthria and ophthalmoparesis syndrome
+SNOMED CT,720519003,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome"
+SNOMED CT,721088003,DEND syndrome
+SNOMED CT,722386009,Celiac disease with epilepsy and cerebral calcification syndrome
+SNOMED CT,722432000,"Duane anomaly, myopathy, scoliosis syndrome"
+SNOMED CT,723125008,Epileptic encephalopathy
+SNOMED CT,723676007,"Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome"
+SNOMED CT,724274009,Infant epilepsy with migrant focal crisis
+SNOMED CT,724549005,Epilepsy due to infectious disease of central nervous system
+SNOMED CT,724576005,Pyridoxal 5-phosphate dependent epilepsy
+SNOMED CT,724785007,Epilepsy due to perinatal stroke
+SNOMED CT,724786008,Epilepsy due to perinatal anoxic-ischemic brain injury
+SNOMED CT,724787004,Epilepsy due to cerebrovascular accident
+SNOMED CT,724788009,Epilepsy due to and following traumatic brain injury
+SNOMED CT,724789001,Epilepsy due to intracranial tumor
+SNOMED CT,724988000,Epilepsy co-occurrent and due to degenerative brain disorder
+SNOMED CT,724989008,Epilepsy co-occurrent and due to mesial temporal sclerosis
+SNOMED CT,724990004,Epilepsy due to immune disorder
+SNOMED CT,724991000,Epilepsy co-occurrent and due to demyelinating disorder
+SNOMED CT,724992007,Epilepsy co-occurrent and due to dementia
+SNOMED CT,725163002,"X-linked spasticity, intellectual disability, epilepsy syndrome"
+SNOMED CT,725413002,Febrile infection related epilepsy syndrome
+SNOMED CT,726702005,Epileptic encephalopathy with global cerebral demyelination
+SNOMED CT,733031004,"Epilepsy, microcephaly, skeletal dysplasia syndrome"
+SNOMED CT,733032006,Epilepsy telangiectasia syndrome
+SNOMED CT,733082001,Early-onset Lafora body disease
+SNOMED CT,733195008,Epilepsy of infancy with migrating focal seizures
+SNOMED CT,733623005,"Autism spectrum disorder, epilepsy, arthrogryposis syndrome"
+SNOMED CT,734434007,Pyridoxine-dependent epilepsy
+SNOMED CT,763349002,Progressive myoclonic epilepsy with dystonia
+SNOMED CT,763352005,Familial dyskinesia and facial myokymia
+SNOMED CT,763534009,Hot water reflex epilepsy
+SNOMED CT,763622006,Thinking epilepsy
+SNOMED CT,763632004,Startle epilepsy
+SNOMED CT,763688008,"Deafness, encephaloneuropathy, obesity, valvulopathy syndrome"
+SNOMED CT,763802009,Micturition induced epilepsy
+SNOMED CT,763827002,Orgasm induced epilepsy
+SNOMED CT,764453009,Action myoclonus renal failure syndrome
+SNOMED CT,764522009,Familial focal epilepsy with variable foci
+SNOMED CT,765093009,"Rolandic epilepsy, speech dyspraxia syndrome"
+SNOMED CT,765170001,SCN8A-related epilepsy with encephalopathy
+SNOMED CT,765216006,Audiogenic epilepsy
+SNOMED CT,766044005,Acute encephalopathy with biphasic seizures and late reduced diffusion
+SNOMED CT,766815007,Perioral myoclonia with absences
+SNOMED CT,767254005,Recurrent benign focal seizures of childhood
+SNOMED CT,768666006,STXBP1 encephalopathy with epilepsy
+SNOMED CT,770405003,Benign familial mesial temporal lobe epilepsy
+SNOMED CT,770431001,Early-onset epileptic encephalopathy and intellectual disability due to GRIN2A mutation
+SNOMED CT,770438007,Infantile spasm and broad thumb syndrome
+SNOMED CT,770596007,Rippling muscle disease with myasthenia gravis
+SNOMED CT,770622009,Benign infantile focal epilepsy with midline spikes and waves during sleep
+SNOMED CT,770623004,Benign occipital lobe epilepsy
+SNOMED CT,770624005,Benign partial epilepsy of infancy with complex partial seizures
+SNOMED CT,770643005,Mesial temporal lobe epilepsy with hippocampal sclerosis
+SNOMED CT,770758009,New-onset refractory status epilepticus
+SNOMED CT,770898002,"Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to WWOX deficiency"
+SNOMED CT,771141002,Benign partial epilepsy with secondarily generalized seizures in infancy
+SNOMED CT,771142009,Cortical dysplasia with focal epilepsy syndrome
+SNOMED CT,771223000,Infantile epileptic dyskinetic encephalopathy
+SNOMED CT,771261002,Digital extensor muscle aplasia with polyneuropathy
+SNOMED CT,771448004,Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency
+SNOMED CT,771469002,"Early-onset spastic ataxia, myoclonic epilepsy, neuropathy syndrome"
+SNOMED CT,773421009,Infantile-onset mesial temporal lobe epilepsy with severe cognitive regression
+SNOMED CT,773497001,"Partial corpus callosum agenesis, cerebellar vermis hypoplasia with posterior fossa cysts syndrome"
+SNOMED CT,773498006,"Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to TUD deficiency"
+SNOMED CT,773548008,"Early-onset epileptic encephalopathy, cortical blindness, intellectual disability, facial dysmorphism syndrome"
+SNOMED CT,773643006,"Multiple congenital anomalies, hypotonia, seizures syndrome type 2"
+SNOMED CT,774153002,Periodic paralysis with transient compartment-like syndrome
+SNOMED CT,774154008,Periodic paralysis with later-onset distal motor neuropathy
+SNOMED CT,778001003,KCNQ2-related epileptic encephalopathy
+SNOMED CT,778047006,Myoclonic epilepsy in non-progressive encephalopathy
+SNOMED CT,778063003,Cryptogenic late-onset epileptic spasms
+SNOMED CT,780827006,SYNGAP1-related intellectual disability
+SNOMED CT,782737003,"Diffuse cerebral and cerebellar atrophy, intractable seizures, progressive microcephaly syndrome"
+SNOMED CT,782752005,"Peripheral neuropathy, myopathy, hoarseness, hearing loss syndrome"
+SNOMED CT,782772000,Congenital muscular dystrophy with intellectual disability and severe epilepsy
+SNOMED CT,782825008,"Primary microcephaly, epilepsy, permanent neonatal diabetes syndrome"
+SNOMED CT,783055005,Progressive myoclonic epilepsy type 5
+SNOMED CT,783062001,Progressive myoclonic epilepsy type 6
+SNOMED CT,783064000,Progressive myoclonic epilepsy type 3
+SNOMED CT,783139000,Progressive myoclonic epilepsy type 8
+SNOMED CT,783739005,Familial temporal lobe epilepsy
+SNOMED CT,784342008,Familial infantile myoclonic epilepsy
+SNOMED CT,784372002,Familial mesial temporal lobe epilepsy with febrile seizures
+SNOMED CT,784377008,Autosomal dominant epilepsy with auditory features
+SNOMED CT,785726009,Hyperekplexia epilepsy syndrome
+SNOMED CT,163594004,O/E - salaam attack
+SNOMED CT,192845009,Myoclonic encephalopathy
+SNOMED CT,192979009,Generalized non-convulsive epilepsy
+SNOMED CT,192990004,Benign myoclonic epilepsy in infancy
+SNOMED CT,192999003,Partial epilepsy with impairment of consciousness
+SNOMED CT,193000002,Temporal lobe epilepsy
+SNOMED CT,193002005,Psychosensory epilepsy
+SNOMED CT,193003000,Mesiobasal limbic epilepsy
+SNOMED CT,193008009,Somatosensory epilepsy
+SNOMED CT,193009001,Partial epilepsy with autonomic symptoms
+SNOMED CT,193010006,Visual reflex epilepsy
+SNOMED CT,193021002,Cursive (running) epilepsy
+SNOMED CT,193022009,Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+SNOMED CT,193206003,Persistent neonatal myasthenia gravis
+SNOMED CT,193207007,Juvenile or adult myasthenia gravis
+SNOMED CT,205294008,Neonatal hypotonia
+SNOMED CT,307356008,Motor epilepsy
+SNOMED CT,307357004,"Jacksonian, focal or motor epilepsy"
+SNOMED CT,352818000,Tonic-clonic epilepsy
+SNOMED CT,361123003,Psychomotor epilepsy
+SNOMED CT,361268000,Alcohol-induced epilepsy
+SNOMED CT,363222009,Neonatal neuromuscular disorder
+SNOMED CT,230191005,Rasmussen syndrome
+SNOMED CT,230381009,Localization-related epilepsy
+SNOMED CT,230382002,Benign frontal epilepsy of childhood
+SNOMED CT,230383007,Benign psychomotor epilepsy of childhood
+SNOMED CT,230384001,Benign atypical partial epilepsy in childhood
+SNOMED CT,230386004,Childhood epilepsy with occipital paroxysms
+SNOMED CT,230389006,Primary inherited reading epilepsy
+SNOMED CT,230390002,Localization-related symptomatic epilepsy
+SNOMED CT,230391003,Amygdalo-hippocampal epilepsy
+SNOMED CT,230392005,Rhinencephalic epilepsy
+SNOMED CT,230393000,Lateral temporal epilepsy
+SNOMED CT,230394006,Frontal lobe epilepsy
+SNOMED CT,230395007,Supplementary motor epilepsy
+SNOMED CT,230396008,Cingulate epilepsy
+SNOMED CT,230397004,Anterior frontopolar epilepsy
+SNOMED CT,230398009,Orbitofrontal epilepsy
+SNOMED CT,230399001,Dorsolateral epilepsy
+SNOMED CT,230400008,Opercular epilepsy
+SNOMED CT,230401007,Non-progressive Kozhevnikow syndrome
+SNOMED CT,230403005,Parietal lobe epilepsy
+SNOMED CT,230404004,Occipital lobe epilepsy
+SNOMED CT,230405003,Chronic progressive epilepsia partialis continua of childhood
+SNOMED CT,230406002,Localization-related symptomatic epilepsy with specific precipitant
+SNOMED CT,230407006,Hemiplegia-hemiconvulsion-epilepsy syndrome
+SNOMED CT,230408001,Localization-related cryptogenic epilepsy
+SNOMED CT,230410004,Benign familial infantile convulsions
+SNOMED CT,230411000,Benign non-familial neonatal convulsions
+SNOMED CT,230412007,Myoclonic epilepsy of early childhood
+SNOMED CT,230413002,Juvenile absence epilepsy
+SNOMED CT,230414008,Epilepsy with grand mal seizures on awakening
+SNOMED CT,230415009,Cryptogenic generalized epilepsy
+SNOMED CT,230416005,Cryptogenic West syndrome
+SNOMED CT,230417001,Symptomatic West syndrome
+SNOMED CT,230418006,Lennox-Gastaut syndrome
+SNOMED CT,230419003,Cryptogenic Lennox-Gastaut syndrome
+SNOMED CT,230420009,Symptomatic Lennox-Gastaut syndrome
+SNOMED CT,230421008,Myoclonic astatic epilepsy
+SNOMED CT,230422001,Myoclonic absence epilepsy
+SNOMED CT,230423006,Unverricht-Lundborg syndrome
+SNOMED CT,230425004,Lafora disease
+SNOMED CT,230426003,Myoclonic epilepsy with ragged red fibers
+SNOMED CT,230427007,Cryptogenic myoclonic epilepsy
+SNOMED CT,230428002,Idiopathic myoclonic epilepsy
+SNOMED CT,230429005,Early infantile epileptic encephalopathy with suppression bursts
+SNOMED CT,230430000,Symptomatic myoclonic epilepsy
+SNOMED CT,230435005,Epilepsy undetermined whether focal or generalized
+SNOMED CT,230437002,Severe myoclonic epilepsy in infancy
+SNOMED CT,230439004,Epilepsy with continuous spike wave during slow-wave sleep
+SNOMED CT,230440002,Secondary reading epilepsy
+SNOMED CT,230441003,Drug-induced epilepsy
+SNOMED CT,230443000,Narcotic withdrawal epilepsy
+SNOMED CT,230444006,Menstrual epilepsy
+SNOMED CT,230445007,Nocturnal epilepsy
+SNOMED CT,230447004,Absence seizure with eyelid myoclonia
+SNOMED CT,230448009,Writing epilepsy
+SNOMED CT,230450001,Eating epilepsy
+SNOMED CT,230452009,Toothbrushing epilepsy
+SNOMED CT,230453004,Decision-making epilepsy
+SNOMED CT,230454005,Aquagenic epilepsy
+SNOMED CT,230455006,Self-induced non-photosensitive epilepsy
+SNOMED CT,230456007,Status epilepticus
+SNOMED CT,230457003,Non-convulsive status epilepticus with three per second spike wave
+SNOMED CT,230458008,Non-convulsive status epilepticus without three per second spike wave
+SNOMED CT,230459000,Non-convulsive simple partial status epilepticus
+SNOMED CT,230460005,Complex partial status epilepticus
+SNOMED CT,230669004,Genetically determined myasthenia
+SNOMED CT,230670003,Familial infantile myasthenia
+SNOMED CT,230671004,Acetylcholine resynthesis deficiency
+SNOMED CT,230672006,Congenital myasthenic syndrome
+SNOMED CT,230673001,Congenital end-plate acetylcholine receptor deficiency
+SNOMED CT,230674007,Pseudomyopathic myasthenia
+SNOMED CT,230675008,Slow channel syndrome
+SNOMED CT,230676009,Putative defect in acetylcholine synthesis or packaging
+SNOMED CT,230677000,Congenital end-plate acetylcholinesterase deficiency
+SNOMED CT,230678005,Decrease of motor end-plate potential amplitude without acetylcholine receptor deficiency
+SNOMED CT,230679002,Abnormality of synaptic vesicles
+SNOMED CT,230682007,Penicillamine-induced myasthenia
+SNOMED CT,230683002,Transient neonatal myasthenia gravis
+SNOMED CT,230684008,Ocular myasthenia
+SNOMED CT,230685009,Myasthenia gravis associated with thymoma
+SNOMED CT,230686005,Generalized myasthenia
+SNOMED CT,230687001,Myopathy in myasthenia gravis
+SNOMED CT,237612000,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction"
+SNOMED CT,36803009,Idiopathic generalized epilepsy
+SNOMED CT,37356005,Myoclonic seizure
+SNOMED CT,38281008,Benign neonatal convulsions
+SNOMED CT,39194005,Visual epilepsy
+SNOMED CT,39745004,Chronic progressive epilepsia partialis continua
+SNOMED CT,40816002,Retropulsion petit mal
+SNOMED CT,49776008,Centrencephalic epilepsy
+SNOMED CT,50866000,Childhood absence epilepsy
+SNOMED CT,55051001,"Myasthenia gravis, juvenile form"
+SNOMED CT,63135006,Amyotonia congenita
+SNOMED CT,65120008,Generalized convulsive epilepsy
+SNOMED CT,65242001,Drug-induced myasthenia
+SNOMED CT,67725009,Antibiotic-induced neuromuscular blocking
+SNOMED CT,71831005,Symptomatic generalized epilepsy
+SNOMED CT,75023009,Epilepsy due to and following traumatic brain injury
+SNOMED CT,79745005,Reflex epilepsy
+SNOMED CT,413101007,Stress-induced epilepsy
+SNOMED CT,414927004,Ocular myasthenia with strabismus
+SNOMED CT,422513000,"Epilepsy, not refractory"
+SNOMED CT,422724001,Refractory localization-related epilepsy
+SNOMED CT,422873003,Refractory epilepsia partialis continua
+SNOMED CT,423753005,Reflex blepharospasm
+SNOMED CT,425054007,Refractory occipital lobe epilepsy
+SNOMED CT,425237009,Refractory frontal lobe epilepsy
+SNOMED CT,425349008,Refractory parietal lobe epilepsy
+SNOMED CT,441678004,Refractory generalized nonconvulsive epilepsy
+SNOMED CT,442481002,Epilepsy characterized by intractable complex partial seizures
+SNOMED CT,442512002,Nonconvulsive status epilepticus
+SNOMED CT,267581004,Progressive myoclonic epilepsy
+SNOMED CT,267592003,Motor cortex epilepsy
+SNOMED CT,277190002,Pelagic paralysis
+SNOMED CT,278510009,Localization-related idiopathic epilepsy
+SNOMED CT,1222656005,SYNGAP1-related developmental and epileptic encephalopathy
+SNOMED CT,1179360000,Fetal epilepsy due to perinatal stroke
+SNOMED CT,1230376005,CNTNAP2-related developmental and epileptic encephalopathy
+SNOMED CT,1179547007,Neonatal epilepsy due to perinatal stroke
+SNOMED CT,16005311000119104,Bilateral neuralgic amyotrophy
+SNOMED CT,1222662000,Neonatal epileptic encephalopathy due to glutaminase deficiency

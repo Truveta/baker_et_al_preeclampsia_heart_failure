@@ -1,0 +1,24 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,O44.03,"Complete placenta previa NOS or without hemorrhage, third trimester"
+ICD10CM,O44.1,Complete placenta previa with hemorrhage
+ICD10CM,O44.23,"Partial placenta previa NOS or without hemorrhage, third trimester"
+ICD10CM,O44.33,"Partial placenta previa with hemorrhage, third trimester"
+ICD10CM,O44.10,"Complete placenta previa with hemorrhage, unspecified trimester"
+ICD10CM,O44.11,"Complete placenta previa with hemorrhage, first trimester"
+ICD10CM,O44.12,"Complete placenta previa with hemorrhage, second trimester"
+ICD10CM,O44.13,"Complete placenta previa with hemorrhage, third trimester"
+SNOMED CT,7792000,Placenta previa without hemorrhage
+SNOMED CT,24095001,Placenta previa partialis
+SNOMED CT,198903000,Hemorrhage due to placenta previa
+SNOMED CT,7266006,Total placenta previa with intrapartum hemorrhage
+SNOMED CT,27388005,Partial placenta previa with intrapartum hemorrhage
+SNOMED CT,87814002,Marginal placenta previa with intrapartum hemorrhage
+SNOMED CT,119901000119109,Partial placenta previa with hemorrhage
+SNOMED CT,198899007,Placenta previa without hemorrhage - delivered
+SNOMED CT,198900002,Placenta previa without hemorrhage - not delivered
+SNOMED CT,198905007,Placenta previa with hemorrhage - delivered
+SNOMED CT,198906008,Placenta previa with hemorrhage - not delivered
+SNOMED CT,48888007,Placenta previa found before labor AND delivery by cesarean section without hemorrhage
+SNOMED CT,267197003,"Antepartum hemorrhage, abruptio placentae and placenta previa"
+ICD9CM,641.0,Placenta previa without hemorrhage
+ICD9CM,641.1,Hemorrhage from placenta previa

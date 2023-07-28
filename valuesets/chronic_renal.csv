@@ -1,0 +1,1449 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,I12,Hypertensive chronic kidney disease
+ICD10CM,I12.9,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+ICD10CM,I13,Hypertensive heart and chronic kidney disease
+ICD10CM,N03,Chronic nephritic syndrome
+ICD10CM,N04,Nephrotic syndrome
+ICD10CM,N05,Unspecified nephritic syndrome
+ICD10CM,N07,"Hereditary nephropathy, not elsewhere classified"
+ICD10CM,N08,Glomerular disorders in diseases classified elsewhere
+ICD10CM,N11.1,Chronic obstructive pyelonephritis
+ICD10CM,N11.8,Other chronic tubulo-interstitial nephritis
+ICD10CM,N11.9,"Chronic tubulo-interstitial nephritis, unspecified"
+ICD10CM,N18,Chronic kidney disease (CKD)
+ICD10CM,N25.0,Renal osteodystrophy
+ICD10CM,N25.1,Nephrogenic diabetes insipidus
+ICD10CM,N25.81,Secondary hyperparathyroidism of renal origin
+ICD10CM,N25.89,Other disorders resulting from impaired renal tubular function
+ICD10CM,N25.9,"Disorder resulting from impaired renal tubular function, unspecified"
+ICD10CM,N26.9,"Renal sclerosis, unspecified"
+ICD10CM,O26.83,Pregnancy related renal disease
+ICD10CM,I12.0,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease
+ICD10CM,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+ICD10CM,I13.1,Hypertensive heart and chronic kidney disease without heart failure
+ICD10CM,I13.10,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+ICD10CM,I13.11,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease"
+ICD10CM,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+ICD10CM,N03.0,Chronic nephritic syndrome with minor glomerular abnormality
+ICD10CM,N03.1,Chronic nephritic syndrome with focal and segmental glomerular lesions
+ICD10CM,N03.2,Chronic nephritic syndrome with diffuse membranous glomerulonephritis
+ICD10CM,N03.3,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
+ICD10CM,N03.4,Chronic nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
+ICD10CM,N03.5,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+ICD10CM,N03.6,Chronic nephritic syndrome with dense deposit disease
+ICD10CM,N03.7,Chronic nephritic syndrome with diffuse crescentic glomerulonephritis
+ICD10CM,N03.8,Chronic nephritic syndrome with other morphologic changes
+ICD10CM,N03.9,Chronic nephritic syndrome with unspecified morphologic changes
+ICD10CM,N04.0,Nephrotic syndrome with minor glomerular abnormality
+ICD10CM,N04.1,Nephrotic syndrome with focal and segmental glomerular lesions
+ICD10CM,N04.2,Nephrotic syndrome with diffuse membranous glomerulonephritis
+ICD10CM,N04.3,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis
+ICD10CM,N04.4,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis
+ICD10CM,N04.5,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis
+ICD10CM,N04.6,Nephrotic syndrome with dense deposit disease
+ICD10CM,N04.7,Nephrotic syndrome with diffuse crescentic glomerulonephritis
+ICD10CM,N04.8,Nephrotic syndrome with other morphologic changes
+ICD10CM,N04.9,Nephrotic syndrome with unspecified morphologic changes
+ICD10CM,N05.0,Unspecified nephritic syndrome with minor glomerular abnormality
+ICD10CM,N05.1,Unspecified nephritic syndrome with focal and segmental glomerular lesions
+ICD10CM,N05.2,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis
+ICD10CM,N05.3,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis
+ICD10CM,N05.4,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis
+ICD10CM,N05.5,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis
+ICD10CM,N05.6,Unspecified nephritic syndrome with dense deposit disease
+ICD10CM,N05.7,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis
+ICD10CM,N05.8,Unspecified nephritic syndrome with other morphologic changes
+ICD10CM,N05.9,Unspecified nephritic syndrome with unspecified morphologic changes
+ICD10CM,N07.0,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality"
+ICD10CM,N07.1,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions"
+ICD10CM,N07.2,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis"
+ICD10CM,N07.3,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis"
+ICD10CM,N07.4,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis"
+ICD10CM,N07.5,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis"
+ICD10CM,N07.6,"Hereditary nephropathy, not elsewhere classified with dense deposit disease"
+ICD10CM,N07.7,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis"
+ICD10CM,N07.8,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions"
+ICD10CM,N07.9,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions"
+ICD10CM,N18.1,"Chronic kidney disease, stage 1"
+ICD10CM,N18.2,"Chronic kidney disease, stage 2 (mild)"
+ICD10CM,N18.3,"Chronic kidney disease, stage 3 (moderate)"
+ICD10CM,N18.4,"Chronic kidney disease, stage 4 (severe)"
+ICD10CM,N18.5,"Chronic kidney disease, stage 5"
+ICD10CM,N18.6,End stage renal disease
+ICD10CM,N18.9,"Chronic kidney disease, unspecified"
+ICD10CM,O26.831,"Pregnancy related renal disease, first trimester"
+ICD10CM,O26.832,"Pregnancy related renal disease, second trimester"
+ICD10CM,O26.833,"Pregnancy related renal disease, third trimester"
+ICD10CM,O26.839,"Pregnancy related renal disease, unspecified trimester"
+ICD10CM,N03.A,Chronic nephritic syndrome with C3 glomerulonephritis
+ICD10CM,N04.A,Nephrotic syndrome with C3 glomerulonephritis
+ICD10CM,N05.A,Unspecified nephritic syndrome with C3 glomerulonephritis
+ICD10CM,N07.A,"Hereditary nephropathy, not elsewhere classified with C3 glomerulonephritis"
+ICD10CM,N18.30,"Chronic kidney disease, stage 3 unspecified"
+ICD10CM,N18.31,"Chronic kidney disease, stage 3a"
+ICD10CM,N18.32,"Chronic kidney disease, stage 3b"
+ICD9CM,403,Hypertensive chronic kidney disease
+ICD9CM,404,Hypertensive heart and chronic kidney disease
+ICD9CM,581,Nephrotic syndrome
+ICD9CM,582,Chronic glomerulonephritis
+ICD9CM,583,"Nephritis and nephropathy, not specified as acute or chronic"
+ICD9CM,585,Chronic kidney disease (CKD)
+ICD9CM,587,"Renal sclerosis, unspecified"
+ICD9CM,588,Disorders resulting from impaired renal function
+ICD9CM,646.2,"Unspecified renal disease in pregnancy, without mention of hypertension"
+ICD9CM,V13.03,"Personal history, nephrotic syndrome"
+SNOMED CT,7724006,Nephritic syndrome
+SNOMED CT,16726004,Renal osteodystrophy
+SNOMED CT,19034001,Hyperparathyroidism due to renal insufficiency
+SNOMED CT,32916005,Nephrosclerosis
+SNOMED CT,90708001,Disorder of kidney
+SNOMED CT,111395007,Nephrogenic diabetes insipidus
+SNOMED CT,8501000119104,Hypertensive heart and chronic kidney disease
+SNOMED CT,104931000119100,Chronic kidney disease due to hypertension
+SNOMED CT,367591000119105,Hereditary nephropathy
+SNOMED CT,709044004,Chronic kidney disease
+SNOMED CT,197663003,Impaired renal function disorder
+SNOMED CT,197679002,Glomerular disease
+SNOMED CT,197707007,Chronic nephritic syndrome
+SNOMED CT,236379002,Chronic obstructive pyelonephritis
+SNOMED CT,52254009,Nephrosis
+SNOMED CT,60926001,Chronic tubulointerstitial nephritis
+SNOMED CT,1187124004,Apolipoprotein A-IV amyloidosis
+SNOMED CT,1177174007,Acute kidney injury following administration of contrast media
+SNOMED CT,1187460003,Unilateral multicystic renal dysplasia
+SNOMED CT,1216942009,"Cerebral ventriculomegaly, cystic kidney disease"
+SNOMED CT,1220648003,Complete induced termination of pregnancy complicated by renal failure
+SNOMED CT,1220586000,Incomplete induced termination of pregnancy complicated by renal failure
+SNOMED CT,145781000119106,Infection of transplanted kidney
+SNOMED CT,1208934006,Sagliker syndrome
+SNOMED CT,1208341008,Severe oculo-renal-cerebellar syndrome
+SNOMED CT,1162265009,Acute exudative glomerulonephritis
+SNOMED CT,11801451000119106,Left kidney traumatic injury
+SNOMED CT,1187557007,Glomerular disorder due to amyloidosis
+SNOMED CT,1163491000,Glomerular disorder due to infection caused by Schistosoma
+SNOMED CT,1187554000,Glomerular disorder due to neuropathic heredofamilial amyloidosis
+SNOMED CT,1187555004,Glomerular disorder due to organ-limited amyloidosis
+SNOMED CT,1187553006,Glomerular disorder due to secondary systemic amyloidosis
+SNOMED CT,1163484003,Glomerular disorder due to Strongyloides infection
+SNOMED CT,1187507004,Immunoglobulin G4 related kidney disease
+SNOMED CT,1187546002,Renal tubulo-interstitial disorder due to cystinosis
+SNOMED CT,11801411000119105,Right kidney traumatic injury
+SNOMED CT,1169358003,MARCH syndrome
+SNOMED CT,1187464007,Clear cell sarcoma of kidney
+SNOMED CT,1162266005,Exudative glomerulonephritis
+SNOMED CT,1187040004,Familial steroid-resistant nephrotic syndrome with adrenal insufficiency
+SNOMED CT,1426004,Necrotizing glomerulonephritis
+SNOMED CT,1474004,Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth
+SNOMED CT,1592005,Failed attempted termination of pregnancy with uremia
+SNOMED CT,3321001,Renal abscess
+SNOMED CT,3704008,Diffuse endocapillary proliferative glomerulonephritis
+SNOMED CT,193003,Benign hypertensive renal disease
+SNOMED CT,290006,Melnick-Fraser syndrome
+SNOMED CT,3999002,Acute pyelitis without renal medullary necrosis
+SNOMED CT,4390004,Lithium nephropathy
+SNOMED CT,4451004,Illegal termination of pregnancy with renal tubular necrosis
+SNOMED CT,4495005,Congenital hypertrophy of ureteric valve
+SNOMED CT,4576001,Legal termination of pregnancy complicated by renal failure
+SNOMED CT,4676006,"SLE glomerulonephritis syndrome, WHO class II"
+SNOMED CT,5397007,Congenital anomaly of renal pelvis
+SNOMED CT,7448003,Acute pyonephrosis with renal medullary necrosis
+SNOMED CT,7703001,Renal tubular defect
+SNOMED CT,7725007,Radiation nephritis
+SNOMED CT,8199003,Focal embolic nephritis syndrome
+SNOMED CT,8468007,Legal termination of pregnancy with uremia
+SNOMED CT,8996006,Illegal termination of pregnancy complicated by renal failure
+SNOMED CT,9264002,Laceration of kidney with open wound into abdominal cavity
+SNOMED CT,9298006,Hematoma of kidney without rupture of capsule AND without open wound into abdominal cavity
+SNOMED CT,9918001,Mobile kidney
+SNOMED CT,11013005,"SLE glomerulonephritis syndrome, WHO class VI"
+SNOMED CT,11480007,Idiopathic granulomatous interstitial nephropathy
+SNOMED CT,11659006,Uremic neuropathy
+SNOMED CT,12897005,Congenital stricture of ureteropelvic junction
+SNOMED CT,13335004,Sclerosing glomerulonephritis
+SNOMED CT,13530005,Congenital lobulation of kidney
+SNOMED CT,13886001,Sickle cell nephropathy
+SNOMED CT,14178006,Double renal pelvis
+SNOMED CT,14343001,Acute pyelitis with renal medullary necrosis
+SNOMED CT,14669001,Acute renal failure syndrome
+SNOMED CT,14973001,Renal sclerosis with hypertension
+SNOMED CT,15123008,Familial amyloid nephropathy with urticaria AND deafness
+SNOMED CT,16297002,Congenital hydronephrosis
+SNOMED CT,16507009,Ectopic kidney
+SNOMED CT,16652001,Fabry's disease
+SNOMED CT,16751003,Acute tubulointerstitial nephritis associated with systemic infection
+SNOMED CT,16756008,Albuminuria in pregnancy without hypertension
+SNOMED CT,17121006,Mumps nephritis
+SNOMED CT,17380002,Failed attempted termination of pregnancy with acute renal failure
+SNOMED CT,17901006,Primary hyperoxaluria
+SNOMED CT,18417009,Oligomeganephronic hypoplasia of kidney
+SNOMED CT,19351000,Acute glomerulonephritis
+SNOMED CT,20341008,Injury of kidney without open wound into abdominal cavity
+SNOMED CT,20483002,Legal termination of pregnancy with renal tubular necrosis
+SNOMED CT,20917003,Chronic glomerulonephritis
+SNOMED CT,21764004,Renal carnitine transport defect
+SNOMED CT,21952001,"Cystinuria, type 2"
+SNOMED CT,22011005,"Hartnup disorder, renal type"
+SNOMED CT,22352007,Acute bacterial tubulointerstitial nephritis
+SNOMED CT,22702000,Glomerulitis
+SNOMED CT,22846003,Hepatorenal syndrome following delivery
+SNOMED CT,22966008,Hypertensive heart AND renal disease complicating AND/OR reason for care during pregnancy
+SNOMED CT,23697004,Crush syndrome
+SNOMED CT,23754003,Calculous pyelonephritis
+SNOMED CT,24790002,Proximal renal tubular acidosis
+SNOMED CT,25646005,Isolated cystinuria
+SNOMED CT,25765006,Neonatal iminoglycinuria
+SNOMED CT,25821008,Focal glomerular sclerosis
+SNOMED CT,26121002,Balkan nephropathy
+SNOMED CT,26235008,Renal tubular necrosis following molar AND/OR ectopic pregnancy
+SNOMED CT,26367008,Radiographic contrast agent nephropathy
+SNOMED CT,27174002,Pyelitis
+SNOMED CT,27810000,Acute viral tubulointerstitial nephritis
+SNOMED CT,28196006,Uremia following molar AND/OR ectopic pregnancy
+SNOMED CT,28637003,Acute tubulointerstitial nephritis
+SNOMED CT,28770003,"Polycystic kidney disease, infantile type"
+SNOMED CT,29908007,Oliguria following molar AND/OR ectopic pregnancy
+SNOMED CT,30124006,Rupture of kidney
+SNOMED CT,30275001,Accessory kidney
+SNOMED CT,30295007,"Renal glucosuria, type B"
+SNOMED CT,31005002,Hepatorenal syndrome due to a procedure
+SNOMED CT,31881008,Cardiovascular renal disease
+SNOMED CT,32093003,Acute drug-induced tubulointerstitial nephritis
+SNOMED CT,32278006,Myeloma kidney
+SNOMED CT,32659003,Congenital hypoplasia of kidney
+SNOMED CT,32801008,Acute pyelitis
+SNOMED CT,33561005,Illegal termination of pregnancy with acute renal failure
+SNOMED CT,33763006,Hypercalcemic nephropathy
+SNOMED CT,34165000,Gestational proteinuria
+SNOMED CT,80902009,Neutral 1 amino acid transport defect
+SNOMED CT,81363003,Malignant arteriolar nephrosclerosis
+SNOMED CT,81475007,Acquired nephrogenic diabetes insipidus
+SNOMED CT,81896006,Dysmorphic sialidosis with renal involvement
+SNOMED CT,81986001,Renal secondary osteodystrophia fibrosa
+SNOMED CT,82112005,Idiopathic chronic tubulointerstitial nephritis
+SNOMED CT,82525005,Multiple congenital cysts of kidney
+SNOMED CT,83563007,Renal hemosiderosis
+SNOMED CT,83850008,Uremic acidosis
+SNOMED CT,83866005,Focal AND segmental proliferative glomerulonephritis
+SNOMED CT,83923004,Familial interstitial nephritis
+SNOMED CT,84121007,Iminoglycinuria
+SNOMED CT,85020001,Cystinuria
+SNOMED CT,85487008,Renal phosphaturia
+SNOMED CT,85495007,Acute pyonephrosis without renal medullary necrosis
+SNOMED CT,85901000,Dilatation of calyx without dilatation of pelvis and ureter
+SNOMED CT,86234004,Hypertensive heart AND renal disease
+SNOMED CT,86249007,Obstructive nephropathy
+SNOMED CT,86463003,Solitary multilocular renal cyst
+SNOMED CT,88102009,Nodular renal blastema
+SNOMED CT,88380005,Acute milk alkali syndrome
+SNOMED CT,88531004,Hypertrophy of kidney
+SNOMED CT,89637003,Pyelitis glandularis
+SNOMED CT,90241004,Papillary necrosis
+SNOMED CT,90493000,Arteriolar nephrosclerosis
+SNOMED CT,90688005,Chronic renal failure
+SNOMED CT,91003006,Salt-losing nephropathy
+SNOMED CT,91195006,Acute fungal tubulointerstitial nephritis
+SNOMED CT,92165001,Benign neoplasm of kidney
+SNOMED CT,92319008,Benign neoplasm of renal pelvis
+SNOMED CT,92624000,Carcinoma in situ of kidney
+SNOMED CT,92697000,Carcinoma in situ of renal pelvis
+SNOMED CT,92921005,Congenital abnormal shape of kidney
+SNOMED CT,92975004,Congenital absence of renal papilla
+SNOMED CT,93290000,Congenital hypoplasia of renal pelvis
+SNOMED CT,93425004,Discoloration of kidney
+SNOMED CT,93849006,Primary malignant neoplasm of kidney
+SNOMED CT,93985007,Primary malignant neoplasm of renal pelvis
+SNOMED CT,94360002,Metastatic malignant neoplasm of kidney
+SNOMED CT,94514000,Metastatic malignant neoplasm of renal pelvis
+SNOMED CT,94889006,Neoplasm of uncertain behavior of kidney
+SNOMED CT,95025009,Neoplasm of uncertain behavior of renal pelvis
+SNOMED CT,95568003,Renal tubular disorder
+SNOMED CT,95570007,Kidney stone
+SNOMED CT,95571006,Hemorrhage of kidney
+SNOMED CT,95575002,Obstruction of pelviureteric junction
+SNOMED CT,95577005,Renal interstitial fibrosis
+SNOMED CT,95581005,Bilateral hydronephrosis
+SNOMED CT,95582003,Kidney crystallization
+SNOMED CT,102803006,Absence of renin secretion
+SNOMED CT,105999006,Acquired renal cystic disease
+SNOMED CT,106000008,Metabolic renal disease
+SNOMED CT,109477002,Enamel-renal syndrome
+SNOMED CT,111403005,Lipomatosis renis
+SNOMED CT,111406002,Diffuse mesangial sclerosis
+SNOMED CT,111407006,Hemolytic uremic syndrome
+SNOMED CT,112066009,Absent renal function
+SNOMED CT,118951003,Drug-induced nephrogenic diabetes insipidus
+SNOMED CT,123609007,Subacute glomerulonephritis
+SNOMED CT,123610002,Healed glomerulonephritis
+SNOMED CT,123612005,Healed pyelonephritis
+SNOMED CT,123752003,Immune-complex glomerulonephritis
+SNOMED CT,123753008,Nephrotoxic serum nephritis
+SNOMED CT,124147007,Deficiency of xanthine oxidase
+SNOMED CT,126880001,Neoplasm of kidney
+SNOMED CT,126881002,Neoplasm of renal pelvis
+SNOMED CT,127013003,Disorder of kidney due to diabetes mellitus
+SNOMED CT,129128006,Infectious disorder of kidney
+SNOMED CT,1079531000119106,Metastatic malignant neoplasm to left kidney
+SNOMED CT,1079541000119102,Metastatic malignant neoplasm to right kidney
+SNOMED CT,1080561000119103,Primary leiomyosarcoma of left kidney
+SNOMED CT,1080611000119100,Primary leiomyosarcoma of right kidney
+SNOMED CT,1137561000,Congenital megacalycosis
+SNOMED CT,1142048002,Persistent gestational proteinuria
+SNOMED CT,1142097006,Intermittent gestational proteinuria
+SNOMED CT,1144897006,Chronic tubulointerstitial nephritis due to metabolic disease
+SNOMED CT,1144899009,Chronic tubulointerstitial nephritis due to neoplastic disease
+SNOMED CT,1144903002,Chronic tubulointerstitial nephritis due to ischemia
+SNOMED CT,1144909003,Chronic tubulo-interstitial nephritis due to connective tissue disorder
+SNOMED CT,1144941009,Chronic tubulointerstitial nephritis following renal transplantation
+SNOMED CT,1144960002,Acute tubular necrosis due to mixed ischemic and toxic causes
+SNOMED CT,1144961003,Acute tubular necrosis caused by toxin
+SNOMED CT,1144972008,Acute tubulo-interstitial nephritis due to immunological disorder
+SNOMED CT,1144973003,Renal disorder due to systemic lupus erythematosus
+SNOMED CT,1144975005,Glomerular disorder due to thrombotic thrombocytopenic purpura
+SNOMED CT,1144979004,Glomerular disorder due to hemolytic uremic syndrome
+SNOMED CT,1148846008,Mixed epithelial and stromal benign neoplasm of kidney
+SNOMED CT,1148852009,Malignant cystic nephroma
+SNOMED CT,1148867008,Glomerular disease due to mitochondrial cytopathy
+SNOMED CT,1148869006,Glomerular disease due to neoplastic disease
+SNOMED CT,1148871006,Glomerular disease due to Finnish type congenital nephrotic syndrome
+SNOMED CT,1148873009,Glomerular disease due to hematological disease
+SNOMED CT,1148876001,Glomerular disease due to familial hematuria
+SNOMED CT,1148881005,Glomerular disease due to diffuse mesangial sclerosis
+SNOMED CT,1148882003,Glomerular disease due to familial disease
+SNOMED CT,1148883008,Glomerular disease due to coagulation disorder
+SNOMED CT,1148884002,Glomerular disease due to complement system disorder
+SNOMED CT,1148885001,Glomerular disease due to action myoclonus renal failure syndrome
+SNOMED CT,1148887009,Glomerular disease due to Alport syndrome
+SNOMED CT,1148888004,Nodular glomerulosclerosis due to heavy chain deposition disease
+SNOMED CT,1148903009,Secondary glomerular disease
+SNOMED CT,1148908000,Acquired hydronephrosis due to ureteral orifice obstruction
+SNOMED CT,1148909008,Acquired hydronephrosis due to ureteral obstruction
+SNOMED CT,1148915008,Glomerular disease due to thin basement membrane nephropathy
+SNOMED CT,1148919002,Glomerular disease due to double heterozygous sickling disorder
+SNOMED CT,1148921007,Glomerular disorder due to sickle cell trait
+SNOMED CT,1148923005,Idiopathic nodular glomerulosclerosis
+SNOMED CT,1148931000,Cystic renal cell carcinoma of kidney
+SNOMED CT,1148933002,Congenital hydronephrosis due to ureteral orifice obstruction
+SNOMED CT,1148935009,Cystic partially differentiated nephroblastoma of kidney
+SNOMED CT,1148937001,Congenital hydronephrosis due to bladder obstruction
+SNOMED CT,1148939003,Congenital hydronephrosis due to ureteral obstruction
+SNOMED CT,1155732005,Cystic dysplasia of kidney
+SNOMED CT,1157178009,Compression of parenchyma of kidney
+SNOMED CT,12246481000119106,Bilateral metastatic malignant neoplasm to kidneys
+SNOMED CT,15957661000119104,Bilateral benign neoplasm of kidneys
+SNOMED CT,15958021000119103,Primary sarcoma of left kidney
+SNOMED CT,15958101000119106,Primary sarcoma of right kidney
+SNOMED CT,15958181000119103,Metastatic adenocarcinoma to bilateral kidneys
+SNOMED CT,15958221000119106,Metastatic adenocarcinoma to left kidney
+SNOMED CT,15958261000119101,Metastatic adenocarcinoma to right kidney
+SNOMED CT,15958301000119109,Metastatic squamous cell carcinoma to right kidney
+SNOMED CT,15958381000119101,Metastatic squamous cell carcinoma to left kidney
+SNOMED CT,15958661000119103,Metastatic malignant melanoma to left kidney
+SNOMED CT,15958701000119105,Bilateral metastatic malignant melanoma to kidneys
+SNOMED CT,15958741000119107,Metastatic malignant melanoma to right kidney
+SNOMED CT,15959261000119108,Bilateral neoplasm of uncertain behavior of kidneys
+SNOMED CT,16067811000119101,Benign carcinoid tumor of left kidney
+SNOMED CT,16067851000119100,Benign carcinoid tumor of right kidney
+SNOMED CT,16697291000119100,Bilateral neoplasm of kidneys
+SNOMED CT,352961000119103,Primary malignant neoplasm of right renal pelvis
+SNOMED CT,353111000119108,Primary malignant neoplasm of left renal pelvis
+SNOMED CT,763101411000119100,Primary renal cell carcinoma of left kidney
+SNOMED CT,894171571000119107,Primary renal cell carcinoma of right kidney
+SNOMED CT,788613004,Anti-glomerular basement membrane disease
+SNOMED CT,789660001,Atypical hemolytic uremic syndrome
+SNOMED CT,792925006,Armanni-Ebstein kidney
+SNOMED CT,792926007,Armanni-Ebstein kidney due to diabetes mellitus
+SNOMED CT,816069008,Glomerular fibrosis
+SNOMED CT,818952002,Fibronectin glomerulopathy
+SNOMED CT,829971006,Non-amyloid monoclonal immunoglobulin deposition disease
+SNOMED CT,833291009,Calcium oxalate calculus of kidney
+SNOMED CT,833293007,Cystine calculus of kidney
+SNOMED CT,836486002,Lymphomatous infiltrate of kidney
+SNOMED CT,838353009,Acute pyelonephritis caused by bacterium
+SNOMED CT,840638005,Phosphate staghorn calculus
+SNOMED CT,860892003,Glomerular disease due to infectious disease
+SNOMED CT,860893008,Glomerular disease due to parasitic disease
+SNOMED CT,870589006,Acute kidney injury due to COVID-19
+SNOMED CT,711000119100,Chronic kidney disease stage 5 due to type 2 diabetes mellitus
+SNOMED CT,721000119107,Chronic kidney disease stage 4 due to type 2 diabetes mellitus
+SNOMED CT,731000119105,Chronic kidney disease stage 3 due to type 2 diabetes mellitus
+SNOMED CT,741000119101,Chronic kidney disease stage 2 due to type 2 diabetes mellitus
+SNOMED CT,751000119104,Chronic kidney disease stage 1 due to type 2 diabetes mellitus
+SNOMED CT,771000119108,Chronic kidney disease due to type 2 diabetes mellitus
+SNOMED CT,1801000119106,"Anemia, pre-end stage renal disease on erythropoietin protocol"
+SNOMED CT,4181000119109,Obstructive pyelonephritis
+SNOMED CT,5941000119101,Congenital single renal cyst
+SNOMED CT,7011000119105,Exudative nephritis
+SNOMED CT,15781000119107,Hypertensive heart AND chronic kidney disease with congestive heart failure
+SNOMED CT,15911000119103,Primary tubulointerstitial nephritis
+SNOMED CT,18521000119106,Microalbuminuria due to type 1 diabetes mellitus
+SNOMED CT,28191000119109,Chronic nephritic syndrome with membranous glomerulonephritis
+SNOMED CT,40371000119105,Acute nephritis due to another disorder
+SNOMED CT,40391000119106,Secondary chronic nephritis
+SNOMED CT,42231000009109,Bacterial nephritis
+SNOMED CT,50411000119108,Secondary tubulointerstitial nephritis
+SNOMED CT,71421000119105,Hypertension in chronic kidney disease due to type 2 diabetes mellitus
+SNOMED CT,71441000119104,Nephrotic syndrome due to type 2 diabetes mellitus
+SNOMED CT,71701000119105,Hypertension in chronic kidney disease due to type 1 diabetes mellitus
+SNOMED CT,71721000119101,Nephrotic syndrome due to type 1 diabetes mellitus
+SNOMED CT,74011000119107,Renal anasarca
+SNOMED CT,76401000119105,Congenital anomaly of ureter and renal pelvis
+SNOMED CT,85381000119105,Glomerulonephritis due to Henoch-Schönlein purpura
+SNOMED CT,89681000119101,Glomerulonephritis co-occurrent and due to scleroderma
+SNOMED CT,90721000119101,Chronic kidney disease stage 1 due to type 1 diabetes mellitus
+SNOMED CT,90731000119103,Chronic kidney disease stage 2 due to type 1 diabetes mellitus
+SNOMED CT,90741000119107,Chronic kidney disease stage 3 due to type 1 diabetes mellitus
+SNOMED CT,90751000119109,Chronic kidney disease stage 4 due to type 1 diabetes mellitus
+SNOMED CT,90761000119106,Chronic kidney disease stage 5 due to type 1 diabetes mellitus
+SNOMED CT,90771000119100,End stage renal disease on dialysis due to type 1 diabetes mellitus
+SNOMED CT,90781000119102,Microalbuminuria due to type 2 diabetes mellitus
+SNOMED CT,90791000119104,End stage renal disease on dialysis due to type 2 diabetes mellitus
+SNOMED CT,90971000119103,Vasculitis with glomerulonephritis
+SNOMED CT,94181000119108,Duplicated collecting system without obstruction
+SNOMED CT,96441000119101,Chronic kidney disease due to type 1 diabetes mellitus
+SNOMED CT,96701000119107,Hypertensive heart AND chronic kidney disease on dialysis
+SNOMED CT,96711000119105,Hypertensive heart AND chronic kidney disease stage 5
+SNOMED CT,96721000119103,Hypertensive heart AND chronic kidney disease stage 4
+SNOMED CT,96731000119100,Hypertensive heart AND chronic kidney disease stage 3
+SNOMED CT,96741000119109,Hypertensive heart AND chronic kidney disease stage 2
+SNOMED CT,96751000119106,Hypertensive heart AND chronic kidney disease stage 1
+SNOMED CT,98371000119102,Acquired complex renal cyst
+SNOMED CT,101711000119105,Glomerulonephritis co-occurrent and due to antineutrophil cytoplasmic antibody positive vasculitis
+SNOMED CT,106911000119102,Idiopathic glomerulonephritis
+SNOMED CT,108101000119101,Malignant melanoma metastatic to kidney
+SNOMED CT,108131000119108,Small cell carcinoma metastatic to kidney
+SNOMED CT,108201000119105,Secondary undifferentiated large cell malignant neoplasm of kidney
+SNOMED CT,108211000119108,Secondary adenocarcinoma of kidney
+SNOMED CT,111411000119103,End stage renal disease due to hypertension
+SNOMED CT,111631000119106,Congenital dilatation of renal pelvis
+SNOMED CT,117681000119102,Chronic kidney disease stage 1 due to hypertension
+SNOMED CT,118781000119108,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy
+SNOMED CT,120241000119100,Glomerulonephritis due to hepatitis C
+SNOMED CT,120261000119101,Benign hypertensive heart disease and chronic renal disease stage 5
+SNOMED CT,126551000119103,Nephropathy due to secondary diabetes mellitus
+SNOMED CT,127901000119107,Light chain nephropathy due to plasma cell dyscrasia
+SNOMED CT,127911000119105,Light chain nephropathy due to multiple myeloma
+SNOMED CT,127991000119101,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus
+SNOMED CT,128001000119105,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
+SNOMED CT,129151000119102,Chronic kidney disease stage 4 due to hypertension
+SNOMED CT,129161000119100,Chronic kidney disease stage 5 due to hypertension
+SNOMED CT,129171000119106,Chronic kidney disease stage 3 due to hypertension
+SNOMED CT,129181000119109,Chronic kidney disease stage 2 due to hypertension
+SNOMED CT,129561000119108,Prerenal renal failure
+SNOMED CT,129721000119106,Acute renal failure on dialysis
+SNOMED CT,130181000119100,Benign neuroendocrine tumor of kidney
+SNOMED CT,140031000119103,Acute nontraumatic kidney injury
+SNOMED CT,140101000119109,Hypertension in chronic kidney disease stage 5 due to type 2 diabetes mellitus
+SNOMED CT,140111000119107,Hypertension in chronic kidney disease stage 4 due to type 2 diabetes mellitus
+SNOMED CT,140121000119100,Hypertension in chronic kidney disease stage 3 due to type 2 diabetes mellitus
+SNOMED CT,140131000119102,Hypertension in chronic kidney disease stage 2 due to type 2 diabetes mellitus
+SNOMED CT,145681000119101,Acute renal failure due to tubular necrosis
+SNOMED CT,153851000119106,Malignant hypertensive chronic kidney disease stage 5
+SNOMED CT,153891000119101,End stage renal disease on dialysis due to hypertension
+SNOMED CT,157141000119108,Proteinuria due to type 2 diabetes mellitus
+SNOMED CT,195791000119101,Chronic proliferative glomerulonephritis
+SNOMED CT,243421000119104,Proteinuria due to type 1 diabetes mellitus
+SNOMED CT,284961000119106,Chronic kidney disease due to benign hypertension
+SNOMED CT,284971000119100,Chronic kidney disease stage 1 due to benign hypertension
+SNOMED CT,284981000119102,Chronic kidney disease stage 2 due to benign hypertension
+SNOMED CT,284991000119104,Chronic kidney disease stage 3 due to benign hypertension
+SNOMED CT,285001000119105,Chronic kidney disease stage 4 due to benign hypertension
+SNOMED CT,285011000119108,Chronic kidney disease stage 5 due to benign hypertension
+SNOMED CT,285041000119107,Benign hypertensive heart disease and chronic renal disease stage 1
+SNOMED CT,285061000119106,Benign hypertensive heart disease and chronic renal disease stage 2
+SNOMED CT,285081000119102,Benign hypertensive heart disease and chronic renal disease stage 3
+SNOMED CT,285101000119109,Benign hypertensive heart disease and chronic renal disease stage 4
+SNOMED CT,285831000119108,Malignant hypertensive chronic kidney disease
+SNOMED CT,285841000119104,Malignant hypertensive end stage renal disease
+SNOMED CT,285851000119102,Malignant hypertensive chronic kidney disease stage 1
+SNOMED CT,285861000119100,Malignant hypertensive chronic kidney disease stage 2
+SNOMED CT,285871000119106,Malignant hypertensive chronic kidney disease stage 3
+SNOMED CT,285881000119109,Malignant hypertensive chronic kidney disease stage 4
+SNOMED CT,285911000119109,Malignant hypertensive heart disease and chronic renal disease stage 3
+SNOMED CT,285921000119102,Malignant hypertensive heart disease and chronic renal disease stage 4
+SNOMED CT,286371000119107,Malignant hypertensive end stage renal disease on dialysis
+SNOMED CT,295101000119105,Nephropathy co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,295111000119108,Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,295121000119101,Nephrosis co-occurrent and due to systemic lupus erythematosus
+SNOMED CT,308751000119106,Glomerular disease due to systemic lupus erythematosus
+SNOMED CT,320681000119102,Tubulointerstitial nephropathy due to Sjogren syndrome
+SNOMED CT,351421000119105,Neoplasm of uncertain behavior of left kidney
+SNOMED CT,351611000119101,Neoplasm of uncertain behavior of right kidney
+SNOMED CT,353911000119105,Benign neoplasm of right renal pelvis
+SNOMED CT,353961000119108,Benign neoplasm of right kidney
+SNOMED CT,354021000119100,Benign neoplasm of left renal pelvis
+SNOMED CT,354121000119104,Benign neoplasm of left kidney
+SNOMED CT,354351000119105,Primary malignant neoplasm of left kidney
+SNOMED CT,354361000119107,Primary malignant neoplasm of right kidney
+SNOMED CT,367051000119105,Morphologic change of kidney due to chronic nephritic syndrome
+SNOMED CT,367481000119108,Extrarenal uremia
+SNOMED CT,367511000119101,"Hereditary mesangiocapillary glomerulonephritis, type 2"
+SNOMED CT,367521000119108,Hereditary diffuse crescentic glomerulonephritis
+SNOMED CT,367531000119106,Hereditary diffuse endocapillary proliferative glomerulonephritis
+SNOMED CT,367541000119102,Hereditary diffuse membranous glomerulonephritis
+SNOMED CT,367551000119100,Hereditary diffuse mesangial proliferative glomerulonephritis
+SNOMED CT,367561000119103,Hereditary diffuse mesangiocapillary glomerulonephritis
+SNOMED CT,367571000119109,Hereditary focal and segmental glomerular lesions
+SNOMED CT,367581000119107,Hereditary minor glomerular abnormality
+SNOMED CT,367611000119100,Hydronephrosis due to ureteral stricture
+SNOMED CT,367621000119107,Hyperoxaluria
+SNOMED CT,367821000119106,Page kidney
+SNOMED CT,368871000119106,Acute nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+SNOMED CT,368881000119109,Rapidly progressive nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+SNOMED CT,368901000119106,Chronic nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+SNOMED CT,368911000119109,Nephrotic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+SNOMED CT,368921000119102,Nephritic syndrome co-occurrent and due to membranoproliferative glomerulonephritis type III
+SNOMED CT,368931000119104,Isolated proteinuria co-occurrent and due to membranoproliferative glomerulonephritis type III
+SNOMED CT,368941000119108,Hereditary nephropathy co-occurrent with membranoproliferative glomerulonephritis type III
+SNOMED CT,368951000119105,Acute kidney injury caused by contrast agent
+SNOMED CT,368961000119107,Partial nephrogenic diabetes insipidus
+SNOMED CT,369071000119105,Congenital renal cyst
+SNOMED CT,429691000124100,Open injury of kidney grade I
+SNOMED CT,429701000124100,Open injury of kidney grade II
+SNOMED CT,429711000124102,Open injury of kidney grade III
+SNOMED CT,429721000124105,Open injury of kidney grade IV
+SNOMED CT,429731000124108,Open injury of kidney grade V
+SNOMED CT,431431000124100,Arteriosclerosis of renal artery
+SNOMED CT,434431000124103,Hypertensive end stage renal disease
+SNOMED CT,449631000124102,Benign hypertensive heart disease and chronic renal disease
+SNOMED CT,691421000119108,Anemia co-occurrent and due to chronic kidney disease stage 3
+SNOMED CT,1056501000112102,Recurrent kidney stone
+SNOMED CT,1078991000119106,Angiomyolipoma of left kidney
+SNOMED CT,1079001000119106,Angiomyolipoma of right kidney
+SNOMED CT,1081231000119103,Oncocytoma of left kidney
+SNOMED CT,1081241000119107,Oncocytoma of right kidney
+SNOMED CT,1081571000119102,Clear cell carcinoma of left kidney
+SNOMED CT,1081581000119104,Clear cell carcinoma of right kidney
+SNOMED CT,1081801000112104,Acute nephrotic syndrome
+SNOMED CT,1082281000119105,Transitional cell carcinoma of left renal pelvis
+SNOMED CT,1082301000119109,Transitional cell carcinoma of right renal pelvis
+SNOMED CT,1082321000119100,Nephroblastoma of left kidney
+SNOMED CT,1082331000119102,Nephroblastoma of right kidney
+SNOMED CT,1086071000119103,Diphtheria tubulointerstitial nephropathy
+SNOMED CT,1087041000119107,Gonorrhea of kidney and ureter
+SNOMED CT,1092831000119109,Toxoplasma tubulointerstitial nephropathy
+SNOMED CT,10752771000119100,Renal failure after ectopic pregnancy
+SNOMED CT,10757401000119104,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth
+SNOMED CT,10757481000119107,Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy
+SNOMED CT,11798411000119101,Traumatic hematoma of right kidney
+SNOMED CT,11798461000119103,Traumatic hematoma of left kidney
+SNOMED CT,11800851000119104,Laceration of right kidney
+SNOMED CT,11800891000119109,Laceration of left kidney
+SNOMED CT,11801171000119107,Contusion of right kidney
+SNOMED CT,11801251000119105,Contusion of left kidney
+SNOMED CT,14350001000004108,Acute injury of kidney
+SNOMED CT,15636991000119103,Renal cell carcinoma of bilateral kidneys
+SNOMED CT,15638291000119105,Angiomyolipoma of bilateral kidneys
+SNOMED CT,15648731000119101,Atherosclerosis of right renal artery
+SNOMED CT,15648771000119103,Atherosclerosis of bilateral renal arteries
+SNOMED CT,15648821000119105,Atherosclerosis of left renal artery
+SNOMED CT,15959061000119101,Transitional cell carcinoma of left kidney
+SNOMED CT,15959101000119103,Transitional cell carcinoma of right kidney
+SNOMED CT,16218721000119107,Hyperparathyroidism due to end stage renal disease on dialysis
+SNOMED CT,16705321000119109,Neoplasm of right kidney
+SNOMED CT,16705361000119104,Neoplasm of left kidney
+SNOMED CT,18300001000004102,Complex renal cyst
+SNOMED CT,22470001000004107,Ruptured cyst of kidney
+SNOMED CT,1776003,Renotubular acidemia
+SNOMED CT,13889008,Methyl lomustine nephropathy
+SNOMED CT,24814002,Potter facies
+SNOMED CT,44785005,MCD - Minimal change disease
+SNOMED CT,50581000,Pulmonary-renal syndrome
+SNOMED CT,55652009,Idiopathic crescentic glomerulonephritis type 3
+SNOMED CT,59479006,"MCGNdd - Mesangiocapillary glomerulonephritis, dense deposit"
+SNOMED CT,65520001,Glycolic aciduria
+SNOMED CT,68779003,Focal glomerulonephritis
+SNOMED CT,75888001,Subendothelial mesangiocapillary glomerulonephritis
+SNOMED CT,79385002,Oculocerebrorenal syndrome of Lowe
+SNOMED CT,81987005,Familial hypokalemia
+SNOMED CT,204949001,Congenital renal dysplasia
+SNOMED CT,236385009,Nephrotic syndrome with pseudohermaphroditism
+SNOMED CT,236407003,Immunoglobulin A nephropathy
+SNOMED CT,236411009,Immunoglobulin M nephropathy
+SNOMED CT,236506009,Goodpasture disease
+SNOMED CT,236522005,Chronic ciclosporin A nephrotoxicity
+SNOMED CT,282364005,Immunoglobulin A nephropathy associated with liver disease
+SNOMED CT,422593004,Acute renal failure due to angiotensin-converting-enzyme inhibitor
+SNOMED CT,707742001,Bartter syndrome with hypercalciuria and nephrocalcinosis
+SNOMED CT,723720008,"SERKAL (sex reversion, kidney, adrenal and lung dysgenesis) syndrome"
+SNOMED CT,783787000,Retinal vasculopathy with cerebral leucoencephalopathy and systemic manifestations
+SNOMED CT,444558002,Infantile nephronophthisis
+SNOMED CT,444645005,Dent's disease
+SNOMED CT,444691002,Renal cortical necrosis
+SNOMED CT,444749006,Adolescent nephronophthisis
+SNOMED CT,444794000,Acute renal cortical necrosis
+SNOMED CT,444830001,Juvenile nephronophthisis
+SNOMED CT,444976001,Congenital hemolytic uremic syndrome
+SNOMED CT,444977005,Autosomal dominant focal segmental glomerulosclerosis
+SNOMED CT,445119005,Steroid sensitive nephrotic syndrome of childhood
+SNOMED CT,445120004,Uremia due to inadequate renal perfusion
+SNOMED CT,445170001,Macroalbuminuric nephropathy due to diabetes mellitus
+SNOMED CT,445236007,Cardiorenal syndrome
+SNOMED CT,445258009,Idiopathic rapidly progressive glomerulonephritis
+SNOMED CT,445388002,Autosomal recessive focal segmental glomerulosclerosis
+SNOMED CT,445404003,Familial immunoglobulin A nephropathy
+SNOMED CT,446449009,Renal coloboma syndrome
+SNOMED CT,446923008,Lipoprotein glomerulopathy
+SNOMED CT,446989009,Nephronophthisis type 4
+SNOMED CT,446991001,Nephronophthisis type 5
+SNOMED CT,447335007,Nephronophthisis type 6
+SNOMED CT,448215006,Carcinoma of renal pelvis
+SNOMED CT,449408005,Disorder of kidney due to kappa light chain disease
+SNOMED CT,449409002,Disorder of kidney due to lambda light chain disease
+SNOMED CT,449820008,Steroid resistant nephrotic syndrome of childhood
+SNOMED CT,473392002,Hypertensive nephrosclerosis
+SNOMED CT,609452007,Induced termination of pregnancy complicated by renal failure
+SNOMED CT,609455009,Induced termination of pregnancy complicated by acute renal failure
+SNOMED CT,609472002,Induced termination of pregnancy complicated by acute renal failure with oliguria
+SNOMED CT,609482001,Induced termination of pregnancy complicated by renal tubular necrosis
+SNOMED CT,609490001,Induced termination of pregnancy complicated by uremia
+SNOMED CT,698591006,Benign hypertensive renal disease with renal failure
+SNOMED CT,698757009,Nephropathy due to acquired urinary tract obstruction
+SNOMED CT,699055002,Prominent renal pelvis
+SNOMED CT,699322002,Matrix stone of kidney
+SNOMED CT,700107006,Bartter syndrome antenatal type 1
+SNOMED CT,700109009,Bartter syndrome antenatal type 2
+SNOMED CT,700111000,Bartter syndrome type 3
+SNOMED CT,700112007,Bartter syndrome type 4
+SNOMED CT,700378005,Chronic kidney disease stage 3A
+SNOMED CT,700379002,Chronic kidney disease stage 3B
+SNOMED CT,702391001,Renal cell carcinoma
+SNOMED CT,702397002,Renal tubular dysgenesis
+SNOMED CT,702718005,Acute on chronic tubulointerstitial nephritis
+SNOMED CT,703310005,Autosomal dominant progressive nephropathy with hypertension
+SNOMED CT,704055002,Nephropathy induced by amphotericin
+SNOMED CT,704203009,Nephropathy induced by cyclosporine
+SNOMED CT,704204003,Nephropathy induced by lead
+SNOMED CT,704205002,Nephropathy induced by tacrolimus
+SNOMED CT,704206001,Nephropathy induced by aminoglycoside
+SNOMED CT,704667004,Hypertension concurrent and due to end stage renal disease on dialysis
+SNOMED CT,705065000,Childhood nephrotic syndrome
+SNOMED CT,707148007,Recurrent post-transplant renal disease
+SNOMED CT,707208009,Familial non-obstructive reflux-associated chronic pyelonephritis
+SNOMED CT,707221002,Glomerulosclerosis of kidney due to diabetes mellitus
+SNOMED CT,707324008,Anemia in end stage renal disease
+SNOMED CT,707332000,Recurrent proliferative glomerulonephritis
+SNOMED CT,707530009,Cystic hamartoma of lung and kidney
+SNOMED CT,707751009,Juxtaglomerular hyperplasia co-occurrent with secondary hyperaldosteronism
+SNOMED CT,707755000,Familial hypokalemic and hypomagnesemic tubulopathy
+SNOMED CT,707756004,Gitelman syndrome
+SNOMED CT,707770004,Congenital duplication of renal collecting system
+SNOMED CT,708127008,Collagenofibrotic glomerulopathy
+SNOMED CT,708975004,Mixed renal osteodystrophy
+SNOMED CT,709978007,Contracted kidney
+SNOMED CT,710565001,Ischemic nephropathy
+SNOMED CT,710571007,Renal dysplasia due to fetal exposure to angiotensin converting enzyme inhibitor
+SNOMED CT,711531007,Focal mesangial proliferative glomerulonephritis
+SNOMED CT,712487000,End stage renal disease due to benign hypertension
+SNOMED CT,713313000,Chronic kidney disease mineral and bone disorder
+SNOMED CT,713453003,Renal impairment caused by Polyomavirus
+SNOMED CT,713504001,Disorder of kidney co-occurrent with human immunodeficiency virus infection
+SNOMED CT,713574000,Malignant carcinoid tumor of kidney
+SNOMED CT,713695001,Nephrotic syndrome co-occurrent with human immunodeficiency virus infection
+SNOMED CT,713696000,Renal failure syndrome co-occurrent with human immunodeficiency virus infection
+SNOMED CT,713825007,Transplant renal artery stenosis
+SNOMED CT,713886006,BK virus nephropathy
+SNOMED CT,713887002,Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection
+SNOMED CT,714152005,Chronic kidney disease stage 5 on dialysis
+SNOMED CT,714153000,Chronic kidney disease stage 5 with transplant
+SNOMED CT,714813000,Recurrent hematuria co-occurrent and due to dense deposit disease
+SNOMED CT,714814006,Persistent hematuria co-occurrent and due to dense deposit disease
+SNOMED CT,714815007,Recurrent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis
+SNOMED CT,714816008,Persistent hematuria co-occurrent and due to diffuse crescentic glomerulonephritis
+SNOMED CT,714817004,Recurrent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis
+SNOMED CT,714818009,Persistent hematuria co-occurrent and due to diffuse endocapillary proliferative glomerulonephritis
+SNOMED CT,716094008,Saito Kuba Tsuruta syndrome
+SNOMED CT,716200002,Schofer Beetz Bohl syndrome
+SNOMED CT,716657000,Familial papillary thyroid carcinoma with renal papillary neoplasia syndrome
+SNOMED CT,716864001,Hemorrhagic fever with renal syndrome
+SNOMED CT,716999001,Joubert syndrome with renal defect
+SNOMED CT,717187000,Boichis syndrome
+SNOMED CT,717191005,Sporadic idiopathic steroid-resistant nephrotic syndrome
+SNOMED CT,717263009,Transient pseudohypoaldosteronism
+SNOMED CT,717734005,Papillary thyroid carcinoma with renal papillary neoplasia
+SNOMED CT,717735006,Renal cell carcinoma of kidney except renal pelvis
+SNOMED CT,717736007,Familial renal cell carcinoma
+SNOMED CT,717742006,Primary renal dysplasia
+SNOMED CT,717744007,Secondary renal dysplasia
+SNOMED CT,717745008,Bilateral secondary renal dysplasia
+SNOMED CT,717746009,Congenital hemorrhagic renal cyst
+SNOMED CT,717748005,Bilateral medullary sponge kidney
+SNOMED CT,717749002,Bilateral multicystic renal dysplasia
+SNOMED CT,717750002,Bilateral congenital primary hydronephrosis
+SNOMED CT,717760006,Multi-drug resistant nephrotic syndrome
+SNOMED CT,717766000,Alport syndrome autosomal dominant
+SNOMED CT,717767009,Alport syndrome autosomal recessive
+SNOMED CT,717768004,Alport syndrome X-linked
+SNOMED CT,717770008,Aristolochic acid nephropathy
+SNOMED CT,717776002,Acquired hydronephrosis due to bladder obstruction
+SNOMED CT,717789008,Dent disease type 1
+SNOMED CT,717790004,Dent disease type 2
+SNOMED CT,717791000,Bartter syndrome type 4a
+SNOMED CT,717952004,Acquired hydronephrosis due to ureteropelvic junction obstruction
+SNOMED CT,718141008,Genetic steroid-resistant nephrotic syndrome
+SNOMED CT,718192000,Non-amyloid fibrillary glomerulonephritis
+SNOMED CT,719839000,Tubular renal disease with cardiomyopathy syndrome
+SNOMED CT,719840003,Ulbright Hodes syndrome
+SNOMED CT,720414005,Acrorenal mandibular syndrome
+SNOMED CT,720415006,Acrorenoocular syndrome
+SNOMED CT,720458005,Acrorenal syndrome
+SNOMED CT,720519003,"Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome"
+SNOMED CT,720982007,"Alport syndrome, intellectual disability, midface hypoplasia, elliptocytosis syndrome"
+SNOMED CT,721167009,Hydronephrosis due to bladder obstruction
+SNOMED CT,721168004,Congenital hydronephrosis due to ureteropelvic junction obstruction
+SNOMED CT,721169007,Hydronephrosis due to ureteral obstruction
+SNOMED CT,721170008,Hydronephrosis due to ureteral orifice obstruction
+SNOMED CT,721173005,Hypotonia cystinuria syndrome
+SNOMED CT,721175003,Idiopathic glomerular disease
+SNOMED CT,721191000,Necrosis of capillary of kidney due to glomerular disease
+SNOMED CT,721207002,"Seizure, sensorineural deafness, ataxia, intellectual disability, electrolyte imbalance syndrome"
+SNOMED CT,721297008,Galloway Mowat syndrome
+SNOMED CT,721840000,"Hyperuricemia, anemia, renal failure syndrome"
+SNOMED CT,721862000,Joubert syndrome with oculorenal defect
+SNOMED CT,721970009,Persistent Mullerian derivative with lymphangiectasia and polydactyly syndrome
+SNOMED CT,722065002,Okamoto syndrome
+SNOMED CT,722077007,Renal papillary necrosis caused by analgesic drug
+SNOMED CT,722078002,Acquired obstructive nephropathy due to neurogenic bladder
+SNOMED CT,722081007,Obstructive nephropathy due to prostate cancer
+SNOMED CT,722082000,Obstructive nephropathy due to prostatic hypertrophy
+SNOMED CT,722085003,Renal papillary necrosis due to sickle cell disease
+SNOMED CT,722086002,Malignancy-associated membranous nephropathy
+SNOMED CT,722088001,Obstructive nephropathy due to malignancy
+SNOMED CT,722089009,Obstructive nephropathy due to bladder cancer
+SNOMED CT,722095005,Acute kidney injury due to circulatory failure
+SNOMED CT,722096006,Acute kidney injury due to hypovolemia
+SNOMED CT,722098007,Chronic kidney disease following donor nephrectomy
+SNOMED CT,722118005,Congenital nephrotic syndrome due to congenital infection
+SNOMED CT,722119002,Idiopathic membranous glomerulonephritis
+SNOMED CT,722120008,Drug-induced membranous nephropathy
+SNOMED CT,722139003,Focal segmental glomerulosclerosis caused by lithium
+SNOMED CT,722147003,Focal segmental glomerulosclerosis due to sickle cell disease
+SNOMED CT,722149000,Chronic kidney disease due to and following excision of neoplasm of kidney
+SNOMED CT,722150000,Chronic kidney disease due to systemic infection
+SNOMED CT,722168002,Infection-associated membranous nephropathy
+SNOMED CT,722223000,Cyst of kidney
+SNOMED CT,722231005,Perlman syndrome
+SNOMED CT,722278006,Acute kidney injury due to sepsis
+SNOMED CT,722294004,Autosomal dominant intermediate Charcot-Marie-Tooth disease type E
+SNOMED CT,722369003,Congenital nephrotic syndrome due to diffuse mesangial sclerosis
+SNOMED CT,722381004,Crome syndrome
+SNOMED CT,722431007,"Double uterus, hemivagina, renal agenesis syndrome"
+SNOMED CT,722433005,Dyschondrosteosis and nephritis syndrome
+SNOMED CT,722457005,"Juvenile cataract, microcornea, renal glucosuria syndrome"
+SNOMED CT,722466009,Traumatic loss of kidney
+SNOMED CT,722467000,Chronic kidney disease due to traumatic loss of kidney
+SNOMED CT,722468005,Distal renal tubular acidosis co-occurrent with sensorineural deafness
+SNOMED CT,722721004,Familial haemolytic uraemic syndrome
+SNOMED CT,722758004,Complement component 3 glomerulopathy
+SNOMED CT,722759007,Glomerulopathy with fibronectin deposits 2
+SNOMED CT,722760002,Dense deposit disease
+SNOMED CT,722761003,Complement component 3 glomerulonephritis
+SNOMED CT,722948009,Glomerular disorder due to non-neuropathic heredofamilial amyloidosis
+SNOMED CT,723074006,Renal papillary necrosis due to diabetes mellitus
+SNOMED CT,723188008,Renal insufficiency
+SNOMED CT,723189000,Acute renal insufficiency
+SNOMED CT,723190009,Chronic renal insufficiency
+SNOMED CT,723333000,Faciocardiorenal syndrome
+SNOMED CT,723363009,"Hypotrichosis, lymphedema, telangiectasia, renal defect syndrome"
+SNOMED CT,723373006,UMOD-related autosomal dominant tubulointerstitial kidney disease
+SNOMED CT,723409007,"Multinodular goiter, cystic kidney, polydactyly syndrome"
+SNOMED CT,723440000,Nephrogenic syndrome of inappropriate antidiuresis
+SNOMED CT,723449004,Pierson syndrome
+SNOMED CT,723555007,"Thymic, renal, anal, lung dysplasia syndrome"
+SNOMED CT,723995003,Schimke immuno-osseous dysplasia
+SNOMED CT,723999009,RHYNS syndrome
+SNOMED CT,724093004,"Nephropathy, deafness, hyperparathyroidism syndrome"
+SNOMED CT,724094005,"Neonatal diabetes, congenital hypothyroidism, congenital glaucoma, hepatic fibrosis, polycystic kidney syndrome"
+SNOMED CT,724099000,Acquired monoclonal immunoglobulin light chain-associated Fanconi syndrome
+SNOMED CT,724282009,"Hypoparathyroidism, deafness, renal disease syndrome"
+SNOMED CT,724469003,Congenital secondary hydronephrosis
+SNOMED CT,724485008,Gestational proteinuria without hypertension
+SNOMED CT,725033008,Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis without severe ocular involvement
+SNOMED CT,725592009,Congenital membranous nephropathy due to maternal anti-neutral endopeptidase alloimmunization
+SNOMED CT,725905005,Infundibulopelvic stenosis multicystic kidney syndrome
+SNOMED CT,725908007,Neurofaciodigitorenal syndrome
+SNOMED CT,726017001,MUC1-related autosomal dominant tubulointerstitial kidney disease
+SNOMED CT,726018006,Autosomal dominant tubulointerstitial kidney disease
+SNOMED CT,726082003,Immunotactoid glomerulonephritis
+SNOMED CT,726106004,X-linked diffuse leiomyomatosis with Alport syndrome
+SNOMED CT,726541005,Acute kidney injury due to trauma
+SNOMED CT,733089005,"Spastic paraplegia, nephritis, deafness syndrome"
+SNOMED CT,733096007,Thyrocerebrorenal syndrome
+SNOMED CT,733097003,"Ichthyosis, intellectual disability, dwarfism, renal impairment syndrome"
+SNOMED CT,733116005,"Aniridia, renal agenesis, psychomotor retardation syndrome"
+SNOMED CT,733137002,Acute kidney failure stage 1
+SNOMED CT,733138007,Acute kidney failure stage 2
+SNOMED CT,733139004,Acute kidney failure stage 3
+SNOMED CT,733342000,Ischemic contracture of kidney
+SNOMED CT,733453005,"Congenital nephrotic syndrome, interstitial lung disease, epidermolysis bullosa syndrome"
+SNOMED CT,733470002,Collecting duct carcinoma of kidney
+SNOMED CT,733471003,Chromophobe renal cell carcinoma
+SNOMED CT,733472005,"Microcephalus, glomerulonephritis, marfanoid habitus syndrome"
+SNOMED CT,733603009,Tubulocystic renal cell carcinoma
+SNOMED CT,733608000,Papillary renal cell carcinoma
+SNOMED CT,733650000,Adult familial nephronophthisis with spastic quadriparesia syndrome
+SNOMED CT,733839001,Postpartum acute renal failure
+SNOMED CT,734015000,Clear cell papillary renal cell carcinoma
+SNOMED CT,734990008,Primary hyperoxaluria type III
+SNOMED CT,735430007,Irregularly contracted kidney
+SNOMED CT,735471001,Complex renal cyst
+SNOMED CT,735474009,Ischemia of kidney
+SNOMED CT,735475005,Renal hypocalciuria
+SNOMED CT,736450002,Partial traumatic rupture of ureteropelvic junction
+SNOMED CT,736451003,Partial rupture of ureteropelvic junction
+SNOMED CT,736640009,Hydronephrosis due to calculus of kidney and ureter
+SNOMED CT,736992003,Nephropathy following pre-eclampsia
+SNOMED CT,736993008,Nephropathy following eclampsia
+SNOMED CT,737327002,Renal failure following molar pregnancy
+SNOMED CT,737562008,Multicystic renal dysplasia
+SNOMED CT,762288006,Neonatal hemorrhage of kidney
+SNOMED CT,762531008,Renal hypersensitivity caused by drug
+SNOMED CT,762907005,Left renal agenesis
+SNOMED CT,762908000,Right renal agenesis
+SNOMED CT,762909008,Left renal agenesis co-occurrent with right renal hypoplasia
+SNOMED CT,762910003,Right renal agenesis co-occurrent with left renal hypoplasia
+SNOMED CT,762911004,Right renal agenesis co-occurrent with left renal dysplasia
+SNOMED CT,762912006,Left renal agenesis co-occurrent with right renal dysplasia
+SNOMED CT,762913001,Left renal hypoplasia
+SNOMED CT,762914007,Right renal hypoplasia
+SNOMED CT,763280005,"Encephalopathy, hypertrophic cardiomyopathy, renal tubular disease syndrome"
+SNOMED CT,763891005,Renal hepatic pancreatic dysplasia
+SNOMED CT,764694005,MiT family translocation renal cell carcinoma
+SNOMED CT,764856008,Acquired cystic disease associated renal cell carcinoma
+SNOMED CT,764961009,Hereditary clear cell renal cell carcinoma
+SNOMED CT,764990003,Mucinous tubular and spindle cell renal carcinoma
+SNOMED CT,765095002,Renal medullary carcinoma
+SNOMED CT,765154003,Hypertrophy of right kidney co-occurrent and due to congenital hypoplasia of left kidney
+SNOMED CT,765155002,Hypertrophy of left kidney co-occurrent and due to congenital hypoplasia of right kidney
+SNOMED CT,765330003,Autosomal dominant polycystic kidney disease
+SNOMED CT,765331004,Autosomal dominant polycystic kidney disease type 1 with tuberous sclerosis
+SNOMED CT,765773009,Atrophy of left kidney
+SNOMED CT,765774003,Atrophy of right kidney
+SNOMED CT,765775002,Dysplasia of left kidney
+SNOMED CT,765776001,Dysplasia of right kidney
+SNOMED CT,765777005,Congenital left vesicoureterorenal reflux
+SNOMED CT,765778000,Congenital right vesicoureterorenal reflux
+SNOMED CT,765779008,Reflux nephropathy of left kidney due to vesicoureteral reflux
+SNOMED CT,765780006,Reflux nephropathy of right kidney due to vesicoureteral reflux
+SNOMED CT,766249007,Lowe Kohn Cohen syndrome
+SNOMED CT,766765009,Radio-renal syndrome
+SNOMED CT,767094002,Disorder of renal parenchyma
+SNOMED CT,770414008,Alport syndrome
+SNOMED CT,771149000,"Hepatic fibrosis, renal cyst, intellectual disability syndrome"
+SNOMED CT,771266007,"Torticollis, keloids, cryptorchidism, renal dysplasia syndrome"
+SNOMED CT,771447009,LAMB2-related infantile-onset nephrotic syndrome
+SNOMED CT,771477003,15q overgrowth syndrome
+SNOMED CT,771509001,Hypertrophic cardiomyopathy and renal tubular disease due to mitochondrial DNA mutation
+SNOMED CT,772125001,Anomaly of fetal kidney
+SNOMED CT,773647007,"Nephrotic syndrome, deafness, pretibial epidermolysis bullosa syndrome"
+SNOMED CT,773737004,NPHP3-related Meckel-like syndrome
+SNOMED CT,775909002,"Congenital neutropenia, myelofibrosis, nephromegaly syndrome"
+SNOMED CT,776416004,"Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome"
+SNOMED CT,778025006,Atypical hypotonia cystinuria syndrome
+SNOMED CT,782722002,"Global developmental delay, lung cysts, overgrowth, Wilms tumor syndrome"
+SNOMED CT,782738008,Karyomegalic interstitial nephritis
+SNOMED CT,782771007,Mitochondrial DNA depletion syndrome hepatocerebrorenal form
+SNOMED CT,782942003,Renal caliceal diverticuli and deafness syndrome
+SNOMED CT,783157004,Leigh syndrome with nephrotic syndrome
+SNOMED CT,783159001,Holzgreve syndrome
+SNOMED CT,783614008,Familial steroid-resistant nephrotic syndrome with sensorineural deafness
+SNOMED CT,783620009,Dominant hypophosphatemia with nephrolithiasis and/or osteoporosis
+SNOMED CT,155876003,Non-functioning kidney
+SNOMED CT,168041003,O/E: renal calculus
+SNOMED CT,168042005,O/E: oxalate renal calculus
+SNOMED CT,168044006,O/E: uric acid renal calculus
+SNOMED CT,168045007,O/E: cystine renal calculus
+SNOMED CT,186796004,Plasmodium malariae malaria with nephropathy
+SNOMED CT,187144000,Hydatid cyst of kidney
+SNOMED CT,188250002,Malignant tumor of kidney parenchyma
+SNOMED CT,188252005,Malignant tumor of renal calyx
+SNOMED CT,188253000,Malignant tumor of pelviureteric junction
+SNOMED CT,190829000,Chronic gouty nephropathy
+SNOMED CT,194779001,Hypertensive heart and renal disease with (congestive) heart failure
+SNOMED CT,194780003,Hypertensive heart and renal disease with renal failure
+SNOMED CT,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+SNOMED CT,194909006,Acute pericarditis secondary to uremia
+SNOMED CT,197579006,Acute proliferative glomerulonephritis
+SNOMED CT,197580009,Acute nephritis with lesions of necrotizing glomerulitis
+SNOMED CT,197582001,Acute glomerulonephritis associated with another disorder
+SNOMED CT,197583006,Acute exudative nephritis
+SNOMED CT,197584000,Acute focal nephritis
+SNOMED CT,197585004,Acute diffuse nephritis
+SNOMED CT,197589005,Nephrotic syndrome with proliferative glomerulonephritis
+SNOMED CT,197590001,Nephrotic syndrome with membranous glomerulonephritis
+SNOMED CT,197591002,Nephrotic syndrome with membranoproliferative glomerulonephritis
+SNOMED CT,197593004,"Nephrotic syndrome, minor glomerular abnormality"
+SNOMED CT,197594005,"Nephrotic syndrome, focal and segmental glomerular lesions"
+SNOMED CT,197595006,"Nephrotic syndrome, diffuse membranous glomerulonephritis"
+SNOMED CT,197596007,"Nephrotic syndrome, diffuse mesangial proliferative glomerulonephritis"
+SNOMED CT,197597003,"Nephrotic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+SNOMED CT,197598008,"Nephrotic syndrome, diffuse mesangiocapillary glomerulonephritis"
+SNOMED CT,197599000,"Nephrotic syndrome, dense deposit disease"
+SNOMED CT,197600002,"Nephrotic syndrome, diffuse crescentic glomerulonephritis"
+SNOMED CT,197601003,Finnish congenital nephrotic syndrome
+SNOMED CT,197603000,Nephrotic syndrome associated with another disorder
+SNOMED CT,197604006,Nephrotic syndrome in amyloidosis
+SNOMED CT,197605007,Nephrotic syndrome due to diabetes mellitus
+SNOMED CT,197606008,Nephrotic syndrome in malaria
+SNOMED CT,197607004,Nephrotic syndrome in polyarteritis nodosa
+SNOMED CT,197613008,Chronic mesangial proliferative glomerulonephritis
+SNOMED CT,197616000,Chronic glomerulonephritis associated with another disorder
+SNOMED CT,197617009,Chronic exudative glomerulonephritis
+SNOMED CT,197618004,Chronic focal glomerulonephritis
+SNOMED CT,197619007,Chronic diffuse glomerulonephritis
+SNOMED CT,197626007,Focal membranoproliferative glomerulonephritis
+SNOMED CT,197627003,Recurrent benign hematuria syndrome
+SNOMED CT,197629000,Anaphylactoid glomerulonephritis
+SNOMED CT,197659005,Atrophy of kidney
+SNOMED CT,197660000,Renal fibrosis
+SNOMED CT,197661001,Glomerulosclerosis
+SNOMED CT,197664009,Phosphate-losing tubular disorders
+SNOMED CT,197671004,Renal function impairment with growth failure
+SNOMED CT,197681000,"Acute nephritic syndrome, minor glomerular abnormality"
+SNOMED CT,197682007,"Acute nephritic syndrome, focal and segmental glomerular lesions"
+SNOMED CT,197683002,"Acute nephritic syndrome, diffuse membranous glomerulonephritis"
+SNOMED CT,197684008,"Acute nephritic syndrome, diffuse mesangial proliferative glomerulonephritis"
+SNOMED CT,197685009,"Acute nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+SNOMED CT,197686005,"Acute nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+SNOMED CT,197687001,"Acute nephritic syndrome, dense deposit disease"
+SNOMED CT,197688006,"Acute nephritic syndrome, diffuse crescentic glomerulonephritis"
+SNOMED CT,197689003,Rapidly progressive nephritic syndrome
+SNOMED CT,197690007,"Rapidly progressive nephritic syndrome, minor glomerular abnormality"
+SNOMED CT,197691006,"Rapidly progressive nephritic syndrome, focal and segmental glomerular lesions"
+SNOMED CT,197692004,"Rapidly progressive nephritic syndrome, diffuse membranous glomerulonephritis"
+SNOMED CT,197693009,"Rapidly progressive nephritic syndrome, diffuse mesangial proliferative glomerulonephritis"
+SNOMED CT,197694003,"Rapidly progressive nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+SNOMED CT,197695002,"Rapidly progressive nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+SNOMED CT,197696001,"Rapidly progressive nephritic syndrome, dense deposit disease"
+SNOMED CT,197697005,"Rapidly progressive nephritic syndrome, diffuse crescentic glomerulonephritis"
+SNOMED CT,197708002,"Chronic nephritic syndrome, minor glomerular abnormality"
+SNOMED CT,197709005,"Chronic nephritic syndrome, focal and segmental glomerular lesions"
+SNOMED CT,197712008,"Chronic nephritic syndrome, diffuse endocapillary proliferative glomerulonephritis"
+SNOMED CT,197713003,"Chronic nephritic syndrome, diffuse mesangiocapillary glomerulonephritis"
+SNOMED CT,197714009,"Chronic nephritic syndrome, dense deposit disease"
+SNOMED CT,197715005,"Chronic nephritic syndrome, diffuse crescentic glomerulonephritis"
+SNOMED CT,197738008,Glomerular disorders in neoplastic diseases
+SNOMED CT,197739000,Glomerular disorders in blood diseases and disorders involving the immune mechanism
+SNOMED CT,197742006,Renal tubulo-interstitial disorders in neoplastic diseases
+SNOMED CT,197743001,Renal tubulo-interstitial disorders in blood diseases and disorders involving the immune mechanism
+SNOMED CT,197744007,Renal tubulo-interstitial disorders in metabolic diseases
+SNOMED CT,197745008,Renal tubulo-interstitial disorders in systemic connective tissue disorders
+SNOMED CT,197747000,Renal tubulo-interstitial disorders in transplant rejection
+SNOMED CT,197753000,Nephropathy induced by heavy metals
+SNOMED CT,197757004,Late syphilis of kidney
+SNOMED CT,197760006,Chronic pyelonephritis without medullary necrosis
+SNOMED CT,197761005,Chronic pyelonephritis with medullary necrosis
+SNOMED CT,197762003,Chronic pyelitis
+SNOMED CT,197763008,Chronic pyonephrosis
+SNOMED CT,197764002,Non-obstructive reflux-associated chronic pyelonephritis
+SNOMED CT,197769007,Acute pyelonephritis with medullary necrosis
+SNOMED CT,197770008,Acute pyonephrosis
+SNOMED CT,197772000,Renal and perinephric abscess
+SNOMED CT,197782004,Pyelonephritis associated with another disorder
+SNOMED CT,197783009,Pyelitis associated with another disorder
+SNOMED CT,197794008,Staghorn calculus
+SNOMED CT,197801000,Single acquired kidney cyst
+SNOMED CT,197802007,Peripelvic (lymphatic) cyst
+SNOMED CT,197813005,Intrarenal hematoma
+SNOMED CT,197817006,Adhesions of kidney
+SNOMED CT,197820003,Dilatation of renal pelvis
+SNOMED CT,198708004,Incomplete legal termination of pregnancy with renal failure
+SNOMED CT,198747002,Incomplete illegal termination of pregnancy with renal failure
+SNOMED CT,198949009,"Renal hypertension complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,198951008,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+SNOMED CT,198952001,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+SNOMED CT,198953006,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+SNOMED CT,199007008,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,199110003,Infections of kidney in pregnancy
+SNOMED CT,199132007,Pregnancy-related glycosuria
+SNOMED CT,199134008,Glycosuria during pregnancy - delivered
+SNOMED CT,199135009,Glycosuria during pregnancy - delivered with postnatal complication
+SNOMED CT,199136005,Glycosuria during pregnancy - not delivered
+SNOMED CT,199137001,Glycosuria during pregnancy with postnatal complication
+SNOMED CT,200118004,Post-delivery acute renal failure with postnatal problem
+SNOMED CT,204938007,Renal agenesis and dysgenesis
+SNOMED CT,204941003,Congenital renal atrophy
+SNOMED CT,204942005,Renal agenesis
+SNOMED CT,204950001,Bilateral renal dysplasia
+SNOMED CT,204957003,Medullary cystic disease of the kidney
+SNOMED CT,204958008,Nephronophthisis
+SNOMED CT,204984002,Congenital fusion of kidneys
+SNOMED CT,204985001,Hyperplasia of kidney
+SNOMED CT,307309005,Transient acute renal failure
+SNOMED CT,307604008,Mesoblastic nephroma
+SNOMED CT,307618001,Juxtaglomerular tumor
+SNOMED CT,307755009,Renal tubulo-interstitial disorder in systemic lupus erythematosus
+SNOMED CT,309426007,Glomerulopathy due to diabetes mellitus
+SNOMED CT,310387003,Intracapillary glomerulosclerosis of kidney due to diabetes mellitus
+SNOMED CT,310647000,Anemia secondary to renal failure
+SNOMED CT,310670008,Hydronephrosis with ureteropelvic junction obstruction
+SNOMED CT,311366001,Kimmelstiel-Wilson syndrome
+SNOMED CT,311496007,Extravasation of urine from kidney
+SNOMED CT,314967004,Local recurrence of malignant tumor of kidney
+SNOMED CT,359694003,"Idiopathic crescentic glomerulonephritis, type II"
+SNOMED CT,361146001,Congenital small renal papilla
+SNOMED CT,361147005,Congenital hypoplasia of renal papilla
+SNOMED CT,363224005,Neonatal renal disorder
+SNOMED CT,363233007,Nephrotic syndrome secondary to glomerulonephritis
+SNOMED CT,363234001,Nephrotic syndrome secondary to systemic disease
+SNOMED CT,363286005,Renal complication of procedure
+SNOMED CT,363287001,Renal failure associated with renal vascular disease
+SNOMED CT,363457009,Malignant tumor of renal pelvis
+SNOMED CT,363518003,Malignant tumor of kidney
+SNOMED CT,370368007,Renal candidiasis
+SNOMED CT,370493008,Renal medullary washout
+SNOMED CT,370494002,Protein-losing nephropathy
+SNOMED CT,371011007,Dilatation of calyx
+SNOMED CT,371019009,Azotemia due to intrarenal disease
+SNOMED CT,371020003,Renal hematuria
+SNOMED CT,373421000,Diarrhea-associated hemolytic uremic syndrome
+SNOMED CT,373422007,Diarrhea-negative hemolytic uremic syndrome
+SNOMED CT,373584008,Congenital obstruction of ureteropelvic junction
+SNOMED CT,373599008,Multiple acquired kidney cysts
+SNOMED CT,373637000,Congenital vesicoureterorenal reflux
+SNOMED CT,373651000,Idiopathic hydronephrosis
+SNOMED CT,210197003,Closed injury of kidney
+SNOMED CT,210203000,Open injury of kidney
+SNOMED CT,210205007,"Kidney hematoma without rupture of capsule, with open wound into cavity"
+SNOMED CT,210206008,Kidney laceration with open wound into cavity
+SNOMED CT,210207004,Complete disruption of kidney parenchyma with open wound into cavity
+SNOMED CT,213150003,Kidney transplant failure and rejection
+SNOMED CT,213231008,Hepatorenal syndrome as a complication of care
+SNOMED CT,226309007,Familial renal glucosuria
+SNOMED CT,230970001,Isolated non-nephrotic proteinuria
+SNOMED CT,234348004,Anemia of renal disease
+SNOMED CT,234485006,Epstein syndrome
+SNOMED CT,236369004,Renal acidemia
+SNOMED CT,236374007,Chronic infective interstitial nephritis
+SNOMED CT,236375008,Emphysematous pyelitis
+SNOMED CT,236376009,Infected renal cyst
+SNOMED CT,236377000,Fungal infection of kidney
+SNOMED CT,236378005,Candida pyelonephritis
+SNOMED CT,236380004,Steroid-sensitive nephrotic syndrome
+SNOMED CT,236381000,Steroid-resistant nephrotic syndrome
+SNOMED CT,236382007,Steroid-dependent nephrotic syndrome
+SNOMED CT,236383002,Familial mesangial sclerosis
+SNOMED CT,236384008,Congenital nephrotic syndrome with focal glomerulosclerosis
+SNOMED CT,236392004,Rapidly progressive glomerulonephritis
+SNOMED CT,236393009,Endocapillary glomerulonephritis
+SNOMED CT,236394003,Idiopathic endocapillary glomerulonephritis
+SNOMED CT,236395002,Post-infectious glomerulonephritis
+SNOMED CT,236397005,Post-infectious glomerulonephritis - Garland variety
+SNOMED CT,236398000,Idiopathic crescentic glomerulonephritis
+SNOMED CT,236399008,Steroid-sensitive minimal change glomerulonephritis
+SNOMED CT,236400001,Steroid-resistant minimal change glomerulonephritis
+SNOMED CT,236401002,Steroid-dependent minimal change glomerulonephritis
+SNOMED CT,236402009,Ischemic glomerulopathy
+SNOMED CT,236403004,Focal segmental glomerulosclerosis
+SNOMED CT,236404005,Classical focal segmental glomerulosclerosis
+SNOMED CT,236405006,Hyperfiltration focal segmental glomerulosclerosis
+SNOMED CT,236406007,Acquired immune deficiency syndrome-related nephropathy
+SNOMED CT,236409000,Mesangiocapillary glomerulonephritis type III
+SNOMED CT,236410005,Mesangiocapillary glomerulonephritis type IV
+SNOMED CT,236412002,C1q nephropathy
+SNOMED CT,236413007,Membranous glomerulonephritis - stage I
+SNOMED CT,236414001,Membranous glomerulonephritis - stage II
+SNOMED CT,236415000,Membranous glomerulonephritis - stage III
+SNOMED CT,236416004,Membranous glomerulonephritis - stage IV
+SNOMED CT,236417008,Membranous glomerulonephritis stage V
+SNOMED CT,236418003,Thin basement membrane disease
+SNOMED CT,236419006,Progressive hereditary glomerulonephritis without deafness
+SNOMED CT,236422008,Fechtner syndrome
+SNOMED CT,236423003,Renal impairment
+SNOMED CT,236424009,Acute renal impairment
+SNOMED CT,236426006,Postoperative acute tubular necrosis
+SNOMED CT,236427002,Post-traumatic acute tubular necrosis
+SNOMED CT,236428007,Nephrotoxic acute renal failure
+SNOMED CT,236429004,Acute drug-induced renal failure
+SNOMED CT,236430009,Pigment nephropathy
+SNOMED CT,236431008,Traumatic anuria - crush syndrome
+SNOMED CT,236432001,Pulmonary renal syndrome
+SNOMED CT,236433006,Acute-on-chronic renal failure
+SNOMED CT,236434000,End stage renal failure untreated by renal replacement therapy
+SNOMED CT,236435004,End stage renal failure on dialysis
+SNOMED CT,236436003,End stage renal failure with renal transplant
+SNOMED CT,236438002,Calcific papillary necrosis
+SNOMED CT,236441006,Acquired renal cyst with neoplastic change
+SNOMED CT,236442004,Acquired renal cyst without neoplastic change
+SNOMED CT,236443009,Medullary sponge kidney
+SNOMED CT,236444003,Microscopic nephrocalcinosis
+SNOMED CT,236445002,Macroscopic nephrocalcinosis
+SNOMED CT,236446001,Cortical nephrocalcinosis
+SNOMED CT,236447005,Medullary nephrocalcinosis
+SNOMED CT,236451007,Renal ocular syndrome
+SNOMED CT,236452000,Chronic drug-induced tubulointerstitial nephritis
+SNOMED CT,236453005,Chronic tubulointerstitial nephritis caused by heavy metal
+SNOMED CT,236454004,Chronic lead nephropathy
+SNOMED CT,236455003,Saturnine nephropathy
+SNOMED CT,236456002,Chronic cadmium nephropathy
+SNOMED CT,236457006,Chronic mercury nephropathy
+SNOMED CT,236458001,Granulomatous tubulointerstitial nephritis
+SNOMED CT,236459009,Malakoplakia of kidney
+SNOMED CT,236460004,Familial proximal renal tubular acidosis
+SNOMED CT,236461000,Distal renal tubular acidosis
+SNOMED CT,236463002,Hyperkalemic renal tubular acidosis
+SNOMED CT,236464008,Hyporeninemic hypoaldosteronism
+SNOMED CT,236466005,Congenital Fanconi syndrome
+SNOMED CT,236467001,Acquired Fanconi syndrome
+SNOMED CT,236468006,Adult Fanconi syndrome
+SNOMED CT,236469003,Fanconi-like syndrome
+SNOMED CT,236470002,Specific renal tubule transport defect
+SNOMED CT,236471003,Low renal threshold for glucose
+SNOMED CT,236472005,High renal threshold for glucose
+SNOMED CT,236474006,Isolated hypercystinuria
+SNOMED CT,236475007,Dibasic aminoaciduria
+SNOMED CT,236477004,Glycinuria
+SNOMED CT,236478009,Familial renal hypouricemia
+SNOMED CT,236479001,Magnesium-losing nephropathy
+SNOMED CT,236480003,Inherited magnesium-losing nephropathy
+SNOMED CT,236481004,Acquired magnesium-losing nephropathy
+SNOMED CT,236482006,Inherited renal tubule insufficiency with cholestatic jaundice
+SNOMED CT,236483001,Escape of urine from kidney
+SNOMED CT,236484007,Calyceal fistula
+SNOMED CT,236485008,Fistula from renal pelvis
+SNOMED CT,236486009,Extravasation of urine from renal pelvis
+SNOMED CT,236487000,Pararenal urinoma
+SNOMED CT,236495001,Urate nephropathy
+SNOMED CT,236496000,Acute urate nephropathy
+SNOMED CT,236498004,Renal disorders in systemic disease
+SNOMED CT,236499007,Microalbuminuric diabetic nephropathy
+SNOMED CT,236500003,Proteinuric nephropathy due to diabetes mellitus
+SNOMED CT,236502006,Renal involvement in scleroderma
+SNOMED CT,236503001,Acute scleroderma renal crisis
+SNOMED CT,236504007,Henoch-Schönlein nephritis
+SNOMED CT,236505008,Cryoglobulinemic glomerulonephritis
+SNOMED CT,236507000,Renal involvement in malignant disease
+SNOMED CT,236508005,Malignancy-associated glomerulonephritis
+SNOMED CT,236511006,Macroglobulinemic nephropathy
+SNOMED CT,236512004,Leukemic infiltrate of kidney
+SNOMED CT,236513009,Lymphoma of kidney
+SNOMED CT,236514003,Toxic nephropathy
+SNOMED CT,236515002,Acute toxic nephropathy
+SNOMED CT,236516001,Acute lead nephropathy
+SNOMED CT,236517005,Acute cadmium nephropathy
+SNOMED CT,236518000,Acute mercury nephropathy
+SNOMED CT,236519008,Chronic drug-induced renal disease
+SNOMED CT,236520002,Gold nephropathy
+SNOMED CT,236521003,Penicillamine nephropathy
+SNOMED CT,236523000,Chronic toxic interstitial nephritis
+SNOMED CT,236524006,Acute radiation nephritis
+SNOMED CT,236525007,Chronic radiation nephritis
+SNOMED CT,236527004,Nail patella-like renal disease
+SNOMED CT,236528009,Diffuse mesangial sclerosis with ocular abnormalities
+SNOMED CT,236530006,Pulmonic stenosis and congenital nephrosis
+SNOMED CT,236531005,Renal dysplasia and retinal aplasia
+SNOMED CT,236532003,Renal tubular acidosis with progressive nerve deafness
+SNOMED CT,236535001,Glomerulopathy with fibronectin deposits 1
+SNOMED CT,236552002,Adynamic bone disease
+SNOMED CT,236569000,Primary non-function of renal transplant
+SNOMED CT,236570004,Renal transplant rejection
+SNOMED CT,236571000,Hyperacute rejection of renal transplant
+SNOMED CT,236572007,Accelerated rejection of renal transplant
+SNOMED CT,236573002,Very mild acute rejection of renal transplant
+SNOMED CT,236574008,Acute rejection of renal transplant
+SNOMED CT,236575009,Acute rejection of renal transplant - grade I
+SNOMED CT,236576005,Acute rejection of renal transplant - grade II
+SNOMED CT,236577001,Acute rejection of renal transplant - grade III
+SNOMED CT,236578006,Chronic rejection of renal transplant
+SNOMED CT,236579003,Chronic rejection of renal transplant - grade I
+SNOMED CT,236580000,Chronic rejection of renal transplant - grade II
+SNOMED CT,236581001,Chronic rejection of renal transplant - grade III
+SNOMED CT,236582008,Acute-on-chronic rejection of renal transplant
+SNOMED CT,236583003,Failed renal transplant
+SNOMED CT,236584009,Perfusion injury of renal transplant
+SNOMED CT,236586006,De novo glomerulonephritis
+SNOMED CT,236587002,Transplant glomerulopathy
+SNOMED CT,236588007,Transplant glomerulopathy - early form
+SNOMED CT,236589004,Transplant glomerulopathy - late form
+SNOMED CT,236590008,Cytomegalovirus-induced glomerulonephritis
+SNOMED CT,236592000,Stenosis of calyceal neck
+SNOMED CT,236593005,Acquired hydronephrosis
+SNOMED CT,236614007,Perirenal and periureteric post-transplant lymphocele
+SNOMED CT,236708007,Calyceal renal calculus
+SNOMED CT,236709004,Calculus in calyceal diverticulum
+SNOMED CT,236710009,Calculus in renal pelvis
+SNOMED CT,236711008,Calculus in pelviureteric junction
+SNOMED CT,236713006,X-linked recessive nephrolithiasis with renal failure
+SNOMED CT,237230004,Uremia in pregnancy without hypertension
+SNOMED CT,237612000,"Photomyoclonus, diabetes mellitus, deafness, nephropathy and cerebral dysfunction"
+SNOMED CT,239932005,Primary pauci-immune necrotizing and crescentic glomerulonephritis
+SNOMED CT,240317003,Kidney injury due to birth trauma
+SNOMED CT,253860008,Pyelon triplex
+SNOMED CT,253862000,Trifid kidney
+SNOMED CT,253864004,"Familial hypoplastic, glomerulocystic kidney"
+SNOMED CT,253865003,"Crossed ectopia of kidney, without fusion"
+SNOMED CT,253866002,Crossed ectopia of kidney with fusion anomaly
+SNOMED CT,253867006,Thoracic kidney
+SNOMED CT,253869009,Cake kidney
+SNOMED CT,253872002,Bifid kidney
+SNOMED CT,253873007,Duplex kidney with reflux in one ureter
+SNOMED CT,253874001,Duplex kidney with reflux in both ureters
+SNOMED CT,253875000,Congenital calyceal diverticulum
+SNOMED CT,253876004,Fibrocystic renal degeneration
+SNOMED CT,253878003,Adult type polycystic kidney disease type 1
+SNOMED CT,253879006,Adult type polycystic kidney disease type 2
+SNOMED CT,253880009,Autosomal dominant polycystic kidney disease in childhood
+SNOMED CT,253881008,Cortical cystic disease
+SNOMED CT,253882001,Nephronophthisis - medullary cystic disease
+SNOMED CT,253883006,Multiple renal cysts
+SNOMED CT,253884000,Medullary sponge kidney with nephrocalcinosis
+SNOMED CT,253885004,Medullary sponge kidney without nephrocalcinosis
+SNOMED CT,253886003,Congenital obstructive defect of renal pelvis
+SNOMED CT,253897003,"Congenital vesicoureterorenal reflux, bilateral"
+SNOMED CT,35455006,Acute tubular necrosis
+SNOMED CT,35546006,Mesangial proliferative glomerulonephritis
+SNOMED CT,36171008,Glomerulonephritis
+SNOMED CT,36225005,Acute renal failure due to procedure
+SNOMED CT,36388008,Stricture of pelviureteric junction
+SNOMED CT,36402006,"SLE glomerulonephritis syndrome, WHO class IV"
+SNOMED CT,36568005,Hemolytic uremic syndrome of childhood
+SNOMED CT,36689008,Acute pyelonephritis
+SNOMED CT,36891003,"Hartnup disorder, renal/jejunal type"
+SNOMED CT,37061001,Granulomatous sarcoid nephropathy
+SNOMED CT,37085009,Shunt nephritis
+SNOMED CT,37133005,Tuberculous pyelitis
+SNOMED CT,37183000,"Cystinuria, type 1"
+SNOMED CT,37497004,Enteric hyperoxaluria
+SNOMED CT,37779008,Pyeloureteritis cystica
+SNOMED CT,38046004,Diffuse glomerulosclerosis of kidney due to diabetes mellitus
+SNOMED CT,38481006,Hypertensive renal disease
+SNOMED CT,38898003,Xanthogranulomatous pyelonephritis
+SNOMED CT,39734002,"Renal glucosuria, type O"
+SNOMED CT,40068008,Hydroureteronephrosis
+SNOMED CT,40095003,Injury of kidney
+SNOMED CT,40233000,Nephrotic-nephritic syndrome
+SNOMED CT,40488004,Fanconi syndrome
+SNOMED CT,40951006,"Primary hyperoxaluria, type II"
+SNOMED CT,41305006,Secondary oxalosis
+SNOMED CT,41729002,Horseshoe kidney
+SNOMED CT,41962002,Oligohydramnios sequence
+SNOMED CT,42399005,Renal failure syndrome
+SNOMED CT,42496002,"Cystinuria, type 3"
+SNOMED CT,42927005,Cholemic nephrosis
+SNOMED CT,43064006,Hydronephrosis
+SNOMED CT,43258006,Milk alkali syndrome
+SNOMED CT,43629001,Renal failure following molar AND/OR ectopic pregnancy
+SNOMED CT,44323002,Tuberculosis of kidney
+SNOMED CT,44513007,Congenital anomaly of the kidney
+SNOMED CT,44730006,Uremia
+SNOMED CT,45281005,Atherosclerosis of renal artery
+SNOMED CT,45646000,Subacute milk alkali syndrome
+SNOMED CT,45743004,Duodenorenal fistula
+SNOMED CT,45812003,Familial methionine malabsorption
+SNOMED CT,45927004,Immunologic mediated TIN (tubulointerstitial nephritis)
+SNOMED CT,46177005,End-stage renal disease
+SNOMED CT,46785007,Familial juvenile gout
+SNOMED CT,47330001,Idiopathic acute tubulointerstitial nephritis
+SNOMED CT,48061001,Congenital calculus of kidney
+SNOMED CT,48631008,Pyonephrosis
+SNOMED CT,48638002,Nephrocalcinosis
+SNOMED CT,48655003,Isolated familial renal hypomagnesemia
+SNOMED CT,48713002,Amyloid nephropathy
+SNOMED CT,48796009,Congenital nephrotic syndrome
+SNOMED CT,49008000,Malrotation of kidney
+SNOMED CT,49102001,Hypertensive heart AND renal disease in obstetric context
+SNOMED CT,49171007,Hypertensive renal disease complicating AND/OR reason for care during childbirth
+SNOMED CT,49220004,Hypertensive renal failure
+SNOMED CT,49708008,Anemia of chronic renal failure
+SNOMED CT,50909009,Antifreeze oxalosis
+SNOMED CT,51292008,Hepatorenal syndrome
+SNOMED CT,52042003,"SLE glomerulonephritis syndrome, WHO class V"
+SNOMED CT,52342006,Legal termination of pregnancy with acute renal failure
+SNOMED CT,52845002,Nephritis
+SNOMED CT,53378008,Salt-wasting syndrome of infancy
+SNOMED CT,53556002,Cis-platinum nephropathy
+SNOMED CT,54155004,Illegal termination of pregnancy with uremia
+SNOMED CT,54781007,"Hyperkalemia, diminished renal excretion"
+SNOMED CT,54879000,Hypokalemic nephropathy
+SNOMED CT,54967001,Double kidney
+SNOMED CT,55006001,Light chain nephropathy
+SNOMED CT,55536001,Congenital malposition of kidney
+SNOMED CT,55856005,Congenital hyperplasia of kidney
+SNOMED CT,56108007,Pelvic kidney
+SNOMED CT,56906005,Hematoma of kidney without rupture of capsule AND with open wound into abdominal cavity
+SNOMED CT,57088004,Microcystic renal disease
+SNOMED CT,57557005,Chronic milk alkali syndrome
+SNOMED CT,57684003,Parenchymal renal hypertension
+SNOMED CT,57873008,Hypertensive renal disease complicating AND/OR reason for care during puerperium
+SNOMED CT,58574008,Acute nephropathy
+SNOMED CT,58797008,Disorder of transplanted kidney
+SNOMED CT,59400006,Analgesic nephropathy
+SNOMED CT,59530001,Syphilis of kidney
+SNOMED CT,59531002,Tryptophan malabsorption syndrome
+SNOMED CT,59758007,Trifid pelvis of kidney
+SNOMED CT,61165007,Hereditary nephrogenic diabetes insipidus
+SNOMED CT,61474001,Injury of kidney with open wound into abdominal cavity
+SNOMED CT,61503006,Acute nephritis
+SNOMED CT,61598006,Glycogenosis with glucoaminophosphaturia
+SNOMED CT,61852001,Ask-Upmark kidney
+SNOMED CT,62216007,Familial arthrogryposis-cholestatic hepatorenal syndrome
+SNOMED CT,62240004,Benign arteriolar nephrosclerosis
+SNOMED CT,62332007,Infantile nephropathic cystinosis
+SNOMED CT,62853008,Anti-glomerular basement membrane tubulointerstitial nephritis
+SNOMED CT,63302006,Chronic pyelonephritis
+SNOMED CT,63510008,Nodular type diabetic glomerulosclerosis
+SNOMED CT,64168005,"Idiopathic crescentic glomerulonephritis, type I"
+SNOMED CT,64212008,Diffuse crescentic glomerulonephritis
+SNOMED CT,64323009,Complete disruption of kidney parenchyma without open wound into cavity
+SNOMED CT,65443008,Malignant hypertensive renal disease
+SNOMED CT,66052004,Benign hypertensive heart AND renal disease
+SNOMED CT,66451004,"Familial visceral amyloidosis, Ostertag type"
+SNOMED CT,66610008,Malignant hypertensive heart AND renal disease
+SNOMED CT,66709007,Hypertensive renal disease complicating AND/OR reason for care during pregnancy
+SNOMED CT,66993009,Acute infectious tubulointerstitial nephritis
+SNOMED CT,67132008,Hypoxic nephrosis
+SNOMED CT,68544003,PSGN - post-streptococcal glomerulonephritis
+SNOMED CT,68815009,SLE glomerulonephritis syndrome
+SNOMED CT,69718008,Oxalate nephropathy
+SNOMED CT,70092007,Contusion of kidney
+SNOMED CT,71064009,Acquired polycystic kidney disease
+SNOMED CT,71110009,Hydrocalycosis
+SNOMED CT,71909003,Acute renal failure following molar AND/OR ectopic pregnancy
+SNOMED CT,73030000,Hypertensive renal disease in obstetric context
+SNOMED CT,73286009,"SLE glomerulonephritis syndrome, WHO class I"
+SNOMED CT,73305009,Fibrillary glomerulonephritis
+SNOMED CT,74324004,Laceration of kidney without open wound into abdominal cavity
+SNOMED CT,74594005,Crossed renal ectopia
+SNOMED CT,75030003,"Renal glucosuria, type A"
+SNOMED CT,75150001,Renal disease in pregnancy AND/OR puerperium without hypertension
+SNOMED CT,75652008,Familial renal iminoglycinuria
+SNOMED CT,75712001,Renal coccidiosis
+SNOMED CT,76224000,Hemoglobinuric nephrosis
+SNOMED CT,76521009,"SLE glomerulonephritis syndrome, WHO class III"
+SNOMED CT,77182004,Membranous glomerulonephritis
+SNOMED CT,77186001,Failed attempted termination of pregnancy with renal tubular necrosis
+SNOMED CT,77624000,"Volume excess, primary renal sodium retention"
+SNOMED CT,77945009,Simple renal cyst
+SNOMED CT,78209002,"Hemolytic uremic syndrome, adult type"
+SNOMED CT,78311009,Histidine transport defect
+SNOMED CT,78544004,Chronic hypertensive uremia
+SNOMED CT,78815005,Hereditary tubulointerstitial disorder
+SNOMED CT,80119007,Pericarditis secondary to uremia
+SNOMED CT,80321008,Mesangiocapillary glomerulonephritis
+SNOMED CT,399094007,Familial hematuria
+SNOMED CT,399190000,Non-progressive hereditary glomerulonephritis
+SNOMED CT,399340005,Hereditary nephritis
+SNOMED CT,405573009,Acquired obstructive defect of renal pelvis
+SNOMED CT,405584002,Traumatic rupture of kidney
+SNOMED CT,408642003,Transitional cell carcinoma of kidney
+SNOMED CT,418839003,Tubulointerstitial nephritis with uveitis syndrome
+SNOMED CT,420279001,Renal disorder due to type 2 diabetes mellitus
+SNOMED CT,420514000,Persistent proteinuria due to type 1 diabetes mellitus
+SNOMED CT,420715001,Persistent microalbuminuria due to type 2 diabetes mellitus
+SNOMED CT,421305000,Persistent microalbuminuria due to type 1 diabetes mellitus
+SNOMED CT,421893009,Renal disorder due to type 1 diabetes mellitus
+SNOMED CT,421986006,Persistent proteinuria due to type 2 diabetes mellitus
+SNOMED CT,423322005,Recurrent obstructive pyelonephritis
+SNOMED CT,423533009,Acute renal failure due to ischemia
+SNOMED CT,423919000,Acquired caliectasis
+SNOMED CT,424114000,Nephrogenic systemic fibrosis
+SNOMED CT,424188009,Idiopathic interstitial tubulonephritis
+SNOMED CT,425369003,Chronic progressive renal failure
+SNOMED CT,425384007,Sarcoidosis with glomerulonephritis
+SNOMED CT,425455002,Diabetic glomerulonephritis
+SNOMED CT,425879009,AA amyloid nephropathy
+SNOMED CT,426136000,Delayed renal graft function
+SNOMED CT,426598005,Amyloid light-chain nephropathy
+SNOMED CT,427555000,Glomerulonephritis due to granulomatosis with polyangiitis
+SNOMED CT,427649000,Calcium renal calculus
+SNOMED CT,428255004,Tubulointerstitial nephritis
+SNOMED CT,428720002,Nephropathy due to heroin
+SNOMED CT,429224003,Acute renal failure due to acute cortical necrosis
+SNOMED CT,429489008,Acute renal failure due to obstruction
+SNOMED CT,430031008,Fetal hydronephrosis
+SNOMED CT,430035004,Dilatation of fetal renal pelvis
+SNOMED CT,430535006,Acute renal failure with oliguria
+SNOMED CT,431480000,Nephrovisceral fistula
+SNOMED CT,431501001,Pyelocutaneous fistula
+SNOMED CT,431855005,Chronic kidney disease stage 1
+SNOMED CT,431856006,Chronic kidney disease stage 2
+SNOMED CT,431857002,Chronic kidney disease stage 4
+SNOMED CT,433036004,Diverticulum of renal calyx
+SNOMED CT,433144002,Chronic kidney disease stage 3
+SNOMED CT,433146000,Chronic kidney disease stage 5
+SNOMED CT,433229006,Nephrocutaneous fistula
+SNOMED CT,438783006,Acute postoperative renal failure
+SNOMED CT,439990003,Drug-induced tubulointerstitial nephritis
+SNOMED CT,440018001,Heavy-metal-induced tubulointerstitial nephritis
+SNOMED CT,441815006,Proliferative glomerulonephritis
+SNOMED CT,441872001,Renal scarring
+SNOMED CT,254092004,Saldino-Mainzer dysplasia
+SNOMED CT,254914004,Neoplasm of parenchyma of kidney
+SNOMED CT,254915003,Clear cell carcinoma of kidney
+SNOMED CT,254916002,Cystadenocarcinoma of kidney
+SNOMED CT,254917006,Papillary cystadenocarcinoma of kidney
+SNOMED CT,254918001,Sarcoma of kidney
+SNOMED CT,254919009,Cortical adenoma of kidney
+SNOMED CT,254920003,Cystadenoma of kidney
+SNOMED CT,254921004,Angiomyolipoma of kidney
+SNOMED CT,254922006,Oncocytoma of kidney
+SNOMED CT,254923001,Hemangiopericytoma of kidney
+SNOMED CT,254924007,Tumor of renal calyx
+SNOMED CT,254925008,Benign tumor of renal calyx
+SNOMED CT,254927000,Benign papilloma of renal pelvis
+SNOMED CT,254928005,Tumor of pelviureteric junction
+SNOMED CT,262612001,Foreign body in kidney
+SNOMED CT,262891006,Hematoma of kidney
+SNOMED CT,262893009,Laceration of kidney
+SNOMED CT,262894003,Rupture of renal pelvis
+SNOMED CT,262900003,Disruption of pelviureteric junction
+SNOMED CT,266549004,Nephrotic syndrome with minimal change glomerulonephritis
+SNOMED CT,266556005,Calculus of kidney and ureter
+SNOMED CT,267430007,Renal glycosuria
+SNOMED CT,268232000,Bilateral renal hypoplasia
+SNOMED CT,268234004,Fibrocystic kidney disease
+SNOMED CT,268854008,Congenital renal failure
+SNOMED CT,269257004,Acute renal failure due to crush syndrome
+SNOMED CT,269301005,Renal failure as a complication of care
+SNOMED CT,269489006,Benign tumor of renal parenchyma
+SNOMED CT,269914004,O/E: phosphate -staghorn-stone
+SNOMED CT,270494003,Acute papillary necrosis
+SNOMED CT,270517006,Triple kidney with triple pelvis
+SNOMED CT,270910001,"Medullary cystic disease, adult type"
+SNOMED CT,271387005,Congenital enlarged kidney
+SNOMED CT,274401005,Uric acid renal calculus
+SNOMED CT,275407001,Double kidney with double pelvis
+SNOMED CT,275408006,Postoperative renal failure
+SNOMED CT,275893001,Phosphate kidney stone
+SNOMED CT,276583007,Newborn renal dysfunction
+SNOMED CT,276584001,Neonatal nephrocalcinosis
+SNOMED CT,276585000,Congenital nephritis
+SNOMED CT,276586004,Transient neonatal renal tubular acidosis
+SNOMED CT,276627004,Congenital uremia
+SNOMED CT,276866009,Benign tumor of pelviureteric junction
+SNOMED CT,277010001,Unexplained episode of renal transplant dysfunction
+SNOMED CT,277011002,Pre-existing disease in renal transplant
+SNOMED CT,278531007,Congenital hydrocalicosis
+SNOMED CT,283905005,Avulsion of kidney
+SNOMED CT,285639008,Metastasis to kidney of unknown primary
+SNOMED CT,298015003,Acute renal papillary necrosis with renal failure
+SNOMED CT,298127003,Acquired calyceal diverticulum
+SNOMED CT,301814009,Post-renal renal failure
+SNOMED CT,302849000,Nephroblastoma
+SNOMED CT,302910002,Atherosclerotic renal artery stenosis
+SNOMED CT,302922004,Compensatory hypertrophy of single kidney
+SNOMED CT,1003426008,Glomerular disease due to Fabry disease
+SNOMED CT,1003842009,Renal tubular dysgenesis caused by drug
+SNOMED CT,1003861008,Renal tubular dysgenesis due to twin to twin transfusion
+SNOMED CT,111491000119107,Nephritis caused by drug
+SNOMED CT,15957501000119101,Bilateral oncocytoma of kidneys
+SNOMED CT,351391000119103,Neoplasm of uncertain behavior of left renal pelvis
+SNOMED CT,351621000119108,Neoplasm of uncertain behavior of right renal pelvis
+SNOMED CT,368201000119100,Disorder of kidney due to drug induced diabetes mellitus
+SNOMED CT,368421000119108,Chronic kidney disease stage 1 due to drug induced diabetes mellitus
+SNOMED CT,368431000119106,Chronic kidney disease stage 2 due to drug induced diabetes mellitus
+SNOMED CT,368441000119102,Chronic kidney disease stage 3 due to drug induced diabetes mellitus
+SNOMED CT,368451000119100,Chronic kidney disease stage 4 due to drug induced diabetes mellitus
+SNOMED CT,368461000119103,Chronic kidney disease stage 5 due to drug induced diabetes mellitus
+SNOMED CT,368471000119109,End stage renal disease on dialysis due to drug induced diabetes mellitus
+SNOMED CT,86211000119102,Bilateral disorder of kidneys due to vesicoureteral reflux
+SNOMED CT,878805009,Renal granular cell carcinoma
+SNOMED CT,890370003,Congenital megacalycosis of bilateral kidneys
+SNOMED CT,895345000,Bilateral primary malignant neoplasm of kidneys
+SNOMED CT,897308007,Chronic kidney disease with osteoporosis
+SNOMED CT,897310009,Renal osteodystrophy with high bone turnover
+SNOMED CT,897311008,Renal osteodystrophy with normal bone turnover
+SNOMED CT,897312001,Renal osteodystrophy with low bone turnover
+SNOMED CT,1228881003,ALECT2 amyloidosis
+SNOMED CT,1163077002,Diphtheritic renal tubular necrosis
+SNOMED CT,1217070004,Renal osteodystrophy due to hyperparathyroidism
+SNOMED CT,1217380005,HELIX syndrome

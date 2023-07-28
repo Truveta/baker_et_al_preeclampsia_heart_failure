@@ -1,0 +1,32 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,I10,Essential (primary) hypertension
+ICD9CM,401.0,Malignant essential hypertension
+ICD9CM,401.1,Benign essential hypertension
+ICD9CM,401.9,Unspecified essential hypertension
+SNOMED CT,1201005,Benign essential hypertension
+SNOMED CT,10725009,Benign hypertension
+SNOMED CT,461301000124109,Resistant hypertensive disorder
+SNOMED CT,1078301000112109,Multiple drug intolerant hypertension
+SNOMED CT,762463000,Diastolic hypertension and systolic hypertension
+SNOMED CT,371125006,Labile essential hypertension
+SNOMED CT,46481004,Low-renin essential hypertension
+SNOMED CT,48146000,Diastolic hypertension
+SNOMED CT,56218007,Systolic hypertension
+SNOMED CT,59621000,Essential hypertension
+SNOMED CT,59720008,Sustained diastolic hypertension
+SNOMED CT,65518004,Labile diastolic hypertension
+SNOMED CT,78975002,Malignant essential hypertension
+SNOMED CT,429457004,Systolic essential hypertension
+SNOMED CT,9901000,Essential hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,18416000,Essential hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,19769006,High-renin essential hypertension
+SNOMED CT,23717007,Benign essential hypertension complicating AND/OR reason for care during pregnancy
+SNOMED CT,40511000119107,Postpartum pre-existing essential hypertension
+SNOMED CT,194785008,Benign secondary hypertension
+SNOMED CT,35303009,Benign essential hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,63287004,Benign essential hypertension in obstetric context
+SNOMED CT,71874008,Benign essential hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,72022006,Essential hypertension in obstetric context
+SNOMED CT,73410007,Benign secondary renovascular hypertension
+SNOMED CT,74451002,Secondary diastolic hypertension
+SNOMED CT,78808002,Essential hypertension complicating AND/OR reason for care during pregnancy

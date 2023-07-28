@@ -1,0 +1,88 @@
+CodeSystem,ConceptCode,ConceptName
+ICD9CM,416.0,Primary pulmonary hypertension
+ICD9CM,416.8,Other chronic pulmonary heart diseases
+ICD10CM,I27.0,Primary pulmonary hypertension
+ICD10CM,I27.2,Other secondary pulmonary hypertension
+ICD10CM,I27.20,"Pulmonary hypertension, unspecified"
+ICD10CM,I27.21,Secondary pulmonary arterial hypertension
+ICD10CM,I27.22,Pulmonary hypertension due to left heart disease
+ICD10CM,I27.23,Pulmonary hypertension due to lung diseases and hypoxia
+ICD10CM,I27.24,Chronic thromboembolic pulmonary hypertension
+ICD10CM,I27.29,Other secondary pulmonary hypertension
+SNOMED CT,70995007,Pulmonary hypertension
+SNOMED CT,5499009,Pulmonary hypertensive venous disease
+SNOMED CT,10964002,Progressive pulmonary hypertension
+SNOMED CT,11399002,Pulmonary arterial hypertension
+SNOMED CT,87394009,Episodic pulmonary hypertension
+SNOMED CT,88223008,Secondary pulmonary hypertension
+SNOMED CT,89420002,Pulmonary veno-occlusive disease
+SNOMED CT,840306007,Mild pulmonary hypertension
+SNOMED CT,840307003,Moderate pulmonary hypertension
+SNOMED CT,840308008,Severe pulmonary hypertension
+SNOMED CT,233948000,Pulmonary hypertension in vasculitis
+SNOMED CT,697899000,Heritable pulmonary arterial hypertension due to bone morphogenetic protein receptor type II mutation
+SNOMED CT,697900005,Heritable pulmonary arterial hypertension due to activin A receptor type II-like kinase 1 or endoglin mutation
+SNOMED CT,445237003,Pulmonary arterial hypertension associated with portal hypertension
+SNOMED CT,445928005,Eisenmenger's syndrome
+SNOMED CT,472757001,Pulmonary venous hypertension as complication of procedure
+SNOMED CT,472758006,Pulmonary venous hypertension due to compression of pulmonary great vein
+SNOMED CT,472759003,Pulmonary venous hypertension due to compression of pulmonary great vein by sclerosing mediastinitis
+SNOMED CT,472760008,Pulmonary venous hypertension due to compression of pulmonary great vein by lymphadenopathy
+SNOMED CT,472761007,Pulmonary venous hypertension due to compression of pulmonary great vein by neoplasm
+SNOMED CT,472790001,Pulmonary hypertension due to left heart disease
+SNOMED CT,697896007,Precapillary pulmonary hypertension
+SNOMED CT,697897003,Heritable pulmonary arterial hypertension
+SNOMED CT,697898008,Idiopathic pulmonary arterial hypertension
+SNOMED CT,697901009,Pulmonary arterial hypertension induced by toxin
+SNOMED CT,697902002,Associated pulmonary arterial hypertension
+SNOMED CT,697903007,Pulmonary arterial hypertension associated with connective tissue disease
+SNOMED CT,697904001,Pulmonary arterial hypertension associated with HIV infection
+SNOMED CT,697905000,Pulmonary arterial hypertension associated with congenital heart disease
+SNOMED CT,697906004,Pulmonary arterial hypertension associated with congenital systemic-to-pulmonary shunt
+SNOMED CT,697907008,Pulmonary arterial hypertension associated with schistosomiasis
+SNOMED CT,697908003,Pulmonary arterial hypertension associated with chronic hemolytic anemia
+SNOMED CT,697909006,Pulmonary veno-occlusive disease and/or pulmonary capillary hemangiomatosis
+SNOMED CT,697910001,Pulmonary hypertension due to lung disease and/or hypoxia
+SNOMED CT,697911002,Pulmonary hypertension due to chronic obstructive pulmonary disease
+SNOMED CT,697912009,Pulmonary hypertension due to interstitial lung disease
+SNOMED CT,697913004,Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive pattern
+SNOMED CT,697914005,Pulmonary hypertension due to sleep-disordered breathing
+SNOMED CT,697915006,Pulmonary hypertension due to alveolar hypoventilation disorder
+SNOMED CT,697916007,Pulmonary hypertension due to developmental abnormality of the lung
+SNOMED CT,697917003,Pulmonary hypertension due to hematological disorder
+SNOMED CT,697918008,Pulmonary hypertension due to myeloproliferative disorder
+SNOMED CT,697919000,Pulmonary hypertension due to post-splenectomy hematological disorder
+SNOMED CT,697920006,Pulmonary hypertension in systemic disorder
+SNOMED CT,697921005,Pulmonary hypertension in sarcoidosis
+SNOMED CT,697922003,Pulmonary hypertension in Langerhans cell histiocytosis
+SNOMED CT,697923008,Pulmonary hypertension in lymphangioleiomyomatosis
+SNOMED CT,697924002,Pulmonary hypertension in neurofibromatosis
+SNOMED CT,697925001,Pulmonary hypertension due to systolic systemic ventricular dysfunction
+SNOMED CT,697926000,Pulmonary hypertension due to diastolic systemic ventricular dysfunction
+SNOMED CT,697927009,Pulmonary hypertension due to left-sided valvular heart disease
+SNOMED CT,697928004,Pulmonary venous hypertension due to congenital stenosis of pulmonary vein
+SNOMED CT,703355003,Pulmonary hypertension due to vasculitis
+SNOMED CT,720575002,Braddock syndrome
+SNOMED CT,776416004,"Hyperuricemia, pulmonary hypertension, renal failure, alkalosis syndrome"
+SNOMED CT,360573001,Postcapillary pulmonary hypertension
+SNOMED CT,360578005,Pulmonary hypertension secondary to raised pulmonary vascular resistance
+SNOMED CT,233815004,Persistent pulmonary hypertension of the newborn
+SNOMED CT,233941006,Solitary pulmonary hypertension
+SNOMED CT,233942004,Small vessel pulmonary hypertension
+SNOMED CT,233943009,Sporadic primary pulmonary hypertension
+SNOMED CT,233944003,Familial primary pulmonary hypertension
+SNOMED CT,233945002,Pulmonary arterial hypertension induced by drug
+SNOMED CT,233946001,Large vessel pulmonary hypertension
+SNOMED CT,233947005,Chronic thromboembolic pulmonary hypertension
+SNOMED CT,233949008,Pulmonary capillary hemangiomatosis
+SNOMED CT,233950008,Pulmonary hypertension associated with chronic underventilation
+SNOMED CT,233954004,Pulmonary hypertension due to chronic exposure to high altitude
+SNOMED CT,234161007,Familial pulmonary capillary hemangiomatosis
+SNOMED CT,276792008,Pulmonary hypertension with extreme obesity
+SNOMED CT,276793003,Pulmonary hypertension with occult mitral stenosis
+SNOMED CT,276794009,Facultative pulmonary hypertension with shunt at atrial level
+SNOMED CT,1010625007,Pulmonary hypertension due to pulmonary disease with mixed restrictive and obstructive patterns
+SNOMED CT,1010627004,Pulmonary hypertension due to developmental abnormality
+SNOMED CT,879814007,Pulmonary hypertension due to pulmonary capillary hemangiomatosis
+SNOMED CT,879815008,Pulmonary hypertension due to pulmonary veno-occlusive disease
+SNOMED CT,879816009,Pulmonary hypertension due to familial pulmonary capillary hemangiomatosis

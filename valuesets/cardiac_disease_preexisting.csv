@@ -1,0 +1,2497 @@
+CodeSystem,ConceptCode,ConceptName
+ICD9CM,394.0,Mitral stenosis
+ICD9CM,394.1,Rheumatic mitral insufficiency
+ICD9CM,394.2,Mitral stenosis with insufficiency
+ICD9CM,394.9,Other and unspecified mitral valve diseases
+ICD9CM,402.00,Malignant hypertensive heart disease without heart failure
+ICD9CM,402.01,Malignant hypertensive heart disease with heart failure
+ICD9CM,402.10,Benign hypertensive heart disease without heart failure
+ICD9CM,402.11,Benign hypertensive heart disease with heart failure
+ICD9CM,402.90,Unspecified hypertensive heart disease without heart failure
+ICD9CM,402.91,Unspecified hypertensive heart disease with heart failure
+ICD9CM,404.00,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+ICD9CM,404.01,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+ICD9CM,404.02,"Hypertensive heart and chronic kidney disease, malignant, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+ICD9CM,404.03,"Hypertensive heart and chronic kidney disease, malignant, with heart failure and with chronic kidney disease stage V or end stage renal disease"
+ICD9CM,404.10,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+ICD9CM,404.11,"Hypertensive heart and chronic kidney disease, benign, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+ICD9CM,404.12,"Hypertensive heart and chronic kidney disease, benign, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+ICD9CM,404.13,"Hypertensive heart and chronic kidney disease, benign, with heart failure and chronic kidney disease stage V or end stage renal disease"
+ICD9CM,404.90,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+ICD9CM,404.91,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and with chronic kidney disease stage I through stage IV, or unspecified"
+ICD9CM,404.92,"Hypertensive heart and chronic kidney disease, unspecified, without heart failure and with chronic kidney disease stage V or end stage renal disease"
+ICD9CM,404.93,"Hypertensive heart and chronic kidney disease, unspecified, with heart failure and chronic kidney disease stage V or end stage renal disease"
+ICD9CM,405.01,Malignant renovascular hypertension
+ICD9CM,405.09,Other malignant secondary hypertension
+ICD9CM,405.11,Benign renovascular hypertension
+ICD9CM,405.19,Other benign secondary hypertension
+ICD9CM,405.91,Unspecified renovascular hypertension
+ICD9CM,405.99,Other unspecified secondary hypertension
+ICD9CM,414.2,Chronic total occlusion of coronary artery
+ICD9CM,411.1,Intermediate coronary syndrome
+ICD9CM,412,Old myocardial infarction
+ICD9CM,413.1,Prinzmetal angina
+ICD9CM,413.9,Other and unspecified angina pectoris
+ICD9CM,414.01,Coronary atherosclerosis of native coronary artery
+ICD9CM,414.02,Coronary atherosclerosis of autologous vein bypass graft
+ICD9CM,414.03,Coronary atherosclerosis of nonautologous biological bypass graft
+ICD9CM,414.04,Coronary atherosclerosis of artery bypass graft
+ICD9CM,414.05,Coronary atherosclerosis of unspecified bypass graft
+ICD9CM,414.06,Coronary atherosclerosis of native coronary artery of transplanted heart
+ICD9CM,414.07,Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart
+ICD9CM,414.10,Aneurysm of heart (wall)
+ICD9CM,414.11,Aneurysm of coronary vessels
+ICD9CM,414.12,Dissection of coronary artery
+ICD9CM,414.19,Other aneurysm of heart
+ICD9CM,414.3,Coronary atherosclerosis due to lipid rich plaque
+ICD9CM,414.4,Coronary atherosclerosis due to calcified coronary lesion
+ICD9CM,414.8,Other specified forms of chronic ischemic heart disease
+ICD9CM,414.9,"Chronic ischemic heart disease, unspecified"
+ICD9CM,420.0,Acute pericarditis in diseases classified elsewhere
+ICD9CM,420.90,"Acute pericarditis, unspecified"
+ICD9CM,420.91,Acute idiopathic pericarditis
+ICD9CM,420.99,Other acute pericarditis
+ICD9CM,421.0,Acute and subacute bacterial endocarditis
+ICD9CM,421.1,Acute and subacute infective endocarditis in diseases classified elsewhere
+ICD9CM,421.9,"Acute endocarditis, unspecified"
+ICD9CM,422.0,Acute myocarditis in diseases classified elsewhere
+ICD9CM,422.90,"Acute myocarditis, unspecified"
+ICD9CM,422.91,Idiopathic myocarditis
+ICD9CM,422.92,Septic myocarditis
+ICD9CM,422.93,Toxic myocarditis
+ICD9CM,422.99,Other acute myocarditis
+ICD9CM,423.0,Hemopericardium
+ICD9CM,423.1,Adhesive pericarditis
+ICD9CM,423.2,Constrictive pericarditis
+ICD9CM,423.3,Cardiac tamponade
+ICD9CM,423.8,Other specified diseases of pericardium
+ICD9CM,423.9,Unspecified disease of pericardium
+ICD9CM,424.0,Mitral valve disorders
+ICD9CM,424.1,Aortic valve disorders
+ICD9CM,424.2,"Tricuspid valve disorders, specified as nonrheumatic"
+ICD9CM,424.3,Pulmonary valve disorders
+ICD9CM,424.90,"Endocarditis, valve unspecified, unspecified cause"
+ICD9CM,424.91,Endocarditis in diseases classified elsewhere
+ICD9CM,424.99,"Other endocarditis, valve unspecified"
+ICD9CM,426.0,"Atrioventricular block, complete"
+ICD9CM,426.10,"Atrioventricular block, unspecified"
+ICD9CM,426.11,First degree atrioventricular block
+ICD9CM,426.12,Mobitz (type) II atrioventricular block
+ICD9CM,426.13,Other second degree atrioventricular block
+ICD9CM,426.2,Left bundle branch hemiblock
+ICD9CM,426.3,Other left bundle branch block
+ICD9CM,426.4,Right bundle branch block
+ICD9CM,426.50,"Bundle branch block, unspecified"
+ICD9CM,426.51,Right bundle branch block and left posterior fascicular block
+ICD9CM,426.52,Right bundle branch block and left anterior fascicular block
+ICD9CM,426.53,Other bilateral bundle branch block
+ICD9CM,426.7,Anomalous atrioventricular excitation
+ICD9CM,426.81,Lown-Ganong-Levine syndrome
+ICD9CM,426.82,Long QT syndrome
+ICD9CM,426.89,Other specified conduction disorders
+ICD9CM,426.9,"Conduction disorder, unspecified"
+ICD9CM,427.0,Paroxysmal supraventricular tachycardia
+ICD9CM,427.1,Paroxysmal ventricular tachycardia
+ICD9CM,427.2,"Paroxysmal tachycardia, unspecified"
+ICD9CM,427.31,Atrial fibrillation
+ICD9CM,427.32,Atrial flutter
+ICD9CM,427.5,Cardiac arrest
+ICD9CM,428.0,"Congestive heart failure, unspecified"
+ICD9CM,428.22,Chronic systolic heart failure
+ICD9CM,428.23,Acute on chronic systolic heart failure
+ICD9CM,428.32,Chronic diastolic heart failure
+ICD9CM,428.33,Acute on chronic diastolic heart failure
+ICD9CM,428.42,Chronic combined systolic and diastolic heart failure
+ICD9CM,428.43,Acute on chronic combined systolic and diastolic heart failure
+ICD9CM,428.9,"Heart failure, unspecified"
+ICD9CM,429.2,"Cardiovascular disease, unspecified"
+ICD9CM,674.01,"Cerebrovascular disorders in the puerperium, delivered, with or without mention of antepartum condition"
+ICD9CM,674.02,"Cerebrovascular disorders in the puerperium, delivered, with mention of postpartum complication"
+ICD10CM,I05,Rheumatic mitral valve diseases
+ICD10CM,I06,Rheumatic aortic valve diseases
+ICD10CM,I07,Rheumatic tricuspid valve diseases
+ICD10CM,I08,Multiple valve diseases
+ICD10CM,I09,Other rheumatic heart diseases
+ICD10CM,I11,Hypertensive heart disease
+ICD10CM,I12,Hypertensive chronic kidney disease
+ICD10CM,I13,Hypertensive heart and chronic kidney disease
+ICD10CM,I15,Secondary hypertension
+ICD10CM,I16,Hypertensive crisis
+ICD10CM,I20,Angina pectoris
+ICD10CM,I25,Chronic ischemic heart disease
+ICD10CM,I27.8,Other specified pulmonary heart diseases
+ICD10CM,I30,Acute pericarditis
+ICD10CM,I31,Other diseases of pericardium
+ICD10CM,I32,Pericarditis in diseases classified elsewhere
+ICD10CM,I33,Acute and subacute endocarditis
+ICD10CM,I34,Nonrheumatic mitral valve disorders
+ICD10CM,I35,Nonrheumatic aortic valve disorders
+ICD10CM,I36,Nonrheumatic tricuspid valve disorders
+ICD10CM,I37,Nonrheumatic pulmonary valve disorders
+ICD10CM,I38,"Endocarditis, valve unspecified"
+ICD10CM,I39,Endocarditis and heart valve disorders in diseases classified elsewhere
+ICD10CM,I40,Acute myocarditis
+ICD10CM,I41,Myocarditis in diseases classified elsewhere
+ICD10CM,I44,Atrioventricular and left bundle-branch block
+ICD10CM,I45,Other conduction disorders
+ICD10CM,I46,Cardiac arrest
+ICD10CM,I47,Paroxysmal tachycardia
+ICD10CM,I48,Atrial fibrillation and flutter
+ICD10CM,I49,Other cardiac arrhythmias
+ICD10CM,I50.22,Chronic systolic (congestive) heart failure
+ICD10CM,I50.23,Acute on chronic systolic (congestive) heart failure
+ICD10CM,I50.32,Chronic diastolic (congestive) heart failure
+ICD10CM,I50.33,Acute on chronic diastolic (congestive) heart failure
+ICD10CM,I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure
+ICD10CM,I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure
+ICD10CM,I50.812,Chronic right heart failure
+ICD10CM,I50.813,Acute on chronic right heart failure
+ICD10CM,O99.41,Diseases of the circulatory system complicating pregnancy
+ICD10CM,O99.42,Diseases of the circulatory system complicating childbirth
+ICD10CM,Q20,Congenital malformations of cardiac chambers and connections
+ICD10CM,Q21,Congenital malformations of cardiac septa
+ICD10CM,Q22,Congenital malformations of pulmonary and tricuspid valves
+ICD10CM,Q23,Congenital malformations of aortic and mitral valves
+ICD10CM,Q24,Other congenital malformations of heart
+ICD10CM,I05.0,Rheumatic mitral stenosis
+ICD10CM,I05.1,Rheumatic mitral insufficiency
+ICD10CM,I05.2,Rheumatic mitral stenosis with insufficiency
+ICD10CM,I05.8,Other rheumatic mitral valve diseases
+ICD10CM,I05.9,"Rheumatic mitral valve disease, unspecified"
+ICD10CM,I06.0,Rheumatic aortic stenosis
+ICD10CM,I06.1,Rheumatic aortic insufficiency
+ICD10CM,I06.2,Rheumatic aortic stenosis with insufficiency
+ICD10CM,I06.8,Other rheumatic aortic valve diseases
+ICD10CM,I06.9,"Rheumatic aortic valve disease, unspecified"
+ICD10CM,I07.0,Rheumatic tricuspid stenosis
+ICD10CM,I07.1,Rheumatic tricuspid insufficiency
+ICD10CM,I07.2,Rheumatic tricuspid stenosis and insufficiency
+ICD10CM,I07.8,Other rheumatic tricuspid valve diseases
+ICD10CM,I07.9,"Rheumatic tricuspid valve disease, unspecified"
+ICD10CM,I08.0,Rheumatic disorders of both mitral and aortic valves
+ICD10CM,I08.1,Rheumatic disorders of both mitral and tricuspid valves
+ICD10CM,I08.2,Rheumatic disorders of both aortic and tricuspid valves
+ICD10CM,I08.3,"Combined rheumatic disorders of mitral, aortic and tricuspid valves"
+ICD10CM,I08.8,Other rheumatic multiple valve diseases
+ICD10CM,I08.9,"Rheumatic multiple valve disease, unspecified"
+ICD10CM,I09.0,Rheumatic myocarditis
+ICD10CM,I09.1,"Rheumatic diseases of endocardium, valve unspecified"
+ICD10CM,I09.2,Chronic rheumatic pericarditis
+ICD10CM,I09.8,Other specified rheumatic heart diseases
+ICD10CM,I09.81,Rheumatic heart failure
+ICD10CM,I09.89,Other specified rheumatic heart diseases
+ICD10CM,I09.9,"Rheumatic heart disease, unspecified"
+ICD10CM,I11.0,Hypertensive heart disease with heart failure
+ICD10CM,I11.9,Hypertensive heart disease without heart failure
+ICD10CM,I12.0,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease
+ICD10CM,I12.9,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+ICD10CM,I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+ICD10CM,I13.1,Hypertensive heart and chronic kidney disease without heart failure
+ICD10CM,I13.10,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease"
+ICD10CM,I13.11,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease"
+ICD10CM,I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease"
+ICD10CM,I15.0,Renovascular hypertension
+ICD10CM,I15.1,Hypertension secondary to other renal disorders
+ICD10CM,I15.2,Hypertension secondary to endocrine disorders
+ICD10CM,I15.8,Other secondary hypertension
+ICD10CM,I15.9,"Secondary hypertension, unspecified"
+ICD10CM,I16.0,Hypertensive urgency
+ICD10CM,I16.1,Hypertensive emergency
+ICD10CM,I16.9,"Hypertensive crisis, unspecified"
+ICD10CM,I20.0,Unstable angina
+ICD10CM,I20.1,Angina pectoris with documented spasm
+ICD10CM,I20.8,Other forms of angina pectoris
+ICD10CM,I20.9,"Angina pectoris, unspecified"
+ICD10CM,I25.1,Atherosclerotic heart disease of native coronary artery
+ICD10CM,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris
+ICD10CM,I25.11,Atherosclerotic heart disease of native coronary artery with angina pectoris
+ICD10CM,I25.110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris
+ICD10CM,I25.111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm
+ICD10CM,I25.118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris
+ICD10CM,I25.119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris
+ICD10CM,I25.2,Old myocardial infarction
+ICD10CM,I25.3,Aneurysm of heart
+ICD10CM,I25.4,Coronary artery aneurysm and dissection
+ICD10CM,I25.41,Coronary artery aneurysm
+ICD10CM,I25.42,Coronary artery dissection
+ICD10CM,I25.5,Ischemic cardiomyopathy
+ICD10CM,I25.6,Silent myocardial ischemia
+ICD10CM,I25.7,Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris
+ICD10CM,I25.70,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris"
+ICD10CM,I25.700,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris"
+ICD10CM,I25.701,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm"
+ICD10CM,I25.708,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris"
+ICD10CM,I25.709,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris"
+ICD10CM,I25.71,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.710,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.711,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.718,Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.719,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.72,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.720,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.721,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.728,Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.729,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.73,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.730,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.731,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.738,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.739,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.75,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris
+ICD10CM,I25.750,Atherosclerosis of native coronary artery of transplanted heart with unstable angina
+ICD10CM,I25.751,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm
+ICD10CM,I25.758,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris
+ICD10CM,I25.759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris
+ICD10CM,I25.76,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris
+ICD10CM,I25.760,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina
+ICD10CM,I25.761,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm
+ICD10CM,I25.768,Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris
+ICD10CM,I25.769,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris
+ICD10CM,I25.79,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris
+ICD10CM,I25.790,Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris
+ICD10CM,I25.791,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm
+ICD10CM,I25.798,Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris
+ICD10CM,I25.799,Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris
+ICD10CM,I25.8,Other forms of chronic ischemic heart disease
+ICD10CM,I25.81,Atherosclerosis of other coronary vessels without angina pectoris
+ICD10CM,I25.810,Atherosclerosis of coronary artery bypass graft(s) without angina pectoris
+ICD10CM,I25.811,Atherosclerosis of native coronary artery of transplanted heart without angina pectoris
+ICD10CM,I25.812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris
+ICD10CM,I25.82,Chronic total occlusion of coronary artery
+ICD10CM,I25.83,Coronary atherosclerosis due to lipid rich plaque
+ICD10CM,I25.84,Coronary atherosclerosis due to calcified coronary lesion
+ICD10CM,I25.89,Other forms of chronic ischemic heart disease
+ICD10CM,I25.9,"Chronic ischemic heart disease, unspecified"
+ICD10CM,I27.81,Cor pulmonale (chronic)
+ICD10CM,I27.82,Chronic pulmonary embolism
+ICD10CM,I27.83,Eisenmenger's syndrome
+ICD10CM,I27.89,Other specified pulmonary heart diseases
+ICD10CM,I30.0,Acute nonspecific idiopathic pericarditis
+ICD10CM,I30.1,Infective pericarditis
+ICD10CM,I30.8,Other forms of acute pericarditis
+ICD10CM,I30.9,"Acute pericarditis, unspecified"
+ICD10CM,I31.0,Chronic adhesive pericarditis
+ICD10CM,I31.1,Chronic constrictive pericarditis
+ICD10CM,I31.2,"Hemopericardium, not elsewhere classified"
+ICD10CM,I31.3,Pericardial effusion (noninflammatory)
+ICD10CM,I31.4,Cardiac tamponade
+ICD10CM,I31.8,Other specified diseases of pericardium
+ICD10CM,I31.9,"Disease of pericardium, unspecified"
+ICD10CM,I33.0,Acute and subacute infective endocarditis
+ICD10CM,I33.9,"Acute and subacute endocarditis, unspecified"
+ICD10CM,I34.0,Nonrheumatic mitral (valve) insufficiency
+ICD10CM,I34.1,Nonrheumatic mitral (valve) prolapse
+ICD10CM,I34.2,Nonrheumatic mitral (valve) stenosis
+ICD10CM,I34.8,Other nonrheumatic mitral valve disorders
+ICD10CM,I34.9,"Nonrheumatic mitral valve disorder, unspecified"
+ICD10CM,I35.0,Nonrheumatic aortic (valve) stenosis
+ICD10CM,I35.1,Nonrheumatic aortic (valve) insufficiency
+ICD10CM,I35.2,Nonrheumatic aortic (valve) stenosis with insufficiency
+ICD10CM,I35.8,Other nonrheumatic aortic valve disorders
+ICD10CM,I35.9,"Nonrheumatic aortic valve disorder, unspecified"
+ICD10CM,I36.0,Nonrheumatic tricuspid (valve) stenosis
+ICD10CM,I36.1,Nonrheumatic tricuspid (valve) insufficiency
+ICD10CM,I36.2,Nonrheumatic tricuspid (valve) stenosis with insufficiency
+ICD10CM,I36.8,Other nonrheumatic tricuspid valve disorders
+ICD10CM,I36.9,"Nonrheumatic tricuspid valve disorder, unspecified"
+ICD10CM,I37.0,Nonrheumatic pulmonary valve stenosis
+ICD10CM,I37.1,Nonrheumatic pulmonary valve insufficiency
+ICD10CM,I37.2,Nonrheumatic pulmonary valve stenosis with insufficiency
+ICD10CM,I37.8,Other nonrheumatic pulmonary valve disorders
+ICD10CM,I37.9,"Nonrheumatic pulmonary valve disorder, unspecified"
+ICD10CM,I40.0,Infective myocarditis
+ICD10CM,I40.1,Isolated myocarditis
+ICD10CM,I40.8,Other acute myocarditis
+ICD10CM,I40.9,"Acute myocarditis, unspecified"
+ICD10CM,I44.0,"Atrioventricular block, first degree"
+ICD10CM,I44.1,"Atrioventricular block, second degree"
+ICD10CM,I44.2,"Atrioventricular block, complete"
+ICD10CM,I44.3,Other and unspecified atrioventricular block
+ICD10CM,I44.30,Unspecified atrioventricular block
+ICD10CM,I44.39,Other atrioventricular block
+ICD10CM,I44.4,Left anterior fascicular block
+ICD10CM,I44.5,Left posterior fascicular block
+ICD10CM,I44.6,Other and unspecified fascicular block
+ICD10CM,I44.60,Unspecified fascicular block
+ICD10CM,I44.69,Other fascicular block
+ICD10CM,I44.7,"Left bundle-branch block, unspecified"
+ICD10CM,I45.0,Right fascicular block
+ICD10CM,I45.1,Other and unspecified right bundle-branch block
+ICD10CM,I45.10,Unspecified right bundle-branch block
+ICD10CM,I45.19,Other right bundle-branch block
+ICD10CM,I45.2,Bifascicular block
+ICD10CM,I45.3,Trifascicular block
+ICD10CM,I45.4,Nonspecific intraventricular block
+ICD10CM,I45.5,Other specified heart block
+ICD10CM,I45.6,Pre-excitation syndrome
+ICD10CM,I45.8,Other specified conduction disorders
+ICD10CM,I45.81,Long QT syndrome
+ICD10CM,I45.89,Other specified conduction disorders
+ICD10CM,I45.9,"Conduction disorder, unspecified"
+ICD10CM,I46.2,Cardiac arrest due to underlying cardiac condition
+ICD10CM,I46.8,Cardiac arrest due to other underlying condition
+ICD10CM,I46.9,"Cardiac arrest, cause unspecified"
+ICD10CM,I47.0,Re-entry ventricular arrhythmia
+ICD10CM,I47.1,Supraventricular tachycardia
+ICD10CM,I47.2,Ventricular tachycardia
+ICD10CM,I47.9,"Paroxysmal tachycardia, unspecified"
+ICD10CM,I48.0,Paroxysmal atrial fibrillation
+ICD10CM,I48.1,Persistent atrial fibrillation
+ICD10CM,I48.11,Longstanding persistent atrial fibrillation
+ICD10CM,I48.19,Other persistent atrial fibrillation
+ICD10CM,I48.2,Chronic atrial fibrillation
+ICD10CM,I48.20,"Chronic atrial fibrillation, unspecified"
+ICD10CM,I48.21,Permanent atrial fibrillation
+ICD10CM,I48.3,Typical atrial flutter
+ICD10CM,I48.4,Atypical atrial flutter
+ICD10CM,I48.9,Unspecified atrial fibrillation and atrial flutter
+ICD10CM,I48.91,Unspecified atrial fibrillation
+ICD10CM,I48.92,Unspecified atrial flutter
+ICD10CM,I49.0,Ventricular fibrillation and flutter
+ICD10CM,I49.01,Ventricular fibrillation
+ICD10CM,I49.02,Ventricular flutter
+ICD10CM,I49.1,Atrial premature depolarization
+ICD10CM,I49.2,Junctional premature depolarization
+ICD10CM,I49.3,Ventricular premature depolarization
+ICD10CM,I49.4,Other and unspecified premature depolarization
+ICD10CM,I49.40,Unspecified premature depolarization
+ICD10CM,I49.49,Other premature depolarization
+ICD10CM,I49.5,Sick sinus syndrome
+ICD10CM,I49.8,Other specified cardiac arrhythmias
+ICD10CM,I49.9,"Cardiac arrhythmia, unspecified"
+ICD10CM,O99.411,"Diseases of the circulatory system complicating pregnancy, first trimester"
+ICD10CM,O99.412,"Diseases of the circulatory system complicating pregnancy, second trimester"
+ICD10CM,O99.413,"Diseases of the circulatory system complicating pregnancy, third trimester"
+ICD10CM,O99.419,"Diseases of the circulatory system complicating pregnancy, unspecified trimester"
+ICD10CM,Q20.0,Common arterial trunk
+ICD10CM,Q20.1,Double outlet right ventricle
+ICD10CM,Q20.2,Double outlet left ventricle
+ICD10CM,Q20.3,Discordant ventriculoarterial connection
+ICD10CM,Q20.4,Double inlet ventricle
+ICD10CM,Q20.5,Discordant atrioventricular connection
+ICD10CM,Q20.6,Isomerism of atrial appendages
+ICD10CM,Q20.8,Other congenital malformations of cardiac chambers and connections
+ICD10CM,Q20.9,"Congenital malformation of cardiac chambers and connections, unspecified"
+ICD10CM,Q21.0,Ventricular septal defect
+ICD10CM,Q21.1,Atrial septal defect
+ICD10CM,Q21.2,Atrioventricular septal defect
+ICD10CM,Q21.3,Tetralogy of Fallot
+ICD10CM,Q21.4,Aortopulmonary septal defect
+ICD10CM,Q21.8,Other congenital malformations of cardiac septa
+ICD10CM,Q21.9,"Congenital malformation of cardiac septum, unspecified"
+ICD10CM,Q22.0,Pulmonary valve atresia
+ICD10CM,Q22.1,Congenital pulmonary valve stenosis
+ICD10CM,Q22.2,Congenital pulmonary valve insufficiency
+ICD10CM,Q22.3,Other congenital malformations of pulmonary valve
+ICD10CM,Q22.4,Congenital tricuspid stenosis
+ICD10CM,Q22.5,Ebstein's anomaly
+ICD10CM,Q22.6,Hypoplastic right heart syndrome
+ICD10CM,Q22.8,Other congenital malformations of tricuspid valve
+ICD10CM,Q22.9,"Congenital malformation of tricuspid valve, unspecified"
+ICD10CM,Q23.0,Congenital stenosis of aortic valve
+ICD10CM,Q23.1,Congenital insufficiency of aortic valve
+ICD10CM,Q23.2,Congenital mitral stenosis
+ICD10CM,Q23.3,Congenital mitral insufficiency
+ICD10CM,Q23.4,Hypoplastic left heart syndrome
+ICD10CM,Q23.8,Other congenital malformations of aortic and mitral valves
+ICD10CM,Q23.9,"Congenital malformation of aortic and mitral valves, unspecified"
+ICD10CM,Q24.0,Dextrocardia
+ICD10CM,Q24.1,Levocardia
+ICD10CM,Q24.2,Cor triatriatum
+ICD10CM,Q24.3,Pulmonary infundibular stenosis
+ICD10CM,Q24.4,Congenital subaortic stenosis
+ICD10CM,Q24.5,Malformation of coronary vessels
+ICD10CM,Q24.6,Congenital heart block
+ICD10CM,Q24.8,Other specified congenital malformations of heart
+ICD10CM,Q24.9,"Congenital malformation of heart, unspecified"
+SNOMED CT,3238004,Pericarditis
+SNOMED CT,10335000,Chronic right-sided heart failure
+SNOMED CT,12026006,Paroxysmal tachycardia
+SNOMED CT,13213009,Congenital heart disease
+SNOMED CT,15555002,Acute pericarditis
+SNOMED CT,23685000,Rheumatic heart disease
+SNOMED CT,31992008,Secondary hypertension
+SNOMED CT,83291003,Right heart failure due to pulmonary hypertension
+SNOMED CT,83898004,Rheumatic disease of mitral valve
+SNOMED CT,88805009,Chronic congestive heart failure
+SNOMED CT,89736004,Valvular endocarditis
+SNOMED CT,8501000119104,Hypertensive heart and chronic kidney disease
+SNOMED CT,104931000119100,Chronic kidney disease due to hypertension
+SNOMED CT,153941000119100,Chronic combined systolic and diastolic heart failure
+SNOMED CT,153951000119103,Acute on chronic combined systolic and diastolic heart failure
+SNOMED CT,16838951000119100,Acute on chronic right-sided congestive heart failure
+SNOMED CT,698247007,Cardiac arrhythmia
+SNOMED CT,706882009,Hypertensive crisis
+SNOMED CT,708121009,Non-rheumatic mitral valve disease
+SNOMED CT,724497009,Disease of circulatory system complicating pregnancy childbirth and puerperium
+SNOMED CT,194828000,Angina pectoris
+SNOMED CT,194921005,Acute and subacute endocarditis
+SNOMED CT,194989009,"Tricuspid valve disorder, non-rheumatic"
+SNOMED CT,195002007,Multiple valve disease
+SNOMED CT,195012000,Endocarditis associated with another disorder
+SNOMED CT,195080001,Atrial fibrillation and flutter
+SNOMED CT,233916004,Heart block
+SNOMED CT,42343007,Congestive heart failure
+SNOMED CT,44808001,Conduction disorder of the heart
+SNOMED CT,46701001,Acute myocarditis
+SNOMED CT,49699002,Rheumatic disease of tricuspid valve
+SNOMED CT,50920009,Myocarditis
+SNOMED CT,55855009,Disorder of pericardium
+SNOMED CT,59494005,Congenital septal defect of heart
+SNOMED CT,64715009,Hypertensive heart disease
+SNOMED CT,70320004,Congenital anomaly of heart valve
+SNOMED CT,410429000,Cardiac arrest
+SNOMED CT,413838009,Chronic ischemic heart disease
+SNOMED CT,441481004,Chronic systolic heart failure
+SNOMED CT,441530006,Chronic diastolic heart failure
+SNOMED CT,443253003,Acute on chronic systolic heart failure
+SNOMED CT,443344007,Acute on chronic diastolic heart failure
+SNOMED CT,274097009,Non-rheumatic heart valve disorder
+SNOMED CT,1179295004,BVES-related limb girdle muscular dystrophy
+SNOMED CT,1163420005,Postmyocardial infarction pericardial effusion
+SNOMED CT,1204124006,Cardiac arrhythmia due to coronary artery spasm
+SNOMED CT,1204167003,Catecholaminergic polymorphic ventricular tachycardia due to calsequestrin mutation
+SNOMED CT,1204129001,Catecholaminergic polymorphic ventricular tachycardia due to RYR2 mutation
+SNOMED CT,1204130006,Central basal perimembranous ventricular septal defect
+SNOMED CT,1204122005,Effusive constrictive pericarditis
+SNOMED CT,1197418004,"Familial atrial tachyarrhythmia, infra-Hisian cardiac conduction disease"
+SNOMED CT,1230303001,Fatal congenital hypertrophic cardiomyopathy due to glycogen storage disease
+SNOMED CT,1229876001,Lethal brain and heart developmental defects syndrome
+SNOMED CT,1208884000,Long QT syndrome type 10
+SNOMED CT,1230344000,"Microphthalmia, microtia, fetal akinesia syndrome"
+SNOMED CT,1222710008,"Neurodevelopmental disorder, craniofacial dysmorphism, cardiac defect, skeletal anomalies syndrome"
+SNOMED CT,1230406008,Postoperative cardiac arrhythmia
+SNOMED CT,1230405007,Postoperative pericardial effusion
+SNOMED CT,1208845005,Secondary hypertension due to congenital heart disorder
+SNOMED CT,1208839002,Secondary hypertension due to renal tubular disorder
+SNOMED CT,1222708006,"TMEM94-associated congenital heart defect, facial dysmorphism, developmental delay syndrome"
+SNOMED CT,1208998007,"TRAF7-associated heart defect, digital anomalies, facial dysmorphism, motor and speech delay syndrome"
+SNOMED CT,1230097004,Atypical Timothy syndrome
+SNOMED CT,1162915007,Congenital accessory tissue of tricuspid valve
+SNOMED CT,1208881008,Long QT syndrome type 11
+SNOMED CT,1208868001,Long QT syndrome type 12
+SNOMED CT,1208870005,Long QT syndrome type 13
+SNOMED CT,1208866002,Long QT syndrome type 3
+SNOMED CT,1208861007,Long QT syndrome type 4
+SNOMED CT,1208911002,Long QT syndrome type 9
+SNOMED CT,1208864004,Long QT syndrome type 2
+SNOMED CT,1208863005,Long QT syndrome type 5
+SNOMED CT,1208909006,Long QT syndrome type 6
+SNOMED CT,1186711002,"GNB5-related intellectual disability, cardiac arrhythmia syndrome"
+SNOMED CT,1172567004,Postoperative chylopericardium
+SNOMED CT,1172698005,"Recurrent metabolic encephalomyopathic crises, rhabdomyolysis, cardiac arrhythmia, intellectual disability syndrome"
+SNOMED CT,1187212004,"Severe hypotonia, psychomotor developmental delay, strabismus, cardiac septal defect syndrome"
+SNOMED CT,1163259003,Non syndromic dextrocardia
+SNOMED CT,1187113001,Mucopolysaccharidosis-like plus disease
+SNOMED CT,1186709006,FLNA-related X-linked myxomatous valvular dysplasia
+SNOMED CT,1204460007,Myocardial dysfunction with sepsis
+SNOMED CT,1208897003,Myocarditis due to idiopathic hypereosinophilic syndrome
+SNOMED CT,1230096008,Timothy syndrome
+SNOMED CT,488007,Fibroid myocarditis
+SNOMED CT,682004,Thrombosis complicating pregnancy AND/OR puerperium
+SNOMED CT,756003,Chronic rheumatic myopericarditis
+SNOMED CT,787001,Rheumatic mitral stenosis with regurgitation
+SNOMED CT,1131009,Congenital valvular insufficiency
+SNOMED CT,1474004,Hypertensive heart AND renal disease complicating AND/OR reason for care during childbirth
+SNOMED CT,2261009,Obstetrical pulmonary fat embolism
+SNOMED CT,2374000,Monofascicular block
+SNOMED CT,2554006,Acute purulent pericarditis
+SNOMED CT,2583009,Chiari's network
+SNOMED CT,3589003,Syphilitic pericarditis
+SNOMED CT,184004,Withdrawal arrhythmia
+SNOMED CT,279001,Senile myocarditis
+SNOMED CT,4006006,Fetal tachycardia affecting management of mother
+SNOMED CT,4082005,Syphilitic myocarditis
+SNOMED CT,4313003,Acardiacus anceps
+SNOMED CT,4374004,Congenital anomaly of tricuspid valve
+SNOMED CT,4554005,Intraventricular conduction defect
+SNOMED CT,4557003,Preinfarction syndrome
+SNOMED CT,4973001,Left bundle branch hemiblock
+SNOMED CT,5148006,Hypertensive heart disease with congestive heart failure
+SNOMED CT,5230009,Congenital absence of coronary artery
+SNOMED CT,5370000,Atrial flutter
+SNOMED CT,5375005,Chronic left-sided congestive heart failure
+SNOMED CT,5609005,Sinus arrest
+SNOMED CT,5836005,Subacute effusive constrictive pericarditis
+SNOMED CT,6180003,Complete left bundle branch block
+SNOMED CT,6285003,Tachyarrhythmia
+SNOMED CT,6374002,Bundle branch block
+SNOMED CT,6456007,Supraventricular tachycardia
+SNOMED CT,6594005,Cerebrovascular disorder in the puerperium
+SNOMED CT,6624005,Ventricular tachyarrhythmia
+SNOMED CT,6636004,"Congenital cardiovascular disorder in mother complicating pregnancy, childbirth AND/OR puerperium"
+SNOMED CT,6996004,Congenital absence of pulmonary valve
+SNOMED CT,7368005,Double outlet left ventricle
+SNOMED CT,7484005,Double outlet right ventricle
+SNOMED CT,7607008,Rheumatoid pericarditis
+SNOMED CT,8218002,Chronic hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,8239009,Primary endocardial fibroelastosis
+SNOMED CT,8676001,Myocarditis due to hypersensitivity state
+SNOMED CT,8712002,Congenital subaortic stenosis due to fibromuscular shelf
+SNOMED CT,8762007,Chronic hypertension in obstetric context
+SNOMED CT,9901000,Essential hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,10058006,Miscarriage with amniotic fluid embolism
+SNOMED CT,10164001,Parasystole
+SNOMED CT,10562009,Malignant hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,10633002,Acute congestive heart failure
+SNOMED CT,10818008,Congenital malposition of heart
+SNOMED CT,11157007,Ventricular bigeminy
+SNOMED CT,11176009,Acute myopericarditis
+SNOMED CT,11433004,Congenital coronary artery fistula
+SNOMED CT,11454006,Failed attempted termination of pregnancy with amniotic fluid embolism
+SNOMED CT,11849007,AV junctional rhythm
+SNOMED CT,12023003,Rheumatic disease of aortic valve
+SNOMED CT,12095001,Legal termination of pregnancy with cardiac arrest and/or failure
+SNOMED CT,12770006,Cyanotic congenital heart disease
+SNOMED CT,13395001,Sinoatrial arrest with nodal/ventricular escape
+SNOMED CT,13453009,Anomalous muscle bands of left ventricle
+SNOMED CT,13640000,Fusion beats
+SNOMED CT,13689005,Congenital anomaly of aortic valve
+SNOMED CT,14455008,Subacute constrictive pericarditis
+SNOMED CT,14718009,"Right bundle branch block, posterior fascicular block AND incomplete left bundle branch block"
+SNOMED CT,14886009,Abdominal heart
+SNOMED CT,14973001,Renal sclerosis with hypertension
+SNOMED CT,15016005,Pyogenic pericarditis
+SNOMED CT,15096009,Congenital insufficiency of pulmonary valve
+SNOMED CT,15394000,Toxemia of pregnancy
+SNOMED CT,15459006,Endocardial cushion defect
+SNOMED CT,15676002,Acute rheumatic pericarditis
+SNOMED CT,16063004,Rheumatic disease of heart valve
+SNOMED CT,16253001,Dilated peripartum cardiomyopathy
+SNOMED CT,16440002,Rheumatic disease of mitral AND aortic valves
+SNOMED CT,16567006,Mesocardia
+SNOMED CT,16574001,Cardiac arrest after obstetrical surgery AND/OR other procedure including delivery
+SNOMED CT,16797001,Accelerated atrioventricular conduction
+SNOMED CT,16855001,Rheumatic tricuspid valve failure
+SNOMED CT,16876006,Pericarditis secondary to primary tumor
+SNOMED CT,17079009,Acute bacterial pericarditis
+SNOMED CT,17263003,Amniotic fluid embolism
+SNOMED CT,17338001,Ventricular premature beats
+SNOMED CT,17366009,Atrial arrhythmia
+SNOMED CT,17668000,Acute pleuropericarditis
+SNOMED CT,17718000,Ostium primum defect
+SNOMED CT,17759006,Rheumatic aortic stenosis with regurgitation
+SNOMED CT,17869006,Anomalous atrioventricular excitation
+SNOMED CT,18192007,Acute rheumatic endocarditis
+SNOMED CT,18416000,Essential hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,18484008,Subacute interstitial myocarditis
+SNOMED CT,18546004,Congenital stenosis of aortic valve
+SNOMED CT,18687009,Rheumatic disease of pulmonary valve
+SNOMED CT,19036004,Rheumatic heart valve stenosis
+SNOMED CT,19057007,Status anginosus
+SNOMED CT,19249002,Premature closure of foramen ovale
+SNOMED CT,20005002,Recurrent rheumatic heart disease
+SNOMED CT,20143001,Bilateral bundle branch block
+SNOMED CT,20753005,Hypertensive heart disease complicating AND/OR reason for care during pregnancy
+SNOMED CT,20852007,Romano-Ward syndrome
+SNOMED CT,20956009,Phlebitis complicating pregnancy AND/OR puerperium
+SNOMED CT,21290002,Pericarditis secondary to penetrating trauma
+SNOMED CT,21470009,Syncope anginosa
+SNOMED CT,21604008,Illegal termination of pregnancy with blood-clot embolism
+SNOMED CT,21981000,Single coronary artery
+SNOMED CT,22167000,Pyopericardium
+SNOMED CT,22653005,Myocarditis due to infectious agent
+SNOMED CT,22966008,Hypertensive heart AND renal disease complicating AND/OR reason for care during pregnancy
+SNOMED CT,23063005,Congenital atresia of mitral valve
+SNOMED CT,23412002,Hemopericardium
+SNOMED CT,23627006,Chronic pericarditis
+SNOMED CT,23717007,Benign essential hypertension complicating AND/OR reason for care during pregnancy
+SNOMED CT,23786008,Malignant hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,23842007,Drug-induced pericarditis
+SNOMED CT,24042004,Chronic hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,25380002,Pericarditis secondary to systemic lupus erythematosus
+SNOMED CT,25503004,Pneumopyopericardium
+SNOMED CT,26078007,Hypertension secondary to renal disease complicating AND/OR reason for care during childbirth
+SNOMED CT,26117009,Diphtheritic myocarditis
+SNOMED CT,26201005,Aortic left ventricular tunnel
+SNOMED CT,26743002,Illegal termination of pregnancy complicated by embolism
+SNOMED CT,26850007,Phlebitis AND/OR thrombosis complicating pregnancy AND/OR puerperium
+SNOMED CT,26950008,Chronic ectopic atrial tachycardia
+SNOMED CT,27015006,Legal termination of pregnancy with amniotic fluid embolism
+SNOMED CT,27017003,Chronic effusive pericarditis
+SNOMED CT,27637000,Dextrocardia
+SNOMED CT,27806003,Coxsackie pericarditis
+SNOMED CT,27885002,Complete atrioventricular block
+SNOMED CT,28119000,Renal hypertension
+SNOMED CT,28284007,Rheumatic heart valve stenosis with insufficiency
+SNOMED CT,28381002,Rheumatic pericarditis
+SNOMED CT,28386007,Pericarditis secondary to neoplasia
+SNOMED CT,28574005,Congenital anomaly of coronary artery
+SNOMED CT,28608002,Choriovitelline placenta
+SNOMED CT,28656008,Congenital insufficiency of aortic valve
+SNOMED CT,28773001,Thrombosis of vessels of cord
+SNOMED CT,28880005,Rheumatoid carditis
+SNOMED CT,28966002,Parasitic pericarditis
+SNOMED CT,29259002,Malignant hypertension complicating AND/OR reason for care during pregnancy
+SNOMED CT,29320008,Ectopic rhythm
+SNOMED CT,29375001,Abnormal number of cusps
+SNOMED CT,29717002,Premature beats
+SNOMED CT,29894000,Vagal autonomic bradycardia
+SNOMED CT,29928006,Congenital insufficiency of mitral valve
+SNOMED CT,29934004,Anomalous pulmonary venous drainage to coronary sinus
+SNOMED CT,29950007,Legal termination of pregnancy with septic embolism
+SNOMED CT,29995000,Illegal termination of pregnancy with fat embolism
+SNOMED CT,30328003,Acute myoendocarditis
+SNOMED CT,31085000,Rheumatic mitral regurgitation
+SNOMED CT,31407004,Pre-existing hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,31481000,Vascular anomaly of umbilical cord
+SNOMED CT,31881008,Cardiovascular renal disease
+SNOMED CT,31993003,Toxic myocarditis
+SNOMED CT,32425009,"Right bundle branch block, anterior fascicular block AND posterior fascicular block"
+SNOMED CT,32758004,Right bundle branch block with left bundle branch block
+SNOMED CT,33413000,Ectopic beats
+SNOMED CT,33558009,Post-radiation pericarditis
+SNOMED CT,34126003,Rheumatic pulmonary valve insufficiency
+SNOMED CT,34273003,Hypertensive heart disease complicating AND/OR reason for care during puerperium
+SNOMED CT,81376009,Non-infectious pericarditis
+SNOMED CT,81552002,Rheumatic mitral valve insufficiency and aortic valve stenosis
+SNOMED CT,81580000,Acute mediastinopericarditis
+SNOMED CT,81626002,Malignant hypertension in obstetric context
+SNOMED CT,81681009,Junctional premature beats
+SNOMED CT,81898007,Ventricular escape rhythm
+SNOMED CT,81990004,Cor biloculare
+SNOMED CT,82153002,Miscarriage with pulmonary embolism
+SNOMED CT,82226007,Diffuse intraventricular block
+SNOMED CT,82458004,Congenital stenosis of mitral valve
+SNOMED CT,82523003,Congestive rheumatic heart failure
+SNOMED CT,82542004,Pneumopericardium
+SNOMED CT,82838007,Irregular tachycardia
+SNOMED CT,83105008,Malignant hypertensive heart disease with congestive heart failure
+SNOMED CT,83119008,Congenital insufficiency of tricuspid valve
+SNOMED CT,83799000,Corrected transposition of great vessels
+SNOMED CT,83916000,Thrombophlebitis in puerperium
+SNOMED CT,84216001,Cerebral venous thrombosis of pregnancy AND/OR puerperium
+SNOMED CT,84648007,Acardius
+SNOMED CT,84871007,Acute rheumatic valvulitis
+SNOMED CT,84939004,"Rubella in mother complicating pregnancy, childbirth AND/OR puerperium"
+SNOMED CT,85081000,Common arterial trunk and widely separate origin of pulmonary arteries
+SNOMED CT,85284003,"Angina, class III"
+SNOMED CT,85598007,Constrictive pericarditis
+SNOMED CT,85971001,Rheumatic pulmonary valve stenosis with insufficiency
+SNOMED CT,86014007,Trifascicular block
+SNOMED CT,86041002,Pre-existing hypertension in obstetric context
+SNOMED CT,86152005,Cardiac arrest during AND/OR resulting from a procedure
+SNOMED CT,86234004,Hypertensive heart AND renal disease
+SNOMED CT,86466006,Rheumatic mitral stenosis
+SNOMED CT,86504008,Subacute pericarditis
+SNOMED CT,87343002,Prinzmetal angina
+SNOMED CT,87648004,Chronic rheumatic heart disease
+SNOMED CT,88318005,Rheumatic tricuspid valve stenosis
+SNOMED CT,88412007,AV node arrhythmia
+SNOMED CT,88445007,Anomalous muscle bands of right ventricle
+SNOMED CT,88782004,Myocarditis due to radiation
+SNOMED CT,88887003,Maternal hypotension syndrome
+SNOMED CT,89141000,Viral myocarditis
+SNOMED CT,89222008,Pericarditis associated with atrial septal defect
+SNOMED CT,89242004,Malignant secondary hypertension
+SNOMED CT,89323001,"Angina, class IV"
+SNOMED CT,89456004,Chronic rheumatic valvulitis
+SNOMED CT,90428001,Gonococcal pericarditis
+SNOMED CT,90453003,Chronic rheumatic mediastinopericarditis
+SNOMED CT,91025000,Idiopathic myocarditis
+SNOMED CT,91442002,Rheumatic pulmonary valve stenosis
+SNOMED CT,91468009,Meningococcal myocarditis
+SNOMED CT,91529004,Rheumatic heart valve failure
+SNOMED CT,91634006,Fused commissures of mitral valve
+SNOMED CT,91841003,Abnormal communication between pericardial sac and peritoneal cavity
+SNOMED CT,92087008,Benign neoplasm of epicardium
+SNOMED CT,92289001,Benign neoplasm of pericardium
+SNOMED CT,92506005,Biventricular congestive heart failure
+SNOMED CT,92830003,Combined valvular-subvalvular pulmonic stenosis
+SNOMED CT,92888002,Congenital abnormal shape of aortic valve
+SNOMED CT,92923008,Congenital abnormal shape of mitral valve
+SNOMED CT,92941000,Congenital abnormal shape of pulmonary valve
+SNOMED CT,92944008,Congenital abnormal shape of tricuspid valve
+SNOMED CT,92960007,Congenital absence of aortic valve
+SNOMED CT,92963009,Congenital absence of chordae tendineae
+SNOMED CT,92969008,Congenital absence of mitral valve
+SNOMED CT,92974000,Congenital absence of papillary muscle
+SNOMED CT,92976003,Congenital absence of tricuspid valve
+SNOMED CT,93018000,Congenital anomaly of pericardium
+SNOMED CT,93051009,Congenital dilatation of atrium
+SNOMED CT,93053007,Congenital dilatation of cardiac ventricle
+SNOMED CT,93069000,Congenital hypertrophy of aortic valve
+SNOMED CT,93075009,Congenital hypertrophy of pulmonary valve
+SNOMED CT,93076005,Congenital hypertrophy of tricuspid valve
+SNOMED CT,93078006,Congenital hypertrophy of cardiac ventricle
+SNOMED CT,93234006,Congenital hypertrophy of mitral valve
+SNOMED CT,93237004,Congenital hypoplasia of aortic valve
+SNOMED CT,93247001,Congenital hypoplasia of cardiac ventricle
+SNOMED CT,93262004,Congenital hypoplasia of heart
+SNOMED CT,93271008,Congenital hypoplasia of mitral valve
+SNOMED CT,93287006,Congenital hypoplasia of pulmonary valve
+SNOMED CT,93782004,Primary malignant neoplasm of epicardium
+SNOMED CT,93957005,Primary malignant neoplasm of pericardium
+SNOMED CT,94150003,Membranous ventricular septum defect
+SNOMED CT,94282006,Metastatic malignant neoplasm to epicardium
+SNOMED CT,94484009,Metastatic malignant neoplasm to pericardium
+SNOMED CT,94702005,Multiple congenital cardiac defects
+SNOMED CT,94703000,Multiple intracardiac shunts
+SNOMED CT,94706008,Muscular ventricular septum defect
+SNOMED CT,94822000,Neoplasm of uncertain behavior of epicardium
+SNOMED CT,94997003,Neoplasm of uncertain behavior of pericardium
+SNOMED CT,109382005,Benign neoplasm of mesothelial tissue of pericardium
+SNOMED CT,109383000,Malignant mesothelioma of pericardium
+SNOMED CT,109425008,Single right ventricle
+SNOMED CT,109426009,Single left ventricle
+SNOMED CT,109427000,Supracristal ventricular septal defect
+SNOMED CT,109428005,Perimembranous ventricular septal defect
+SNOMED CT,109429002,Single muscular ventricular septum defect
+SNOMED CT,109430007,Multiple muscular ventricular septum defect
+SNOMED CT,109431006,Ebstein-like malformation of mitral valve
+SNOMED CT,109432004,Anomalous cardiac muscle bands
+SNOMED CT,111284004,Chronic inactive rheumatic heart disease
+SNOMED CT,111294009,Distended umbilical veins
+SNOMED CT,111300007,Obliterative pericarditis
+SNOMED CT,111301006,Pericarditis due to familial Mediterranean fever
+SNOMED CT,111319002,"Truncus arteriosus, Edwards' type IV"
+SNOMED CT,111432008,Legal termination of pregnancy with air embolism
+SNOMED CT,111438007,Hypertension secondary to renal disease in obstetric context
+SNOMED CT,111458008,Venous thrombosis in puerperium
+SNOMED CT,123599008,Serofibrinous pericarditis
+SNOMED CT,123656005,Congenital atresia of cardiac valve
+SNOMED CT,123657001,Congenital stenosis of cardiac valve
+SNOMED CT,123658006,Congenital cleft of cardiac valve
+SNOMED CT,123659003,Congenital malrotation of heart
+SNOMED CT,123660008,Dextrorotation of heart
+SNOMED CT,123799005,Renovascular hypertension
+SNOMED CT,123800009,Goldblatt hypertension
+SNOMED CT,126733004,Neoplasm of epicardium
+SNOMED CT,126734005,Neoplasm of pericardium
+SNOMED CT,126735006,Neoplasm of mesothelial tissue of pericardium
+SNOMED CT,128555001,Congenital coronary artery fistula to left atrium
+SNOMED CT,128556000,Congenital coronary artery fistula to left ventricle
+SNOMED CT,128557009,Congenital coronary artery fistula to right atrium
+SNOMED CT,128558004,Congenital coronary artery fistula to right ventricle
+SNOMED CT,128563000,Juxtaposed atrial appendage
+SNOMED CT,128567004,Congenital pulmonary venous atrium
+SNOMED CT,128568009,Congenital systemic venous atrium
+SNOMED CT,129575004,Cardiac pacemaker twiddler syndrome
+SNOMED CT,129582000,Congenital coronary artery fistula to pulmonary artery
+SNOMED CT,1141647009,Infective endocarditis of cardiac valve with vegetation
+SNOMED CT,1141882007,Congenital endocardial fibroelastosis
+SNOMED CT,1142040009,Right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142041008,Non-scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142057008,Anticlockwise cavotricuspid isthmus dependent macroreentry tachycardia
+SNOMED CT,1142064005,Antidromic atrioventricular reciprocating tachycardia utilizing atrio-ventricular accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142118003,Atypical atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142066007,Antidromic atrioventricular reciprocating tachycardia utilizing atrio-fascicular accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142067003,Non scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142068008,Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142069000,Scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142082008,Idiopathic junctional ectopic tachycardia
+SNOMED CT,1142086006,Congenital junctional ectopic tachycardia
+SNOMED CT,1142090008,Clockwise cavotricuspid isthmus dependent macroreentry tachycardia
+SNOMED CT,1142093005,Left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142098001,Postoperative junctional ectopic tachycardia
+SNOMED CT,1142103004,Antidromic atrioventricular reciprocating tachycardia utilizing nodo-fascicular accessory pathway with antegrade unidirectional conduction
+SNOMED CT,1142105006,Typical atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142110005,Sinus bradycardia caused by drug
+SNOMED CT,1142111009,Sinus bradycardia due to metabolic disease
+SNOMED CT,1142114001,Scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia
+SNOMED CT,1142117008,Atypical slow slow atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142119006,Atypical fast slow atrioventricular nodal re-entry tachycardia
+SNOMED CT,1142120000,Orthodromic atrioventricular reciprocating tachycardia utilizing manifest accessory pathway
+SNOMED CT,1142121001,Atrioventricular nodal reentry tachycardia with twin atrioventricular nodes
+SNOMED CT,1142122008,Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with bidirectional conduction
+SNOMED CT,1142123003,Atrial premature depolarization with aberrant ventricular conduction
+SNOMED CT,1142124009,Atrial premature depolarization with normal conduction
+SNOMED CT,1142204001,Orthodromic atrioventricular reciprocating tachycardia utilizing concealed accessory pathway
+SNOMED CT,1144435009,Varicose veins of perineum in pregnancy
+SNOMED CT,1144765000,Varicose veins of vulva in puerperium
+SNOMED CT,1144766004,Varicose veins of perineum in puerperium
+SNOMED CT,1144797000,Varicose veins of bilateral lower limbs in puerperium
+SNOMED CT,1144807000,Varicose veins of bilateral lower limbs in pregnancy
+SNOMED CT,1148583001,Phlebitis in pregnancy
+SNOMED CT,1148584007,Venous thrombosis in pregnancy
+SNOMED CT,1148587000,Phlegmasia alba dolens in pregnancy
+SNOMED CT,1148765006,Chronic rheumatic carditis
+SNOMED CT,1149066008,Chronic rheumatic pancarditis
+SNOMED CT,1149361009,Cardiac arrest due to procedure
+SNOMED CT,1149362002,Cardiac arrest during procedure
+SNOMED CT,1149472000,Thrombophlebitis of bilateral lower limbs in pregnancy
+SNOMED CT,1149473005,Thrombophlebitis of bilateral lower limbs in puerperium
+SNOMED CT,1155719000,Rheumatic mitral valve obstruction
+SNOMED CT,1155721005,Rheumatic aortic valve obstruction
+SNOMED CT,1156027008,Cerebral venous sinus thrombosis in pregnancy
+SNOMED CT,1156029006,Cerebral venous sinus thrombosis in puerperium
+SNOMED CT,1156031002,Varicose veins in pregnancy
+SNOMED CT,1156032009,Varicose veins in puerperium
+SNOMED CT,1156821008,Autosomal recessive sick sinus syndrome
+SNOMED CT,16415081000119104,Supraventricular tachycardia following acute myocardial infarction
+SNOMED CT,788290007,Hemangioma of skin in pregnancy
+SNOMED CT,788529004,Deposition of excess fat on visceral pericardium
+SNOMED CT,788533006,Congenital abnormality of atrium
+SNOMED CT,789039008,Scar mediated macro re-entrant atrial tachycardia
+SNOMED CT,789693005,Acquired Brugada syndrome
+SNOMED CT,827078006,Eisenmenger ventricular septal defect
+SNOMED CT,827163002,Early postmyocardial infarction pericarditis
+SNOMED CT,827164008,Delayed postmyocardial infarction pericarditis
+SNOMED CT,838316003,Subacute endocarditis of right side of heart due to infection
+SNOMED CT,838333005,Atresia of mitral valve with absent atrioventricular connection
+SNOMED CT,840469002,Deficient mural leaflet of left ventricular component of common atrioventricular valve
+SNOMED CT,840488009,Congenital regurgitation of truncal valve
+SNOMED CT,840495000,Common atrioventricular junction with spontaneous fibrous closure of atrioventricular septal defect
+SNOMED CT,840497008,"Atrioventricular septal defect, atrial and ventricular components with common atrioventricular valve with unbalanced commitment of valve to left ventricle"
+SNOMED CT,840507004,Double outlet right ventricle with subaortic ventricular septal defect without pulmonary stenosis
+SNOMED CT,840517009,"Atrioventricular septal defect, atrial and ventricular components with common atrioventricular valve with unbalanced commitment of valve to right ventricle"
+SNOMED CT,860676006,Amniotic fluid embolism due to and following molar pregnancy
+SNOMED CT,860677002,Amniotic fluid embolism due to and following ectopic pregnancy
+SNOMED CT,860678007,Blood clot embolism due to and following molar pregnancy
+SNOMED CT,860679004,Blood clot embolism due to and following ectopic pregnancy
+SNOMED CT,860680001,Pulmonary embolism due to and following ectopic pregnancy
+SNOMED CT,860681002,Pulmonary embolism due to and following molar pregnancy
+SNOMED CT,860682009,Septic embolism due to and following molar pregnancy
+SNOMED CT,860683004,Septic embolism due to and following ectopic pregnancy
+SNOMED CT,860686007,Fat embolism due to and following molar pregnancy
+SNOMED CT,860687003,Fat embolism due to and following ectopic pregnancy
+SNOMED CT,860688008,Air embolism due to and following molar pregnancy
+SNOMED CT,860689000,Air embolism due to and following ectopic pregnancy
+SNOMED CT,866118008,Left hand pattern ventricular topology
+SNOMED CT,870301007,Myocarditis due to childhood type dermatomyositis
+SNOMED CT,871579003,Perimembranous inlet ventricular septal defect with atrioventricular septal malalignment
+SNOMED CT,871581001,Inferior muscular trabecular ventricular septal defect
+SNOMED CT,871583003,Congenital anomaly of left-sided atrioventricular valve in double inlet ventricle
+SNOMED CT,871585005,Congenital anomaly of right-sided atrioventricular valve in double inlet ventricle
+SNOMED CT,871587002,Myocarditis due to Chaga disease
+SNOMED CT,871594004,Congenital stenosis of truncal valve
+SNOMED CT,871597006,Congenital dysplasia of aortic valve
+SNOMED CT,871599009,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect and pulmonary stenosis Fallot type
+SNOMED CT,871600007,Outlet ventricular septal defect with posteriorly malaligned outlet septum
+SNOMED CT,871601006,Double outlet right ventricle with subaortic ventricular septal defect and pulmonary stenosis Fallot type
+SNOMED CT,871602004,Perimembranous outlet ventricular septal defect with anteriorly malaligned outlet septum
+SNOMED CT,871603009,Transposition of great arteries with concordant atrioventricular connections and ventricular septal defect
+SNOMED CT,871604003,Doubly committed juxta-arterial outlet ventricular septal defect with perimembranous extension and posteriorly malaligned outlet septum
+SNOMED CT,871605002,Transposition of great arteries with concordant atrioventricular connections and ventricular septal defect and left ventricular outflow tract obstruction
+SNOMED CT,871606001,Outlet ventricular septal defect with anteriorly malaligned outlet septum
+SNOMED CT,871607005,Doubly committed juxta-arterial outlet ventricular septal defect with perimembranous extension and anteriorly malaligned outlet septum
+SNOMED CT,871609008,Doubly committed juxta-arterial outlet ventricular septal defect with anteriorly malaligned outlet septum
+SNOMED CT,871610003,Doubly committed juxta-arterial outlet ventricular septal defect with perimembranous extension
+SNOMED CT,871611004,Doubly committed juxta-arterial outlet ventricular septal defect with posteriorly malaligned outlet septum
+SNOMED CT,871612006,Anterior muscular trabecular ventricular septal defect
+SNOMED CT,871613001,Right hand pattern ventricular topology
+SNOMED CT,871616009,Atrial situs inversus
+SNOMED CT,871618005,Congenital dysplasia of truncal valve
+SNOMED CT,871620008,Perimembranous inlet ventricular septal defect
+SNOMED CT,871622000,Common atrioventricular valve with unbalanced commitment of valve to ventricle
+SNOMED CT,871624004,Common atrioventricular valve with unbalanced commitment of valve to right ventricle
+SNOMED CT,871625003,Intermediate atrioventricular septal defect with atrial and ventricular components and separate atrioventricular valves
+SNOMED CT,871627006,Common atrium with common atrioventricular junction
+SNOMED CT,871630004,Atrioventricular septal defect with ventricular imbalance
+SNOMED CT,871636005,Doubly committed juxta-arterial ventricular septal defect with anteriorly malaligned fibrous outlet septum and muscular postero-inferior rim
+SNOMED CT,871640001,Myocarditis due to autoimmune disease
+SNOMED CT,871642009,Hypertension due to aortic arch obstruction
+SNOMED CT,871643004,Atrioventricular septal defect with balanced ventricles
+SNOMED CT,871644005,Ion cardiac channelopathy
+SNOMED CT,871645006,Common atrium with separate arterioventricular junctions
+SNOMED CT,871647003,Common arterial trunk with pulmonary dominance
+SNOMED CT,871648008,Perimembranous outlet ventricular septal defect with posteriorly malaligned outlet septum
+SNOMED CT,871650000,Common arterial trunk with pulmonary dominance and aortic coarctation
+SNOMED CT,871652008,Mitral atresia with imperforate mitral valve
+SNOMED CT,871654009,Congenital hypoplasia of annulus fibrosus of aorta
+SNOMED CT,871655005,Tricuspid atresia with absent right atrioventricular connection
+SNOMED CT,871658007,Muscular ventricular septal defect opening to right ventricular inlet
+SNOMED CT,871659004,Double inlet to solitary ventricle of indeterminate morphology
+SNOMED CT,871660009,Congenital anomaly of left ventricle
+SNOMED CT,871666003,Atypical left ventricular component of common atrioventricular valve
+SNOMED CT,871668002,Congenital right ventricular anomaly
+SNOMED CT,871672003,Atypical right ventricular component of common atrioventricular valve
+SNOMED CT,871686004,Multiple atrial ectopics
+SNOMED CT,871832005,Multifocal atrial ectopics
+SNOMED CT,541000119105,"Hypertension complicating pregnancy, childbirth and the puerperium, antepartum"
+SNOMED CT,5561000124105,Idiopathic cardiac arrest
+SNOMED CT,5761000119100,Nonsustained paroxysmal supraventricular tachycardia
+SNOMED CT,7401000175100,Acute on chronic heart failure co-occurrent with normal ejection fraction
+SNOMED CT,10701000087104,Arrhythmia during surgery
+SNOMED CT,15781000119107,Hypertensive heart AND chronic kidney disease with congestive heart failure
+SNOMED CT,21421000119109,Nonsustained paroxysmal ventricular tachycardia
+SNOMED CT,23341000119109,Congestive heart failure with right heart failure
+SNOMED CT,40511000119107,Postpartum pre-existing essential hypertension
+SNOMED CT,40521000119100,Postpartum pregnancy-induced hypertension
+SNOMED CT,41371000119100,Shone complex
+SNOMED CT,63191000119107,Complex congenital heart defect
+SNOMED CT,67431000119105,Congestive heart failure stage D
+SNOMED CT,67441000119101,Congestive heart failure stage C
+SNOMED CT,72181000119109,Endocarditis due to systemic lupus erythematosus
+SNOMED CT,72481000119103,Congestive heart failure as early postoperative complication
+SNOMED CT,82771000119102,Hypertension complicating pregnancy
+SNOMED CT,94851000119107,Syphilitic valvular endocarditis
+SNOMED CT,96311000119109,Exacerbation of congestive heart failure
+SNOMED CT,96701000119107,Hypertensive heart AND chronic kidney disease on dialysis
+SNOMED CT,96711000119105,Hypertensive heart AND chronic kidney disease stage 5
+SNOMED CT,96721000119103,Hypertensive heart AND chronic kidney disease stage 4
+SNOMED CT,96731000119100,Hypertensive heart AND chronic kidney disease stage 3
+SNOMED CT,96741000119109,Hypertensive heart AND chronic kidney disease stage 2
+SNOMED CT,96751000119106,Hypertensive heart AND chronic kidney disease stage 1
+SNOMED CT,100231000119101,Acquired pericardial cyst
+SNOMED CT,101281000119107,Congestive heart failure due to cardiomyopathy
+SNOMED CT,102451000119107,Complete atrioventricular block as complication of atrioventricular nodal ablation
+SNOMED CT,108701000119102,Cardiomyopathy due to hypertension
+SNOMED CT,111411000119103,End stage renal disease due to hypertension
+SNOMED CT,117681000119102,Chronic kidney disease stage 1 due to hypertension
+SNOMED CT,118781000119108,Pre-existing hypertensive chronic kidney disease in mother complicating pregnancy
+SNOMED CT,120041000119109,Atrial fibrillation with rapid ventricular response
+SNOMED CT,120261000119101,Benign hypertensive heart disease and chronic renal disease stage 5
+SNOMED CT,127991000119101,Hypertension concurrent and due to end stage renal disease on dialysis due to type 2 diabetes mellitus
+SNOMED CT,128001000119105,Hypertension concurrent and due to end stage renal disease on dialysis due to type 1 diabetes mellitus
+SNOMED CT,129151000119102,Chronic kidney disease stage 4 due to hypertension
+SNOMED CT,129161000119100,Chronic kidney disease stage 5 due to hypertension
+SNOMED CT,129171000119106,Chronic kidney disease stage 3 due to hypertension
+SNOMED CT,129181000119109,Chronic kidney disease stage 2 due to hypertension
+SNOMED CT,132721000119104,Hypertensive emergency
+SNOMED CT,153851000119106,Malignant hypertensive chronic kidney disease stage 5
+SNOMED CT,153891000119101,End stage renal disease on dialysis due to hypertension
+SNOMED CT,284941000119107,High degree second degree atrioventricular block
+SNOMED CT,284951000119109,Postoperative atrioventricular block
+SNOMED CT,284961000119106,Chronic kidney disease due to benign hypertension
+SNOMED CT,284971000119100,Chronic kidney disease stage 1 due to benign hypertension
+SNOMED CT,284981000119102,Chronic kidney disease stage 2 due to benign hypertension
+SNOMED CT,284991000119104,Chronic kidney disease stage 3 due to benign hypertension
+SNOMED CT,285001000119105,Chronic kidney disease stage 4 due to benign hypertension
+SNOMED CT,285011000119108,Chronic kidney disease stage 5 due to benign hypertension
+SNOMED CT,285041000119107,Benign hypertensive heart disease and chronic renal disease stage 1
+SNOMED CT,285061000119106,Benign hypertensive heart disease and chronic renal disease stage 2
+SNOMED CT,285081000119102,Benign hypertensive heart disease and chronic renal disease stage 3
+SNOMED CT,285101000119109,Benign hypertensive heart disease and chronic renal disease stage 4
+SNOMED CT,285211000119102,Congestive heart failure as post-operative complication of cardiac surgery
+SNOMED CT,285221000119109,Congestive heart failure as post-operative complication of non-cardiac surgery
+SNOMED CT,285821000119105,Major laceration of heart with hemopericardium
+SNOMED CT,285831000119108,Malignant hypertensive chronic kidney disease
+SNOMED CT,285841000119104,Malignant hypertensive end stage renal disease
+SNOMED CT,285851000119102,Malignant hypertensive chronic kidney disease stage 1
+SNOMED CT,285861000119100,Malignant hypertensive chronic kidney disease stage 2
+SNOMED CT,285871000119106,Malignant hypertensive chronic kidney disease stage 3
+SNOMED CT,285881000119109,Malignant hypertensive chronic kidney disease stage 4
+SNOMED CT,285911000119109,Malignant hypertensive heart disease and chronic renal disease stage 3
+SNOMED CT,285921000119102,Malignant hypertensive heart disease and chronic renal disease stage 4
+SNOMED CT,286001000119104,Minor laceration of heart with hemopericardium
+SNOMED CT,286011000119101,Rheumatic mitral valve annular calcification
+SNOMED CT,286031000119106,Rheumatic mitral valve prolapse
+SNOMED CT,286041000119102,Moderate laceration of heart with hemopericardium
+SNOMED CT,286371000119107,Malignant hypertensive end stage renal disease on dialysis
+SNOMED CT,367821000119106,Page kidney
+SNOMED CT,434431000124103,Hypertensive end stage renal disease
+SNOMED CT,449631000124102,Benign hypertensive heart disease and chronic renal disease
+SNOMED CT,451241000124108,Chronic myocarditis
+SNOMED CT,1089931000119105,Myocarditis due to scarlet fever
+SNOMED CT,1240531000000103,Myocarditis due to disease caused by severe acute respiratory syndrome coronavirus 2
+SNOMED CT,10629351000119108,Myocarditis due to Influenza A virus
+SNOMED CT,10743121000119108,Aortic valve disorder in mother complicating childbirth
+SNOMED CT,10743741000119103,Cardiac arrhythmia in mother complicating childbirth
+SNOMED CT,10745231000119102,Cardiac arrest due to administration of anesthesia for obstetric procedure in pregnancy
+SNOMED CT,10749691000119103,Obstetric anesthesia with cardiac complication in childbirth
+SNOMED CT,10750641000119101,Cardiac arrest due to failed attempted abortion
+SNOMED CT,10752641000119102,Eclampsia with pre-existing hypertension in childbirth
+SNOMED CT,10753101000119102,Heart disease in mother complicating childbirth
+SNOMED CT,10760081000119108,Pyemic and septic embolism in childbirth
+SNOMED CT,10754331000119108,Air embolism in childbirth
+SNOMED CT,10757401000119104,Pre-existing hypertensive heart and chronic kidney disease in mother complicating childbirth
+SNOMED CT,10757441000119102,Pre-existing hypertensive heart disease in mother complicating childbirth
+SNOMED CT,10757481000119107,Pre-existing hypertensive heart and chronic kidney disease in mother complicating pregnancy
+SNOMED CT,10759031000119106,Pre-existing hypertensive heart disease in mother complicating pregnancy
+SNOMED CT,10759191000119106,Septic thrombophlebitis in puerperium
+SNOMED CT,10759311000119104,Pulmonary embolism in childbirth
+SNOMED CT,10759761000119100,Rubella in mother complicating childbirth
+SNOMED CT,10760131000119108,Pyemic and septic embolism in pregnancy
+SNOMED CT,10760181000119109,Cardiac arrest due to miscarriage
+SNOMED CT,10805641000119102,Congenital cardiovascular anomaly in mother complicating childbirth
+SNOMED CT,10809641000119100,Mitral valve disorder in mother complicating childbirth
+SNOMED CT,10811961000119109,Cardiac arrest due to incomplete miscarriage
+SNOMED CT,10835781000119105,Amniotic fluid embolism in childbirth
+SNOMED CT,15629541000119106,Congestive heart failure stage C due to ischemic cardiomyopathy
+SNOMED CT,15629591000119103,Congestive heart failure stage B due to ischaemic cardiomyopathy
+SNOMED CT,15960061000119102,Unstable angina co-occurrent and due to coronary arteriosclerosis
+SNOMED CT,15960141000119102,Angina co-occurrent and due to coronary arteriosclerosis
+SNOMED CT,15960381000119109,Angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+SNOMED CT,15960541000119107,Unstable angina due to arteriosclerosis of autologous vein coronary artery bypass graft
+SNOMED CT,15960581000119102,Arteriosclerosis of autologous vein coronary artery bypass graft with angina
+SNOMED CT,15960661000119107,Unstable angina co-occurrent and due to arteriosclerosis of coronary artery bypass graft
+SNOMED CT,15960781000119108,Arteriosclerosis of autologous arterial coronary artery bypass graft with angina
+SNOMED CT,15964581000119107,Cardiac arrest following cardiac surgery
+SNOMED CT,15964701000119109,Saddle embolus of pulmonary artery with acute cor pulmonale
+SNOMED CT,15964781000119101,Myopericarditis caused by Borrelia species
+SNOMED CT,15964901000119107,Atypical atrial flutter
+SNOMED CT,15964981000119104,Congenital anomaly of cardiac chamber
+SNOMED CT,16754391000119100,Stable angina due to coronary arteriosclerosis
+SNOMED CT,2829000,Hypoplasia of right ventricle
+SNOMED CT,9651007,Long Q-T syndrome
+SNOMED CT,10626002,Multifocal premature ventricular complexes
+SNOMED CT,17394001,Ebstein anomaly with atrial septal defect
+SNOMED CT,19092004,Heart-hand syndrome type 1
+SNOMED CT,22271007,Abnormal fetal heart beat first noted during labour AND/OR delivery in liveborn infant
+SNOMED CT,26146002,Complete TGA
+SNOMED CT,27337007,Unifocal premature ventricular complexes
+SNOMED CT,28189009,Mobitz type 2 second degree atrioventricular block
+SNOMED CT,30667004,Right bundle branch block with left anterior fascicular block
+SNOMED CT,31080005,Pericarditis co-occurrent and due to Mulibrey nanism
+SNOMED CT,37980001,Progressive malignant polyserositis
+SNOMED CT,38274001,Interpolated ventricular premature complexes
+SNOMED CT,39260000,Nonparoxysmal atrioventricular nodal tachycardia
+SNOMED CT,42402006,Siewert syndrome
+SNOMED CT,46319007,Right bundle branch block with left posterior fascicular block
+SNOMED CT,48194001,GH - Gestational hypertension
+SNOMED CT,54016002,Mobitz type 1 second degree atrioventricular block
+SNOMED CT,55475008,Lown Ganong Levine syndrome
+SNOMED CT,63247009,Deletion 7q11.23
+SNOMED CT,74390002,Ventricular pre-excitation with arrhythmia
+SNOMED CT,78862003,Cardiopathia nigra
+SNOMED CT,80387009,Asymptomatic ventricular septal defect
+SNOMED CT,83014000,MacCallum patch
+SNOMED CT,86299006,Fallot's tetralogy
+SNOMED CT,87442008,Pericarditis co-occurrent and due to scleroderma
+SNOMED CT,95605009,Hemolysis-elevated liver enzymes-low platelet count syndrome
+SNOMED CT,179924009,Cardiac arrest in foetus OR newborn
+SNOMED CT,204311009,Eisenmenger complex
+SNOMED CT,204319006,Lutembacher syndrome
+SNOMED CT,204351007,Fallot triad
+SNOMED CT,204357006,Ebsteins anomaly
+SNOMED CT,253468007,Ebstein anomaly of right atrioventricular valve
+SNOMED CT,253496001,Ebstein anomaly of left atrioventricular valve
+SNOMED CT,253514004,Dextroposition of aorta in tetralogy of Fallot
+SNOMED CT,253515003,Ventricular septal defect in Fallot tetralogy
+SNOMED CT,283645003,Progressive cardiac conduction defect
+SNOMED CT,420938005,Subacute endocarditis with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,421272004,Subacute myocarditis with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,421929001,Myocarditis with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,422348008,Long QT syndrome 7
+SNOMED CT,442917000,Familial long QT syndrome
+SNOMED CT,460317007,Rickettsial myocarditis
+SNOMED CT,460329003,Candidal myocarditis
+SNOMED CT,460338001,Aspergillosis myocarditis
+SNOMED CT,460352004,Spirochetal myocarditis
+SNOMED CT,460439008,Pericarditis caused by Genus Hemophilus
+SNOMED CT,460440005,Tuberculous pericarditis with pericardial effusion
+SNOMED CT,460464006,Tuberculous constrictive pericarditis
+SNOMED CT,460620006,Myocarditis caused by Genus Borrelia
+SNOMED CT,698272007,Familial short QT syndrome
+SNOMED CT,791000119109,Angina due to type 2 diabetes mellitus
+SNOMED CT,142951000119106,Myocarditis caused by Influenza A virus subtype H1N1
+SNOMED CT,444605001,Symptomatic sinus bradycardia
+SNOMED CT,444851003,Bifid apex of heart
+SNOMED CT,444961009,Atrioventricular septal defect with common atrioventricular orifice
+SNOMED CT,445001003,Left ventricular outflow tract obstruction due to malaligned outlet septum
+SNOMED CT,445002005,Atrioventricular septal defect with separate atrioventricular orifices
+SNOMED CT,445003000,Left ventricular outflow tract obstruction due to subpulmonary fibromuscular shelf
+SNOMED CT,445131007,Left ventricular outflow tract obstruction due to fibromuscular tunnel
+SNOMED CT,445235006,Left ventricular outflow tract obstruction due to anterolateral muscle band
+SNOMED CT,445264002,Atrioventricular septal defect with ventricular imbalance consisting of dominant left ventricle and hypoplastic right ventricle
+SNOMED CT,445268004,Apex of heart anterior to cardiac base
+SNOMED CT,445270008,Aortic orifice left side by side with respect to pulmonary orifice
+SNOMED CT,445298006,Aortic orifice anterior with respect to pulmonary orifice
+SNOMED CT,445299003,Atrioventricular septal defect with ventricular imbalance consisting of dominant right ventricle and hypoplastic left ventricle
+SNOMED CT,445310002,Left ventricular outflow tract obstruction due to diaphragm
+SNOMED CT,445330003,Right atrioventricular valve leaflets absent in double inlet ventricle (unguarded orifice)
+SNOMED CT,445334007,Atrioventricular septal defect with additional muscular ventricular septal defect
+SNOMED CT,445373007,Aortic orifice posterior with respect to pulmonary orifice
+SNOMED CT,445435009,Apex of heart posterior to cardiac base
+SNOMED CT,445453003,Left ventricular outflow tract obstruction due to aneurysm of membranous septum
+SNOMED CT,445454009,Left ventricular outflow tract obstruction due to atrioventricular valve
+SNOMED CT,445607003,Aortic orifice posterior left with respect to pulmonary orifice
+SNOMED CT,445636003,Aortic orifice anterior right with respect to pulmonary orifice
+SNOMED CT,445650008,Aortic orifice anterior left with respect to pulmonary orifice
+SNOMED CT,445898001,Abnormal atrial arrangement
+SNOMED CT,445928005,Eisenmenger's syndrome
+SNOMED CT,446326008,Premature restriction of foramen ovale
+SNOMED CT,446657003,Criss-cross heart with rightward rotation
+SNOMED CT,446659000,Ventricular imbalance with dominant left ventricle and hypoplastic right ventricle
+SNOMED CT,446667008,Two atrioventricular valves in double inlet ventricle
+SNOMED CT,446670007,Aortic orifice right side by side with respect to pulmonary orifice
+SNOMED CT,446909006,Midline apex of heart
+SNOMED CT,446916007,Functionally univentricular heart
+SNOMED CT,447283008,Solitary ventricle of indeterminate morphology
+SNOMED CT,447284002,Double outlet right ventricle with intact ventricular septum
+SNOMED CT,447285001,Ventricular imbalance
+SNOMED CT,447286000,Ventricular imbalance with dominant right ventricle and hypoplastic left ventricle
+SNOMED CT,447289007,Criss-cross heart with leftward rotation
+SNOMED CT,447661004,Diverticulum of coronary sinus
+SNOMED CT,447665008,Interatrial communication through coronary sinus orifice
+SNOMED CT,447666009,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium
+SNOMED CT,447667000,Divided left atrium with all pulmonary veins to proximal chamber without communication to left atrium
+SNOMED CT,447669002,Hypoplasia of left heart without intrinsic valve stenosis and without atresia
+SNOMED CT,447670001,Ventricular septal defect with anterior malaligned outlet septum with overriding pulmonary valve
+SNOMED CT,447671002,Ventricular septal defect with posterior malaligned outlet septum with overriding aortic valve
+SNOMED CT,447672009,Ventricular septal defect with posterior malaligned outlet septum with overriding pulmonary valve
+SNOMED CT,447673004,Right ventricle to left of left ventricle
+SNOMED CT,447681003,Continuity between mitral valve and pulmonary valve
+SNOMED CT,447683000,Discontinuity between mitral valve and pulmonary valve
+SNOMED CT,447689001,Prolapse of Eustachian valve through atrial septum
+SNOMED CT,447690005,Prolapse of Eustachian valve through tricuspid valve
+SNOMED CT,447696004,Unicommissural unicuspid aortic valve
+SNOMED CT,447697008,Unicommissural unicuspid pulmonary valve
+SNOMED CT,447698003,Ventricular septal defect with anterior malaligned outlet septum with overriding aortic valve
+SNOMED CT,447774002,Congenital midvalvar ring of mitral leaflet
+SNOMED CT,447780005,Restrictive interatrial communication with obligatory shunt
+SNOMED CT,447822009,Congenital prolapse of aortic valve
+SNOMED CT,447824005,Congenital abnormality of left atrium
+SNOMED CT,447825006,Congenital abnormality of middle cardiac vein
+SNOMED CT,447829000,Congenital abnormality of tricuspid chordae tendinae
+SNOMED CT,447830005,Congenital abnormality of tricuspid leaflet
+SNOMED CT,447838003,Pulmonary atresia and ventricular septal defect with aorta from left ventricle
+SNOMED CT,447839006,Pulmonary atresia and ventricular septal defect with aorta from right ventricle
+SNOMED CT,447845003,Right ventricle posterior to left ventricle
+SNOMED CT,447852001,Ventricular septal defect of inlet of right aspect of ventricular septum
+SNOMED CT,447874007,Congenital abnormality of atrial septum
+SNOMED CT,447875008,Congenital mass of mitral leaflet
+SNOMED CT,447876009,Congenital aneurysm of subaortic left ventricle
+SNOMED CT,447913009,Completely unroofed coronary sinus defect in left atrium
+SNOMED CT,447915002,Ebstein's anomaly of left sided tricuspid valve with discordant atrioventricular connections
+SNOMED CT,447919008,Univentricular atrioventricular connection with absent right sided atrioventricular connection
+SNOMED CT,447932003,Double outlet ventriculoarterial connections
+SNOMED CT,447933008,Nonfenestrated interatrial communication within oval fossa
+SNOMED CT,447937009,Congenital abnormality of aortic valve cusp
+SNOMED CT,447938004,Congenital abnormality of cardiac vein
+SNOMED CT,447941008,Residual ventricular septal defect
+SNOMED CT,447962009,Divided left atrium with restrictive outlet of proximal chamber to left atrium
+SNOMED CT,447988007,Common arterial trunk with pulmonary arteries arising from trunk and unobstructed aortic arch
+SNOMED CT,447998001,Single ventricular outlet above right ventricle
+SNOMED CT,447999009,Single ventricular outlet above left ventricle
+SNOMED CT,448001004,Right ventricular outflow tract obstruction due to aneurysm of membranous septum
+SNOMED CT,448004007,Acommissural unicuspid pulmonary valve
+SNOMED CT,448007000,Atrioventricular septal defect associated with tetralogy of Fallot
+SNOMED CT,448028009,Congenital left ventricular submitral valve aneurysm
+SNOMED CT,448062009,Ventricular septal defect with malaligned outlet septum
+SNOMED CT,448063004,Congenital abnormality of posterior cardiac vein of left ventricle
+SNOMED CT,448064005,Congenital abnormality of right atrium
+SNOMED CT,448066007,Divided left atrium with nonrestrictive outlet of proximal chamber to left atrium
+SNOMED CT,448072007,Single inlet ventricle with absent atrioventricular connection
+SNOMED CT,448073002,Congenital abnormality of tricuspid papillary muscle
+SNOMED CT,448074008,Ebstein's anomaly with functional tricuspid stenosis
+SNOMED CT,448075009,Uniatrial biventricular connection with absent right sided atrioventricular connection with straddling valve
+SNOMED CT,448080000,Single ventricular outlet above ventricle of indeterminate morphology
+SNOMED CT,448081001,Hepatic vein to coronary sinus
+SNOMED CT,448082008,Right ventricular outflow tract obstruction due to prolapse of Eustachian valve
+SNOMED CT,448083003,Right ventricular outflow tract obstruction due to prolapsed arterial valve
+SNOMED CT,448085005,Acommissural unicuspid aortic valve
+SNOMED CT,448095003,Aortic left ventricular tunnel with right coronary artery from tunnel
+SNOMED CT,448103004,Right ventricle inferior to left ventricle
+SNOMED CT,448113007,Right superior caval vein connecting to coronary sinus
+SNOMED CT,448118003,Atrioventricular septal defect with atrial and ventricular components and separate atrioventricular valves
+SNOMED CT,448119006,Atrioventricular septal defect with atrioventricular valve regurgitation
+SNOMED CT,448120000,Common arterial trunk with crossed over pulmonary arteries
+SNOMED CT,448155003,Pulmonary atresia with ventricular septal defect of Fallot type
+SNOMED CT,448161000,Aortic valve overriding ventricular septum
+SNOMED CT,448162007,Bipartite right ventricle
+SNOMED CT,448181004,Anomalous coronary venous return
+SNOMED CT,448182006,Atrioventricular septal defect with ventricular component and interchordal shunting under inferior bridging leaflet
+SNOMED CT,448183001,Atrioventricular septal defect with ventricular component and interchordal shunting under superior bridging leaflet
+SNOMED CT,448184007,Atrioventricular septal defect with ventricular component and shunting under connecting tongue with separate orifices
+SNOMED CT,448277007,Midline posterior apex of heart
+SNOMED CT,448278002,Coronary sinus drainage cephalad to left superior caval vein
+SNOMED CT,448280008,Malalignment of aortic sinus in relation to pulmonary sinus
+SNOMED CT,448305002,Vascular ring with malrotation and dextroversion of heart and hypoplasia of right lung and left arterial duct
+SNOMED CT,448308000,Right ventricular outflow tract obstruction due to common atrioventricular valve
+SNOMED CT,448309008,Right ventricular outflow tract obstruction due to fibromuscular shelf
+SNOMED CT,448310003,Right ventricular outflow tract obstruction due to malaligned outlet septum
+SNOMED CT,448320008,Divided left atrium with some pulmonary veins to proximal chamber
+SNOMED CT,448331000,Atrioventricular septal defect with restrictive ventricular component
+SNOMED CT,448356006,Coronary sinus drainage cephalad to right superior caval vein
+SNOMED CT,448357002,Midline anterior apex of heart
+SNOMED CT,448413002,Pulmonary valve overriding ventricular septum
+SNOMED CT,448415009,Subaortic stenosis due to common atrioventricular valve
+SNOMED CT,448475002,Absent pulmonary valve syndrome with ventricular septal defect of non Fallot type
+SNOMED CT,448477005,Superior to inferior ventricular relationship
+SNOMED CT,448478000,Systemic to pulmonary collateral artery from coronary artery
+SNOMED CT,448497000,Congenital deformity of mitral valve annulus
+SNOMED CT,448516008,Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis
+SNOMED CT,448574001,Unipartite right ventricle
+SNOMED CT,448575000,Fenestrated interatrial communication within oval fossa
+SNOMED CT,448604006,Congenital abnormality of pulmonary valve cusp
+SNOMED CT,448612003,Single ventricular outlet above both ventricles
+SNOMED CT,448619007,Anterior deviation of infundibular septum of Fallot type
+SNOMED CT,448624005,Uniatrial biventricular connection with absent left sided atrioventricular connection with straddling valve
+SNOMED CT,448625006,Univentricular atrioventricular connection with absent left sided atrioventricular connection
+SNOMED CT,448633007,Right ventricular outflow tract obstruction due to atrioventricular valve
+SNOMED CT,448634001,Absent aortic valve cusp
+SNOMED CT,448681000,Indeterminate atrial arrangement
+SNOMED CT,448729006,Common atrioventricular valve in functionally univentricular heart
+SNOMED CT,448747000,Common arterial trunk with pulmonary origin from truncal valve sinus
+SNOMED CT,448778001,Obstruction of right ventricular outflow tract due to aortico-left ventricular tunnel
+SNOMED CT,448780007,Ventricular septal defect with absent outlet septum and overriding truncal valve with extension of membranous septum
+SNOMED CT,448786001,Posterior deviation of infundibular septum of obstructive aortic arch type
+SNOMED CT,448790004,Anterior-posterior orientation of bicuspid aortic valve
+SNOMED CT,448793002,Bicuspid truncal valve
+SNOMED CT,448794008,Double outlet right ventricle with subpulmonary ventricular septal defect
+SNOMED CT,448809003,Common arterial trunk with obstruction of aortic arch
+SNOMED CT,448819009,Right-left orientation of bicuspid aortic valve
+SNOMED CT,448823001,Left ventricular outflow tract obstruction due to prolapse of Eustachian valve
+SNOMED CT,448827000,Ventricular septal defect with absent outlet septum and overriding truncal valve with inferior muscular rim
+SNOMED CT,448842002,Aortico-left ventricular tunnel of simple type
+SNOMED CT,448843007,Aortico-left ventricular tunnel with aneurysm of intracardiac septal wall and aneurysm of extracardiac aortic wall
+SNOMED CT,448844001,Multiple mitral papillary muscles with hammock valve
+SNOMED CT,448876006,Subarterial ventricular septal defect
+SNOMED CT,448887003,Common arterial trunk with isolated pulmonary artery
+SNOMED CT,448919005,Atrioventricular septal defect with ventricular component under superior bridging leaflet without chordal attachment to ventricular septal crest
+SNOMED CT,448920004,Congenital abnormality of mitral subvalvular apparatus
+SNOMED CT,448923002,Hypoplasia of infundibular septum
+SNOMED CT,448946000,Anterior-posterior orientation of bicuspid pulmonary valve
+SNOMED CT,448947009,Congenital abnormality of left atrioventricular valve in double inlet ventricle
+SNOMED CT,448948004,Overriding ventriculoarterial valve
+SNOMED CT,448966009,Hypoplasia of trabecular portion of right ventricle
+SNOMED CT,448975006,Aortico-left ventricular tunnel with extracardiac aneurysm of aortic wall
+SNOMED CT,449005003,Absence of mitral chordae tendinae
+SNOMED CT,449014008,Hepatic vein to left sided atrium
+SNOMED CT,449015009,Hepatic vein to right sided atrium
+SNOMED CT,449016005,Hepatic vein to left atrium and right atrium
+SNOMED CT,449029005,Imperforate ventriculoarterial valve
+SNOMED CT,449031001,Congenital abnormality of right atrioventricular valve leaflet in double inlet ventricle
+SNOMED CT,449032008,Congenital abnormality of right atrioventricular valve papillary muscle in double inlet ventricle
+SNOMED CT,449037002,Truncal valve overriding ventricular septum
+SNOMED CT,449040002,Hypoplasia of right atrioventricular valve annulus in double inlet ventricle
+SNOMED CT,449086000,Ebstein's anomaly of left atrioventricular valve in functionally univentricular heart
+SNOMED CT,449087009,Ebstein's anomaly of right atrioventricular valve in functionally univentricular heart
+SNOMED CT,449098005,Congenital abnormality of left atrioventricular valve chordae tendinae in double inlet ventricle
+SNOMED CT,449099002,Left atrioventricular valve stenosis in double inlet ventricle
+SNOMED CT,449110001,Congenital billowing of mitral valve leaflet
+SNOMED CT,449118008,Left ventricular outflow tract obstruction due to prolapsed arterial valve
+SNOMED CT,449123008,Eccentric opening of tricuspid aortic valve
+SNOMED CT,449124002,Eccentric opening of tricuspid pulmonary valve
+SNOMED CT,449133000,Absence of pulmonary valve cusp
+SNOMED CT,449135007,Congenital stenosis of mitral subvalvular apparatus
+SNOMED CT,449138009,Right ventricular outflow tract obstruction due to septal hypertrophy
+SNOMED CT,449139001,Commissural fusion of truncal valve
+SNOMED CT,449140004,Right-left orientation of bicuspid pulmonary valve
+SNOMED CT,449158005,Ebstein's anomaly of tricuspid valve with atrialization of right ventricular chamber
+SNOMED CT,449178002,Doubly committed ventricular septal defect in double outlet ventriculoarterial connection
+SNOMED CT,449190000,Muscular ventricular septal defect in trabecular septum
+SNOMED CT,449228007,Hypoplasia of left atrioventricular valve annulus in double inlet ventricle
+SNOMED CT,449270002,Hypoplasia of mitral valve annulus
+SNOMED CT,449315003,Congenital abnormality of right atrioventricular valve chordae tendinae in double inlet ventricle
+SNOMED CT,449316002,Congenital abnormality of right atrioventricular valve in double inlet ventricle
+SNOMED CT,449352003,Right ventricular outflow tract obstruction due to abnormal cardiac muscle bands
+SNOMED CT,449353008,Hypoplasia of trabecular portion of left ventricle
+SNOMED CT,449354002,Hypoplasia of pulmonary cusps of absent pulmonary valve type
+SNOMED CT,449379004,Atrioventricular septal defect with ventricular component under inferior bridging leaflet with chords to crest ventricular septum
+SNOMED CT,449382009,Congenital abnormality of atrioventricular valve leaflet in atrioventricular septal defect
+SNOMED CT,449383004,Congenital abnormality of atrioventricular valve papillary muscle in atrioventricular septal defect
+SNOMED CT,449385006,Confluent muscular ventricular septal defect
+SNOMED CT,449398002,Aortico-left ventricular tunnel with intracardiac aneurysm of septal portion
+SNOMED CT,449428009,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber communication
+SNOMED CT,449429001,Divided left atrium with some pulmonary veins to proximal chamber draining to right atrium
+SNOMED CT,449436000,Cor triatriatum with some pulmonary veins to proximal chamber draining to left atrium
+SNOMED CT,449440009,Divided left atrium with all pulmonary veins to proximal chamber without communication to left atrium with extracardiac pulmonary venous chamber communication
+SNOMED CT,449441008,Divided left atrium with all pulmonary veins to proximal chamber without communication to left atrium with pulmonary venous chamber communication to right atrium
+SNOMED CT,449442001,Congenital abnormality of great cardiac vein
+SNOMED CT,449455000,Abnormal attachment of tricuspid chordae tendinae
+SNOMED CT,449456004,Atrioventricular septal defect with atrioventricular valve regurgitation through left septal commissure
+SNOMED CT,449457008,Atrioventricular septal defect with atrioventricular valve regurgitation through left superior bridging leaflet lateral mural commissure
+SNOMED CT,449458003,Right superior caval vein connecting to coronary sinus and then to left sided atrium
+SNOMED CT,449459006,Atrioventricular septal defect with atrioventricular valve regurgitation through left inferior bridging leaflet lateral mural commissure
+SNOMED CT,449479003,Malattachment of atrial septum
+SNOMED CT,449490008,Atrioventricular septal defect with atrioventricular valve regurgitation through right septal commissure
+SNOMED CT,449492000,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber communication to right atrium
+SNOMED CT,449511008,Imperforate left ventriculoarterial valve
+SNOMED CT,449512001,Imperforate right ventriculoarterial valve
+SNOMED CT,449520004,Right ventricular outflow tract obstruction due to septoparietal trabeculation
+SNOMED CT,449523002,Right superior caval vein persisting to coronary sinus and then to right sided atrium
+SNOMED CT,449532000,Congenital abnormality of anterior cardiac vein
+SNOMED CT,449534004,Obstructed interchordal space of tricuspid chordae tendinae
+SNOMED CT,449537006,Atrioventricular septal defect with atrioventricular valve regurgitation through right anterosuperior inferior mural commissure
+SNOMED CT,449538001,Atrioventricular septal defect with atrioventricular valve regurgitation through right anterosuperior superior bridging leaflet commissure
+SNOMED CT,449539009,Atrioventricular septal defect with atrioventricular valve regurgitation through right inferior bridging leaflet inferior mural commissure
+SNOMED CT,449563001,Absence of primary mitral chordae tendinae
+SNOMED CT,449567000,Overriding left ventriculoarterial valve
+SNOMED CT,449568005,Overriding right ventriculoarterial valve
+SNOMED CT,449587004,Divided left atrium with all pulmonary veins to proximal chamber and then to left atrium with additional pulmonary venous chamber extracardiac communication
+SNOMED CT,449593007,Divided left atrium with some pulmonary veins to proximal chamber draining to left atrium and others connecting directly to left atrium
+SNOMED CT,449594001,Divided left atrium with some pulmonary veins to proximal chamber draining to left atrium and others connecting anomalously
+SNOMED CT,449595000,Divided left atrium with some pulmonary veins to proximal chamber draining to right atrium and others connecting anomalously
+SNOMED CT,449596004,Cor triatriatum with some pulmonary veins to proximal chamber draining to right atrium and others connecting directly to left atrium
+SNOMED CT,449599006,Malattachment of atrial septum with posterior aspect of septum primum to left
+SNOMED CT,449600009,Malattachment of atrial septum with superior aspect of septum primum to left and posterior
+SNOMED CT,450300002,Anomalous origin of right coronary artery from pulmonary artery
+SNOMED CT,450301003,Anomalous origin of left coronary artery from pulmonary artery
+SNOMED CT,450302005,Anomalous origin of left anterior descending coronary artery from pulmonary artery
+SNOMED CT,450303000,Congenital pericardial effusion
+SNOMED CT,450919004,Atrial standstill
+SNOMED CT,458039003,Anomalous origin of left circumflex coronary artery from pulmonary artery
+SNOMED CT,459062008,Fatal congenital nonlysosomal heart glycogenosis
+SNOMED CT,459065005,Congenital atresia of left main stem coronary artery
+SNOMED CT,459066006,Anomalous origin of accessory coronary artery from pulmonary artery
+SNOMED CT,459067002,Infective endocarditis of cardiac valve
+SNOMED CT,459068007,Infective endocarditis of aortic valve
+SNOMED CT,459151006,Infective endocarditis of tricuspid valve
+SNOMED CT,459152004,Infective endocarditis of mitral valve
+SNOMED CT,459153009,Infective endocarditis of pulmonary valve
+SNOMED CT,459154003,Infective endocarditis of truncal valve
+SNOMED CT,459158000,Infective endocarditis of left atrioventricular (not morphologically mitral) valve
+SNOMED CT,459159008,Infective endocarditis of right atrioventricular (not morphologically tricuspid) valve
+SNOMED CT,459178008,Infective endocarditis of common atrioventricular valve
+SNOMED CT,459184006,Infective constrictive pericarditis
+SNOMED CT,460345001,Myocarditis due to echovirus
+SNOMED CT,460437005,Anomalous origin of dual left anterior descending coronary arteries from right coronary artery and left coronary artery
+SNOMED CT,460438000,Anomalous origin of large conus artery from right coronary artery
+SNOMED CT,460445000,Viral pericarditis with pericardial effusion
+SNOMED CT,460450006,Constrictive pericarditis due to virus
+SNOMED CT,460457009,Constrictive pericarditis due to bacteria
+SNOMED CT,460471001,Anomalous origin of conus artery from separate aortic sinus orifice
+SNOMED CT,460510005,Anomalous origin of coronary arteries from anterior aortic sinus
+SNOMED CT,460517008,Anomalous origin of coronary arteries from both aortic sinuses of bicuspid valve
+SNOMED CT,460524009,Anomalous origin of right coronary artery from left anterior descending coronary artery
+SNOMED CT,460531008,Anomalous origin of right coronary artery from left circumflex coronary artery
+SNOMED CT,460538002,Anomalous origin of left coronary artery from right coronary artery
+SNOMED CT,460545002,Congenital atresia of right coronary artery orifice
+SNOMED CT,460581004,Anomalous origin of accessory coronary artery from aortic sinus
+SNOMED CT,460582006,Anomalous origin of left coronary artery and right coronary artery from pulmonary artery
+SNOMED CT,460583001,Anomalous origin of sinus node coronary artery from separate aortic sinus orifice
+SNOMED CT,460584007,Anomalous course of coronary artery posterior to pulmonary trunk
+SNOMED CT,460585008,Anomalous course of coronary artery posterior to aorta
+SNOMED CT,460586009,Anomalous origin of right coronary artery from left coronary artery
+SNOMED CT,460587000,Anomalous origin of single coronary artery from left coronary artery aortic sinus
+SNOMED CT,460588005,Anomalous origin of left circumflex coronary artery from right coronary aortic sinus
+SNOMED CT,461345005,Coronary artery orifice abnormally low
+SNOMED CT,460614005,Dilatation of left atrioventricular (not morphologically mitral) valve in double inlet ventricle
+SNOMED CT,460913001,Systemic to coronary collateral artery
+SNOMED CT,460923005,Anomalous origin of right coronary artery from left coronary artery aortic sinus
+SNOMED CT,460930004,Anomalous origin of left coronary artery from right coronary aortic sinus
+SNOMED CT,460937001,Anomalous origin of single coronary artery from right coronary artery aortic sinus
+SNOMED CT,460944005,Anomalous origin of right coronary artery from left coronary artery aortic sinus and anomalous origin of left coronary artery from right coronary artery aortic sinus
+SNOMED CT,461104009,Interruption of coronary artery
+SNOMED CT,461105005,Anomalous origin of coronary artery from aorta
+SNOMED CT,461107002,Single coronary artery dividing into right coronary artery and left coronary artery
+SNOMED CT,461109004,Anomalous course of coronary artery anterior to pulmonary trunk and aorta
+SNOMED CT,461110009,Anomalous course of coronary artery posterior to pulmonary trunk and aorta
+SNOMED CT,461111008,Anomalous course of coronary artery anterior to aorta
+SNOMED CT,461112001,Anomalous course of coronary artery anterior to pulmonary trunk
+SNOMED CT,461331004,Malposition of coronary artery orifice
+SNOMED CT,461359003,Common coronary artery orifice
+SNOMED CT,461381008,Anomalous intramural course of proximal portion of coronary artery within aortic sinus
+SNOMED CT,461382001,Anomalous intramural course of proximal portion of coronary artery across commissure of aortic valve
+SNOMED CT,461383006,Anomalous intramural course of proximal portion of coronary artery above aortic sinus
+SNOMED CT,461384000,Anomalous course of coronary artery across right ventricular outflow tract
+SNOMED CT,461385004,Anomalous course of coronary artery through infundibular septum
+SNOMED CT,461420008,Anomalous coronary artery with acute angulation of less than 45 degrees relative to aorta
+SNOMED CT,461421007,Anomalous coronary artery without acute angulation of less than 45 degrees relative to aorta
+SNOMED CT,461435009,Anomalous origin of left anterior descending coronary artery from right coronary artery aortic sinus
+SNOMED CT,461436005,Anomalous origin of dual left anterior descending coronary arteries
+SNOMED CT,461438006,Double barrel dual coronary artery orifices within aortic sinus
+SNOMED CT,461439003,Widely spaced right coronary artery and left coronary artery orifices within single aortic sinus
+SNOMED CT,462164009,Fetal pericardial effusion
+SNOMED CT,462169004,Fetal supraventricular tachycardia with short ventriculoatrial interval
+SNOMED CT,462170003,Fetal supraventricular tachycardia with long ventriculoatrial interval
+SNOMED CT,471276003,Single left coronary artery supplying all of heart with usual distribution of right coronary artery derived from distal left coronary artery
+SNOMED CT,471277007,Single right coronary artery supplying all of heart with usual distribution of left coronary artery derived from distal right coronary artery
+SNOMED CT,471285003,Anomalous origin of coronary artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471286002,Anomalous origin of coronary artery from aortic sinus to right of nonfacing aortic sinus
+SNOMED CT,471287006,Anomalous origin of left coronary artery and right coronary artery with dual orifices from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471288001,Anomalous origin of left coronary artery and right coronary artery with dual orifices from aortic sinus to right of nonfacing aortic sinus
+SNOMED CT,471289009,Anomalous origin of circumflex artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of left anterior descending coronary artery and right coronary artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471290000,Anomalous origin of left anterior descending artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of circumflex artery and right coronary artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471291001,Anomalous origin of right coronary artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of left coronary artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471292008,Anomalous origin of right coronary artery and circumflex artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of left anterior descending artery from aortic sinus to left on nonfacing aortic sinus
+SNOMED CT,471293003,Anomalous origin of left anterior descending artery and right coronary artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of circumflex artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471294009,Congenital pericardial cyst
+SNOMED CT,471297002,Anomalous origin of single coronary artery from nonfacing aortic sinus
+SNOMED CT,471298007,Anomalous origin of single coronary artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,471299004,Anomalous origin of single coronary artery from aortic sinus to right of nonfacing aortic sinus
+SNOMED CT,471841009,Inflammatory cardiomyopathy
+SNOMED CT,472703008,Pseudoacardia
+SNOMED CT,472707009,Fetal myocarditis
+SNOMED CT,472777008,Congenital intrapericardial cyst
+SNOMED CT,472778003,Congenital extrapericardial cyst
+SNOMED CT,472785004,Right ventricular outflow tract obstruction due to neoplasm
+SNOMED CT,472786003,Right ventricular outflow tract obstruction due to foreign body
+SNOMED CT,472787007,Left ventricular outflow tract obstruction due to neoplasm
+SNOMED CT,472794005,Acquired subaortic stenosis associated with functionally univentricular heart
+SNOMED CT,472795006,Acquired subaortic stenosis due to restrictive ventricular septal defect associated with functionally univentricular heart
+SNOMED CT,472796007,Congenital subaortic stenosis due to restrictive ventricular septal defect associated with functionally univentricular heart
+SNOMED CT,472797003,Subaortic stenosis associated with functionally univentricular heart as complication of procedure
+SNOMED CT,472799000,Acquired subpulmonary stenosis associated with functionally univentricular heart
+SNOMED CT,472800001,Acquired subpulmonary stenosis due to restrictive ventricular defect associated with functionally univentricular heart
+SNOMED CT,472801002,Congenital subpulmonary stenosis due to restrictive ventricular defect associated with functionally univentricular heart
+SNOMED CT,472802009,Subpulmonary stenosis associated with functionally univentricular heart as complication of procedure
+SNOMED CT,472809000,Atrioventricular block due to endocarditis
+SNOMED CT,472810005,Arrhythmia due to vegetation of infective endocarditis
+SNOMED CT,472820000,Abnormal ventriculoarterial connection with usual origin of left coronary artery from aortic sinus to right of nonfacing aortic sinus and usual origin of right coronary artery from aortic sinus to left of nonfacing aortic sinus
+SNOMED CT,473006003,Vagal autonomic bradycardia of prematurity
+SNOMED CT,473362006,Congenital stenosis of distal coronary artery
+SNOMED CT,473367000,Pericardial cyst along right cardiophrenic angle
+SNOMED CT,473368005,Pericardial cyst along left cardiophrenic angle
+SNOMED CT,473393007,Congenital occlusion of coronary sinus
+SNOMED CT,473443007,Anomalous origin of right coronary artery
+SNOMED CT,473444001,Anomalous origin of left coronary artery
+SNOMED CT,609302002,Pericardial cyst
+SNOMED CT,609449004,Induced termination of pregnancy complicated by embolism
+SNOMED CT,609457001,Induced termination of pregnancy complicated by air embolism
+SNOMED CT,609458006,Induced termination of pregnancy complicated by amniotic fluid embolism
+SNOMED CT,609459003,Induced termination of pregnancy complicated by blood-clot embolism
+SNOMED CT,609460008,Induced termination of pregnancy complicated by cardiac arrest and/or failure
+SNOMED CT,609465003,Induced termination of pregnancy complicated by fat embolism
+SNOMED CT,609480009,Induced termination of pregnancy complicated by pulmonary embolism
+SNOMED CT,609486003,Induced termination of pregnancy complicated by septic embolism
+SNOMED CT,609489005,Induced termination of pregnancy complicated by soap embolism
+SNOMED CT,609497003,Venous complication of puerperium
+SNOMED CT,609506003,Induced termination of pregnancy complicated by cardiac arrest
+SNOMED CT,609507007,Induced termination of pregnancy complicated by cardiac failure
+SNOMED CT,698249005,Progressive familial heart block
+SNOMED CT,698250005,"Progressive familial heart block, type IB"
+SNOMED CT,698251009,"Progressive familial heart block, type II"
+SNOMED CT,698252002,Non-specific intraventricular conduction delay
+SNOMED CT,698270004,Cardiac arrhythmia associated with genetic disorder
+SNOMED CT,698271000,Cardiac channelopathy
+SNOMED CT,698296002,Acute exacerbation of chronic congestive heart failure
+SNOMED CT,698504006,Postoperative cardiopulmonary failure
+SNOMED CT,698594003,Symptomatic congestive heart failure
+SNOMED CT,698638005,Pregnancy induced hypertension with pulmonary edema
+SNOMED CT,698640000,Hypertension in the puerperium with pulmonary edema
+SNOMED CT,698971006,Congenital subaortic diverticulum
+SNOMED CT,699256006,Timothy syndrome type 1
+SNOMED CT,699748007,Cardiorespiratory arrest with successful resuscitation
+SNOMED CT,703162001,Bradycardic cardiac arrest
+SNOMED CT,703178004,Non-rheumatic pulmonary valve stenosis with regurgitation
+SNOMED CT,703179007,Endocarditis of prosthetic mitral valve
+SNOMED CT,703189006,Endocarditis of prosthetic aortic valve
+SNOMED CT,703190002,Endocarditis of prosthetic tricuspid valve
+SNOMED CT,703191003,Endocarditis of prosthetic pulmonary valve
+SNOMED CT,703236000,Non-rheumatic aortic valve stenosis with regurgitation
+SNOMED CT,703320000,Non-rheumatic mitral valve stenosis with regurgitation
+SNOMED CT,703332001,Pericarditis due to metabolic disease
+SNOMED CT,704667004,Hypertension concurrent and due to end stage renal disease on dialysis
+SNOMED CT,706923002,Longstanding persistent atrial fibrillation
+SNOMED CT,710878005,Mahaim fiber tachycardia
+SNOMED CT,712487000,End stage renal disease due to benign hypertension
+SNOMED CT,712859002,Pericarditis caused by toxin
+SNOMED CT,713318009,Myocarditis co-occurrent with human immunodeficiency virus infection
+SNOMED CT,713419002,Intraoperative cardiorespiratory arrest
+SNOMED CT,715395008,Familial atrial fibrillation
+SNOMED CT,715535009,Naxos disease
+SNOMED CT,715560009,Idiopathic neonatal atrial flutter
+SNOMED CT,715865008,Familial isolated arrhythmogenic right ventricular dysplasia
+SNOMED CT,715971003,Long QT syndrome caused by drug
+SNOMED CT,715987000,Sonoda syndrome
+SNOMED CT,716050002,Cardiac arrest during surgery
+SNOMED CT,716193004,Short stature with valvular heart disease and characteristic facies syndrome
+SNOMED CT,716740009,Thomas syndrome
+SNOMED CT,716773002,Familial idiopathic dilatation of right atrium
+SNOMED CT,717812000,"Congenital cataract, hypertrophic cardiomyopathy, mitochondrial myopathy syndrome"
+SNOMED CT,717840005,Congestive heart failure stage B
+SNOMED CT,717859007,Beemer Ertbruggen syndrome
+SNOMED CT,717943008,"Brain malformation, congenital heart disease, postaxial polydactyly syndrome"
+SNOMED CT,717959008,Cardiac complication of anesthesia during the puerperium
+SNOMED CT,718128009,Congenital dysplasia of cardiac valve
+SNOMED CT,718135001,Isolated right ventricular hypoplasia
+SNOMED CT,718181001,Congenital cardiac diverticulum
+SNOMED CT,718216009,Partial defect of atrioventricular canal
+SNOMED CT,718556007,3C syndrome
+SNOMED CT,718681002,Oro-facial digital syndrome type 11
+SNOMED CT,718713000,Hypertrophic cardiomyopathy with hypotonia and lactic acidosis syndrome
+SNOMED CT,719379001,Microcephalus with cardiac defect and lung malsegmentation syndrome
+SNOMED CT,719395001,Hadziselimovic syndrome
+SNOMED CT,719400000,Lethal faciocardiomelic dysplasia
+SNOMED CT,719451006,Dilated cardiomyopathy with hypergonadotropic hypogonadism syndrome
+SNOMED CT,719456001,Cleft lip and cleft palate with intestinal malrotation and cardiopathy syndrome
+SNOMED CT,719823007,"Ventricular extrasystoles with syncope, perodactyly and Robin sequence syndrome"
+SNOMED CT,719907006,Timothy syndrome atypical type
+SNOMED CT,720448006,Typical atrial flutter
+SNOMED CT,720507006,Chronic atrial and intestinal dysrhythmia
+SNOMED CT,720567008,Bosley Salih Alorainy syndrome
+SNOMED CT,720605009,Cardiac anomaly and heterotaxy syndrome
+SNOMED CT,720606005,Cardiocranial syndrome Pfeiffer type
+SNOMED CT,720610008,Cardiomyopathy and renal anomaly syndrome
+SNOMED CT,720612000,Cardiospondylocarpofacial syndrome
+SNOMED CT,720639008,"Coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability ear anomaly syndrome"
+SNOMED CT,720748007,Cooper Jabs syndrome
+SNOMED CT,720858001,Ehlers-Danlos syndrome cardiac valvular type
+SNOMED CT,721009008,Heart defect and limb shortening syndrome
+SNOMED CT,721010003,Heart-hand syndrome type 2
+SNOMED CT,721013001,Heart-hand syndrome type 3
+SNOMED CT,721014007,Heart-hand syndrome Slovenian type
+SNOMED CT,721015008,Hydrocephalus with endocardial fibroelastosis and cataract syndrome
+SNOMED CT,721073008,Short stature with webbed neck and congenital heart disease syndrome
+SNOMED CT,721976003,Lung agenesis with heart defect and thumb anomaly syndrome
+SNOMED CT,721978002,"Lymphedema, atrial septal defect, facial changes syndrome"
+SNOMED CT,722027009,Kallman syndrome with heart disease
+SNOMED CT,722051004,"Obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome"
+SNOMED CT,722206009,"Pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome"
+SNOMED CT,722461004,Meacham syndrome
+SNOMED CT,723088005,Periendocarditis due to infection
+SNOMED CT,723304001,"Microcephaly, seizure, intellectual disability, heart disease syndrome"
+SNOMED CT,723333000,Faciocardiorenal syndrome
+SNOMED CT,723336008,Fallot complex with intellectual disability and growth delay syndrome
+SNOMED CT,723448007,Polyvalvular heart disease syndrome
+SNOMED CT,723860000,Arrhythmia due to and following acute myocardial infarction
+SNOMED CT,723863003,Myopericarditis
+SNOMED CT,723865005,Infection causing myoendocarditis
+SNOMED CT,723866006,Idiopathic ventricular fibrillation not Brugada type
+SNOMED CT,724066002,Polysyndactyly and cardiac malformation syndrome
+SNOMED CT,724068001,Pericardial and diaphragmatic defect syndrome
+SNOMED CT,724486009,Venous complication of pregnancy
+SNOMED CT,725145002,"Atrial septal defect, atrioventricular conduction defect syndrome"
+SNOMED CT,726083008,Kousseff syndrome
+SNOMED CT,726335002,Common atrioventricular junction
+SNOMED CT,726704006,"Cataract, congenital heart disease, neural tube defect syndrome"
+SNOMED CT,733125004,Acquired complete atrioventricular block
+SNOMED CT,733454004,Long thumb brachydactyly syndrome
+SNOMED CT,733491005,"LAMB (lentigines, atrial myxoma, blue nevi) syndrome"
+SNOMED CT,735682000,Macro re-entrant atrial tachycardia
+SNOMED CT,735683005,Cavotricuspid isthmus dependent macroreentry tachycardia
+SNOMED CT,735684004,Non-cavotricuspid isthmus dependent atrial tachycardia
+SNOMED CT,735685003,Atrioventricular reciprocating tachycardia
+SNOMED CT,735768008,Contusion of heart and hemopericardium
+SNOMED CT,737324009,Embolism due to and following ectopic pregnancy
+SNOMED CT,737325005,Embolism due to and following molar pregnancy
+SNOMED CT,737331008,Disorder of vein following miscarriage
+SNOMED CT,737332001,Disorder of vein following ectopic pregnancy
+SNOMED CT,737333006,Disorder of vein following molar pregnancy
+SNOMED CT,762247006,Preexcited atrial fibrillation
+SNOMED CT,762251008,Double outlet right ventricle with subaortic or doubly committed ventricular septal defect without pulmonary stenosis - ventricular septal defect type
+SNOMED CT,762252001,Common arterial trunk with aortic dominance
+SNOMED CT,762253006,Common arterial trunk with pulmonary dominance and interrupted aortic arch
+SNOMED CT,762254000,Congenital dysplasia of tricuspid valve
+SNOMED CT,762433009,Tetralogy of Fallot with pulmonary atresia and systemic-to-pulmonary collateral artery
+SNOMED CT,762460002,Hemodynamically insignificant ventricular septal defect
+SNOMED CT,762534000,Supraventricular bradyarrhythmia
+SNOMED CT,762539005,Endocarditis of neoaortic valve
+SNOMED CT,762540007,Endocarditis of neopulmonary valve
+SNOMED CT,763066009,"Atrioventricular septal defect, blepharophimosis, radial and anal defect syndrome"
+SNOMED CT,763279007,"Facial dysmorphism, conductive hearing loss, heart defect syndrome"
+SNOMED CT,763747002,Congenital interventricular septum aneurysm
+SNOMED CT,763778003,Larsen-like syndrome B3GAT3 type
+SNOMED CT,763834000,Oro-facial digital syndrome type 12
+SNOMED CT,763835004,Oro-facial digital syndrome type 13
+SNOMED CT,764457005,Ankyrin-B syndrome
+SNOMED CT,764697003,Verloove Vanhorick Brubakk syndrome
+SNOMED CT,764732004,"Microcephalus, cerebellar hypoplasia, cardiac conduction defect syndrome"
+SNOMED CT,764955006,Laubry Pezzi syndrome
+SNOMED CT,765182005,Postpartum pre-eclampsia
+SNOMED CT,766704005,Idiopathic recurrent pericarditis
+SNOMED CT,766881008,"Carney complex, trismus, pseudocamptodactyly syndrome"
+SNOMED CT,766883006,Familial dilated cardiomyopathy with conduction defect due to LMNA mutation
+SNOMED CT,766937004,Hypertension due to gain-of-function mutation in mineralocorticoid receptor
+SNOMED CT,766976003,"Pulmonary valve agenesis, tetralogy of Fallot, absence of ductus arteriosus syndrome"
+SNOMED CT,768552007,Congenital ventricular septal defect
+SNOMED CT,770432008,Ectasia of left atrial appendage
+SNOMED CT,770433003,Ectasia of right atrial appendage
+SNOMED CT,770435005,Familial bicuspid aortic valve
+SNOMED CT,770784003,Sinoatrial node dysfunction and deafness
+SNOMED CT,771179007,"Extrasystoles, short stature, hyperpigmentation, microcephaly syndrome"
+SNOMED CT,773139006,Congenital abnormality of cardiac ventricle
+SNOMED CT,773587008,"X-linked intellectual disability, cardiomegaly, congestive heart failure syndrome"
+SNOMED CT,773749003,Genitopalatocardiac syndrome
+SNOMED CT,780842009,Aortopulmonary coronary arterial course
+SNOMED CT,781159007,Congenital levorotation of heart
+SNOMED CT,782698000,Congenital atresia of coronary ostium
+SNOMED CT,782699008,Congenital stenosis of coronary ostium
+SNOMED CT,783011004,Persistent Eustachian valve
+SNOMED CT,783096008,Subaortic stenosis and short stature syndrome
+SNOMED CT,783738002,"Heart defect, tongue hamartoma, polysyndactyly syndrome"
+SNOMED CT,783773000,Congenital abnormal number of coronary ostia
+SNOMED CT,784353002,"Pulmonary valve agenesis, intact ventricular septum, persistent ductus arteriosus syndrome"
+SNOMED CT,162710004,O/E - collapse -cardiac arrest
+SNOMED CT,169465000,Hypertension induced by oral contraceptive pill
+SNOMED CT,173574009,Acute benign pericarditis
+SNOMED CT,174511002,Acute fibrinous pericarditis
+SNOMED CT,176401009,Acute bloody pericarditis
+SNOMED CT,177291008,Acute effusive pericarditis
+SNOMED CT,180906006,Neonatal cardiac arrest
+SNOMED CT,181869007,Neonatal cardiorespiratory arrest
+SNOMED CT,186875004,Syphilitic endocarditis of mitral valve
+SNOMED CT,186877007,Syphilitic endocarditis of tricuspid valve
+SNOMED CT,186878002,Syphilitic endocarditis of pulmonary valve
+SNOMED CT,187040006,Histoplasma capsulatum with pericarditis
+SNOMED CT,187050007,Histoplasma duboisii with pericarditis
+SNOMED CT,187059008,Histoplasmosis with pericarditis
+SNOMED CT,187195003,Toxoplasma myocarditis
+SNOMED CT,194709000,Acute rheumatic myocarditis
+SNOMED CT,194727002,Non-rheumatic mitral valve stenosis
+SNOMED CT,194732001,Diseases of mitral and aortic valves
+SNOMED CT,194733006,Mitral and aortic stenosis
+SNOMED CT,194734000,Mitral stenosis and aortic insufficiency
+SNOMED CT,194735004,Mitral insufficiency and aortic stenosis
+SNOMED CT,194736003,Mitral and aortic incompetence
+SNOMED CT,194741006,Rheumatic tricuspid stenosis and insufficiency
+SNOMED CT,194750008,Rheumatic myocarditis
+SNOMED CT,194767001,Benign hypertensive heart disease with congestive cardiac failure
+SNOMED CT,194779001,Hypertensive heart and renal disease with (congestive) heart failure
+SNOMED CT,194780003,Hypertensive heart and renal disease with renal failure
+SNOMED CT,194781004,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure
+SNOMED CT,194783001,Malignant secondary renovascular hypertension
+SNOMED CT,194785008,Benign secondary hypertension
+SNOMED CT,194788005,Hypertension secondary to endocrine disorder
+SNOMED CT,194791005,Hypertension secondary to drug
+SNOMED CT,194823009,Acute coronary insufficiency
+SNOMED CT,194862000,Hemopericardium due to and following acute myocardial infarction
+SNOMED CT,194905000,Acute pericarditis caused by human coxsackievirus
+SNOMED CT,194906004,Acute meningococcal pericarditis
+SNOMED CT,194907008,Acute syphilitic pericarditis
+SNOMED CT,194908003,Acute tuberculous pericarditis
+SNOMED CT,194909006,Acute pericarditis secondary to uremia
+SNOMED CT,194910001,Acute gonococcal pericarditis
+SNOMED CT,194916007,Acute pneumococcal pericarditis
+SNOMED CT,194917003,Acute staphylococcal pericarditis
+SNOMED CT,194918008,Acute streptococcal pericarditis
+SNOMED CT,194926000,Acute and subacute infective endocarditis associated with another disorder
+SNOMED CT,194942007,Acute myocarditis associated with another disorder
+SNOMED CT,194943002,Acute aseptic myocarditis of the newborn
+SNOMED CT,194944008,Acute myocarditis - coxsackie
+SNOMED CT,194945009,Acute myocarditis - diphtheritic
+SNOMED CT,194946005,Acute myocarditis - influenzal
+SNOMED CT,194947001,Acute syphilitic myocarditis
+SNOMED CT,194948006,Acute myocarditis - toxoplasmosis
+SNOMED CT,194949003,Acute myocarditis - tuberculous
+SNOMED CT,194950003,Acute myocarditis - meningococcal
+SNOMED CT,194956009,Septic myocarditis - pneumococcal
+SNOMED CT,194957000,Septic myocarditis - staphylococcal
+SNOMED CT,194958005,Septic myocarditis - streptococcal
+SNOMED CT,194964003,Milk spots of pericardium
+SNOMED CT,194965002,Fibrosis of pericardium
+SNOMED CT,194970009,Pericardial effusion - noninflammatory
+SNOMED CT,194978002,Non-rheumatic mitral regurgitation
+SNOMED CT,194983005,"Aortic incompetence, non-rheumatic"
+SNOMED CT,194984004,"Aortic stenosis, non-rheumatic"
+SNOMED CT,194990000,"Tricuspid incompetence, non-rheumatic"
+SNOMED CT,194991001,"Tricuspid stenosis, non-rheumatic"
+SNOMED CT,194992008,Non-rheumatic tricuspid valve stenosis with insufficiency
+SNOMED CT,194995005,"Pulmonary incompetence, non-rheumatic"
+SNOMED CT,194997002,"Pulmonary stenosis, non-rheumatic"
+SNOMED CT,195003002,Disorders of both aortic and tricuspid valves
+SNOMED CT,195004008,Disorders of both mitral and tricuspid valves
+SNOMED CT,195005009,"Combined disorders of mitral, aortic and tricuspid valves"
+SNOMED CT,195033009,Sarcoid heart muscle disease
+SNOMED CT,195039008,Partial atrioventricular block
+SNOMED CT,195042002,Second degree atrioventricular block
+SNOMED CT,195046004,Left main stem bundle branch block
+SNOMED CT,195060002,Ventricular pre-excitation
+SNOMED CT,195069001,Atrial paroxysmal tachycardia
+SNOMED CT,195070000,Paroxysmal atrioventricular tachycardia
+SNOMED CT,195071001,Paroxysmal junctional tachycardia
+SNOMED CT,195072008,Paroxysmal nodal tachycardia
+SNOMED CT,195083004,Ventricular fibrillation and flutter
+SNOMED CT,195105007,Re-entry ventricular arrhythmia
+SNOMED CT,195136004,Rheumatoid myocarditis
+SNOMED CT,198650006,Incomplete miscarriage with embolism
+SNOMED CT,198663000,Complete miscarriage with embolism
+SNOMED CT,198711003,Incomplete legal termination of pregnancy with embolism
+SNOMED CT,198750004,Incomplete illegal termination of pregnancy with embolism
+SNOMED CT,198941007,"Hypertension complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,198942000,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,198944004,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+SNOMED CT,198945003,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+SNOMED CT,198946002,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+SNOMED CT,198947006,"Benign essential hypertension complicating pregnancy, childbirth and the puerperium with postnatal complication"
+SNOMED CT,198949009,"Renal hypertension complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,198951008,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered"
+SNOMED CT,198952001,"Renal hypertension complicating pregnancy, childbirth and the puerperium - delivered with postnatal complication"
+SNOMED CT,198953006,"Renal hypertension complicating pregnancy, childbirth and the puerperium - not delivered"
+SNOMED CT,198965005,Transient hypertension of pregnancy - delivered
+SNOMED CT,198966006,Transient hypertension of pregnancy - delivered with postnatal complication
+SNOMED CT,198967002,Transient hypertension of pregnancy - not delivered
+SNOMED CT,198968007,Transient hypertension of pregnancy with postnatal complication
+SNOMED CT,198983002,Severe pre-eclampsia - delivered
+SNOMED CT,198984008,Severe pre-eclampsia - delivered with postnatal complication
+SNOMED CT,198985009,Severe pre-eclampsia - not delivered
+SNOMED CT,198986005,Severe pre-eclampsia with postnatal complication
+SNOMED CT,198992004,Eclampsia in pregnancy
+SNOMED CT,198997005,Pre-eclampsia or eclampsia with pre-existing hypertension
+SNOMED CT,198999008,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered
+SNOMED CT,199000005,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication
+SNOMED CT,199002002,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered
+SNOMED CT,199003007,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication
+SNOMED CT,199005000,"Pre-existing hypertension complicating pregnancy, childbirth and puerperium"
+SNOMED CT,199006004,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,199007008,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium"
+SNOMED CT,199008003,"Pre-existing secondary hypertension complicating pregnancy, childbirth and puerperium"
+SNOMED CT,199192005,Maternal rubella during pregnancy - baby delivered
+SNOMED CT,199193000,Maternal rubella in the puerperium - baby delivered during current episode of care
+SNOMED CT,199194006,Maternal rubella during pregnancy - baby not yet delivered
+SNOMED CT,199195007,Maternal rubella in the puerperium - baby delivered during previous episode of care
+SNOMED CT,199266007,Congenital cardiovascular disorder during pregnancy - baby delivered
+SNOMED CT,199267003,Congenital cardiovascular disorder in the puerperium - baby delivered during current episode of care
+SNOMED CT,199268008,Congenital cardiovascular disorder during pregnancy - baby not yet delivered
+SNOMED CT,199269000,Congenital cardiovascular disorder in the puerperium - baby delivered during previous episode of care
+SNOMED CT,200054002,Obstetric anesthesia with cardiac complications
+SNOMED CT,200056000,Obstetric anesthesia with cardiac complications - delivered
+SNOMED CT,200057009,Obstetric anesthesia with cardiac complications - delivered with postnatal problem
+SNOMED CT,200058004,Obstetric anesthesia with cardiac complications with antenatal problem
+SNOMED CT,200059007,Obstetric anesthesia with cardiac complications with postnatal problem
+SNOMED CT,200077002,Cardiac complications of anesthesia during labor and delivery
+SNOMED CT,200111005,Maternal hypotension syndrome - delivered
+SNOMED CT,200112003,Maternal hypotension syndrome - delivered with postnatal problem
+SNOMED CT,200113008,Maternal hypotension syndrome with antenatal problem
+SNOMED CT,200114002,Maternal hypotension syndrome with postnatal problem
+SNOMED CT,200204002,Varicose veins of legs in pregnancy and the puerperium
+SNOMED CT,200206000,Varicose veins of legs in pregnancy and the puerperium - delivered
+SNOMED CT,200207009,Varicose veins of legs in pregnancy and the puerperium - delivered with postnatal complication
+SNOMED CT,200208004,Varicose veins of legs in pregnancy and the puerperium with antenatal complication
+SNOMED CT,200209007,Varicose veins of legs in pregnancy and the puerperium with postnatal complication
+SNOMED CT,200215007,Varicose veins of perineum and vulva in pregnancy and the puerperium - delivered
+SNOMED CT,200216008,Varicose veins of perineum and vulva in pregnancy and the puerperium - delivered with postnatal complication
+SNOMED CT,200217004,Varicose veins of perineum and vulva in pregnancy and the puerperium with antenatal complication
+SNOMED CT,200218009,Varicose veins of perineum and vulva in pregnancy and the puerperium with postnatal complication
+SNOMED CT,200222004,Superficial thrombophlebitis in pregnancy and the puerperium
+SNOMED CT,200224003,Superficial thrombophlebitis in pregnancy and the puerperium - delivered
+SNOMED CT,200226001,Superficial thrombophlebitis in pregnancy and the puerperium with antenatal complication
+SNOMED CT,200227005,Superficial thrombophlebitis in pregnancy and the puerperium with postnatal complication
+SNOMED CT,200232006,Antenatal deep vein thrombosis - delivered
+SNOMED CT,200233001,Antenatal deep vein thrombosis with antenatal complication
+SNOMED CT,200237000,Postnatal deep vein thrombosis - delivered with postnatal complication
+SNOMED CT,200238005,Postnatal deep vein thrombosis with postnatal complication
+SNOMED CT,200249004,Hemorrhoids in pregnancy and puerperium
+SNOMED CT,200251000,Hemorrhoids in pregnancy and the puerperium - delivered
+SNOMED CT,200252007,Hemorrhoids in pregnancy and the puerperium - delivered with postnatal complication
+SNOMED CT,200253002,Hemorrhoids in pregnancy and the puerperium with antenatal complication
+SNOMED CT,200254008,Hemorrhoids in pregnancy and the puerperium with postnatal complication
+SNOMED CT,200255009,Hemorrhoids in puerperium
+SNOMED CT,200259003,Cerebral venous thrombosis in pregnancy
+SNOMED CT,200260008,Cerebral venous thrombosis in puerperium
+SNOMED CT,200284000,Obstetric pulmonary embolism
+SNOMED CT,200286003,Obstetric air pulmonary embolism
+SNOMED CT,200288002,Obstetric air pulmonary embolism - delivered
+SNOMED CT,200290001,Obstetric air pulmonary embolism with antenatal complication
+SNOMED CT,200291002,Obstetric air pulmonary embolism with postnatal complication
+SNOMED CT,200294005,Amniotic fluid pulmonary embolism - delivered
+SNOMED CT,200296007,Amniotic fluid pulmonary embolism with antenatal complication
+SNOMED CT,200297003,Amniotic fluid pulmonary embolism with postnatal complication
+SNOMED CT,200299000,Obstetric pulmonary thromboembolism
+SNOMED CT,200301007,Obstetric blood-clot pulmonary embolism - delivered
+SNOMED CT,200303005,Obstetric blood-clot pulmonary embolism with antenatal complication
+SNOMED CT,200304004,Obstetric blood-clot pulmonary embolism with postnatal complication
+SNOMED CT,200308001,Obstetric pyemic and septic pulmonary embolism - delivered
+SNOMED CT,200310004,Obstetric pyemic and septic pulmonary embolism with antenatal complication
+SNOMED CT,200311000,Obstetric pyemic and septic pulmonary embolism with postnatal complication
+SNOMED CT,200330000,Puerperal cerebrovascular disorder - delivered
+SNOMED CT,200331001,Puerperal cerebrovascular disorder - delivered with postnatal complication
+SNOMED CT,200332008,Puerperal cerebrovascular disorder with antenatal complication
+SNOMED CT,200333003,Puerperal cerebrovascular disorder with postnatal complication
+SNOMED CT,204296002,Discordant ventriculoarterial connection
+SNOMED CT,204300001,Incomplete great vessel transposition
+SNOMED CT,204306007,Pentalogy of Fallot
+SNOMED CT,204312002,Ventricular septal defect between left ventricle and right atrium
+SNOMED CT,204317008,Patent foramen ovale
+SNOMED CT,204318003,Persistent ostium secundum
+SNOMED CT,204330009,Common atrioventricular-type ventricular septal defect
+SNOMED CT,204339005,Congenital pulmonary valve abnormality
+SNOMED CT,204342004,Congenital atresia of pulmonary valve
+SNOMED CT,204345002,Congenital fusion of pulmonic cusps
+SNOMED CT,204346001,Congenital fusion of pulmonary valve segment
+SNOMED CT,204352000,Supernumerary pulmonary valve cusps
+SNOMED CT,204354004,Congenital tricuspid atresia and stenosis
+SNOMED CT,204362007,Parachute malformation of mitral valve
+SNOMED CT,204363002,Supernumerary cusps of the mitral valve
+SNOMED CT,204370002,Infundibular pulmonic stenosis
+SNOMED CT,204378009,Congenital coronary aneurysm
+SNOMED CT,204379001,Congenital stenosis of coronary artery
+SNOMED CT,204383001,Congenital complete atrioventricular heart block
+SNOMED CT,204384007,Congenital incomplete atrioventricular heart block
+SNOMED CT,204394002,Congenital anomaly of myocardium
+SNOMED CT,204395001,Congenital aneurysm of heart
+SNOMED CT,204397009,Cor triloculare
+SNOMED CT,204398004,Congenital epicardial cyst
+SNOMED CT,204399007,Hemicardia
+SNOMED CT,204448004,Atresia of pulmonary artery with septal defect
+SNOMED CT,204470001,Single umbilical artery
+SNOMED CT,204589003,Abnormal pericardiopleural communication
+SNOMED CT,205768003,Complete situs inversus with dextrocardia
+SNOMED CT,205834002,Acardia
+SNOMED CT,307632004,Non-proteinuric hypertension of pregnancy
+SNOMED CT,308133005,Varicose veins of legs in pregnancy
+SNOMED CT,308134004,Varicose veins of legs in the puerperium
+SNOMED CT,308135003,Varicose veins of genitalia in puerperium
+SNOMED CT,308136002,Superficial thrombophlebitis in pregnancy
+SNOMED CT,308137006,Superficial thrombophlebitis in the puerperium
+SNOMED CT,308140006,Hemorrhoids in pregnancy
+SNOMED CT,308187004,Varicose veins of vagina in puerperium
+SNOMED CT,309809007,Electromechanical dissociation with successful resuscitation
+SNOMED CT,311830005,Closed heart injury with hemopericardium
+SNOMED CT,311831009,Open heart injury with hemopericardium
+SNOMED CT,312591002,Acute rheumatic heart disease
+SNOMED CT,314116003,Post infarct angina
+SNOMED CT,314208002,Rapid atrial fibrillation
+SNOMED CT,315025001,Refractory angina
+SNOMED CT,315027009,Congenital conduction defect
+SNOMED CT,315615007,Non-rheumatic aortic sclerosis
+SNOMED CT,360473004,Congenital muscular subaortic stenosis
+SNOMED CT,360481003,Common atrioventricular canal
+SNOMED CT,367390009,Hypertension in the obstetric context
+SNOMED CT,370141003,Rheumatic mitral AND aortic valve obstruction
+SNOMED CT,371806006,Progressive angina
+SNOMED CT,371807002,Atypical angina
+SNOMED CT,371808007,Recurrent angina after percutaneous transluminal coronary angioplasty
+SNOMED CT,371809004,Recurrent angina following placement of coronary artery stent
+SNOMED CT,371810009,Recurrent angina after coronary artery bypass graft
+SNOMED CT,371811008,Recurrent angina post rotational atherectomy
+SNOMED CT,371812001,Recurrent angina after directional coronary atherectomy
+SNOMED CT,373131000,Non-restrictive ventricular septal defect
+SNOMED CT,373905003,Jervell and Lange-Nielson syndrome
+SNOMED CT,373945007,Pericardial effusion
+SNOMED CT,391179008,Non-traumatic pneumopericardium
+SNOMED CT,391180006,Traumatic pneumopericardium
+SNOMED CT,395520006,Hydropericardium
+SNOMED CT,210078001,Injury of heart with hemopericardium
+SNOMED CT,213213007,Cardiac arrest as a complication of care
+SNOMED CT,233819005,Stable angina
+SNOMED CT,233821000,New onset angina
+SNOMED CT,233853009,Prosthetic valve endocarditis
+SNOMED CT,233862006,Calcific aortic stenosis - bicuspid valve
+SNOMED CT,233867000,Q fever myocarditis
+SNOMED CT,233868005,Fungal myocarditis
+SNOMED CT,233869002,Parasitic myocarditis
+SNOMED CT,233881003,Acute infective pericarditis
+SNOMED CT,233883000,Bacterial pericarditis
+SNOMED CT,233884006,Q fever pericarditis
+SNOMED CT,233885007,Post-infarction pericarditis
+SNOMED CT,233886008,Chronic infective pericarditis
+SNOMED CT,233887004,Chronic cholesterol pericardial effusion
+SNOMED CT,233888009,Traumatic hemopericardium
+SNOMED CT,233889001,Post-infarction hemopericardium
+SNOMED CT,233890005,Chylopericardium
+SNOMED CT,233891009,Sinoatrial node tachycardia
+SNOMED CT,233892002,Ectopic atrial tachycardia
+SNOMED CT,233893007,Re-entrant atrial tachycardia
+SNOMED CT,233894001,Incessant atrial tachycardia
+SNOMED CT,233895000,Ectopic atrioventricular node tachycardia
+SNOMED CT,233896004,Re-entrant atrioventricular node tachycardia
+SNOMED CT,233897008,Re-entrant atrioventricular tachycardia
+SNOMED CT,233898003,Orthodromic atrioventricular re-entrant tachycardia
+SNOMED CT,233899006,Antidromic atrioventricular re-entrant tachycardia
+SNOMED CT,233900001,Supraventricular tachycardia with functional bundle branch block
+SNOMED CT,233901002,His bundle tachycardia
+SNOMED CT,233902009,Congenital His bundle tachycardia
+SNOMED CT,233903004,Postoperative His bundle tachycardia
+SNOMED CT,233904005,Permanent junctional reciprocating tachycardia
+SNOMED CT,233910005,Lone atrial fibrillation
+SNOMED CT,233911009,Non-rheumatic atrial fibrillation
+SNOMED CT,233913007,Familial sick sinus syndrome
+SNOMED CT,233914001,Postoperative sinus node dysfunction
+SNOMED CT,233915000,Paroxysmal familial ventricular fibrillation
+SNOMED CT,233917008,Atrioventricular block
+SNOMED CT,233918003,Postoperative complete heart block
+SNOMED CT,233919006,Familial isolated complete right bundle branch block
+SNOMED CT,233922008,Concealed accessory pathway
+SNOMED CT,233923003,Unidirectional retrograde accessory pathway
+SNOMED CT,233927002,Cardiac arrest with successful resuscitation
+SNOMED CT,234058009,Varicose veins of genitalia in pregnancy
+SNOMED CT,234132006,Congenital abnormality of great veins and coronary sinus
+SNOMED CT,234172002,Electromechanical dissociation
+SNOMED CT,236529001,"Prune belly syndrome with pulmonic stenosis, intellectual disability and deafness"
+SNOMED CT,236530006,Pulmonic stenosis and congenital nephrosis
+SNOMED CT,237227006,Congenital heart disease in pregnancy
+SNOMED CT,237279007,Transient hypertension of pregnancy
+SNOMED CT,237281009,Moderate proteinuric hypertension of pregnancy
+SNOMED CT,237282002,Impending eclampsia
+SNOMED CT,237286004,Varicose veins of vulva in pregnancy
+SNOMED CT,237342006,Fat embolism - obstetric
+SNOMED CT,237343001,Phlebitis in puerperium
+SNOMED CT,237345008,Varicose veins - obstetric
+SNOMED CT,237346009,Vulval obstetric varicose veins
+SNOMED CT,237347000,Perineal obstetric varicose veins
+SNOMED CT,240298005,Fetal tachycardia
+SNOMED CT,240299002,Fetal bradycardia
+SNOMED CT,250941001,Right ventricular fibromuscular infundibular stenosis
+SNOMED CT,250942008,Right ventricular muscular infundibular stenosis
+SNOMED CT,250983006,Bicuspid doming of aortic cusp
+SNOMED CT,250999000,Rheumatic mitral valve leaflet changes
+SNOMED CT,251092003,Sinus arrest with atrial escape
+SNOMED CT,251093008,Sinus arrest with junctional escape
+SNOMED CT,251094002,Sinus arrest with ventricular escape
+SNOMED CT,251114004,Intermittent second degree atrioventricular block
+SNOMED CT,251120003,Incomplete left bundle branch block
+SNOMED CT,251123001,Complete right bundle branch block
+SNOMED CT,251124007,Incomplete right bundle branch block
+SNOMED CT,251125008,Minor intraventricular conduction defect
+SNOMED CT,251152003,Marked sinus arrhythmia
+SNOMED CT,251155001,Junctional ectopic tachycardia
+SNOMED CT,251161003,Slow ventricular response
+SNOMED CT,251162005,AV-junctional (nodal) bradycardia
+SNOMED CT,251163000,AV junctional (nodal) arrest
+SNOMED CT,251164006,Junctional premature complex
+SNOMED CT,251165007,AV junctional (nodal) tachycardia
+SNOMED CT,251166008,AV nodal re-entry tachycardia
+SNOMED CT,251167004,Aberrant premature complexes
+SNOMED CT,251168009,Supraventricular bigeminy
+SNOMED CT,251170000,Blocked premature atrial contraction
+SNOMED CT,251171001,Multiple atrial premature complexes
+SNOMED CT,251172008,Run of atrial premature complexes
+SNOMED CT,251173003,Atrial bigeminy
+SNOMED CT,251174009,Atrial trigeminy
+SNOMED CT,251175005,Ventricular premature beat
+SNOMED CT,251176006,Multiple ventricular premature contractions
+SNOMED CT,251177002,Run of ventricular premature complexes
+SNOMED CT,251178007,Ventricular interpolated complexes
+SNOMED CT,251179004,Multiple ventricular interpolated complexes
+SNOMED CT,251180001,Ventricular trigeminy
+SNOMED CT,251181002,Ventricular quadrigeminy
+SNOMED CT,251182009,Paired ventricular premature complexes
+SNOMED CT,251183004,Aberrantly conducted complex
+SNOMED CT,251186007,Ventricular escape complex
+SNOMED CT,251187003,Atrial escape complex
+SNOMED CT,251188008,Atrial parasystole
+SNOMED CT,253264007,"Congenital heart disease, septal and bulbar anomalies"
+SNOMED CT,253267000,Congenital abnormality of relationship of cardiac component
+SNOMED CT,253268005,Abnormal relationship of right ventricle to left ventricle
+SNOMED CT,253269002,Criss-cross heart
+SNOMED CT,253270001,Abnormal relationship of aortic orifice to pulmonary orifice
+SNOMED CT,253271002,Mirror-imaged heart
+SNOMED CT,253272009,Congenital abnormality of cardiac connection
+SNOMED CT,253274005,Abnormal atrioventricular connection
+SNOMED CT,253275006,Abnormal atrioventricular connection - biventricular
+SNOMED CT,253276007,Common atrium
+SNOMED CT,253277003,Discordant atrioventricular connection
+SNOMED CT,253278008,Ambiguous atrioventricular connection
+SNOMED CT,253279000,Absent atrioventricular connection with straddling valve
+SNOMED CT,253280002,Abnormal atrioventricular connection - univentricular
+SNOMED CT,253281003,Double inlet ventricle
+SNOMED CT,253282005,Double inlet right ventricle
+SNOMED CT,253283000,Double inlet left ventricle
+SNOMED CT,253284006,Double inlet to ventricle of indeterminate morphology
+SNOMED CT,253285007,Absent right sided atrioventricular connection
+SNOMED CT,253286008,Left sided atrium connecting to left ventricle
+SNOMED CT,253287004,Left sided atrium connecting to right ventricle
+SNOMED CT,253288009,Left sided atrium connecting to both ventricles
+SNOMED CT,253289001,Left sided atrium connecting to ventricle of indeterminate morphology
+SNOMED CT,253290005,Absent left sided atrioventricular connection
+SNOMED CT,253291009,Right sided atrium connecting to right ventricle
+SNOMED CT,253293007,Right sided atrium connecting to both ventricles
+SNOMED CT,253294001,Right sided atrium connecting to ventricle of indeterminate morphology
+SNOMED CT,253295000,Abnormal ventriculoarterial connection
+SNOMED CT,253297008,Transposition of aorta
+SNOMED CT,253298003,Double outlet right ventricle with subaortic ventricular septal defect
+SNOMED CT,253299006,Double outlet right ventricle with noncommitted ventricular septal defect
+SNOMED CT,253300003,Double outlet right ventricle with doubly committed ventricular septal defect
+SNOMED CT,253301004,Double outlet from ventricle of indeterminate morphology
+SNOMED CT,253302006,Single outlet ventriculoarterial connection
+SNOMED CT,253303001,Solitary aortic trunk with pulmonary atresia
+SNOMED CT,253304007,Solitary pulmonary trunk with aortic atresia
+SNOMED CT,253305008,Solitary arterial trunk
+SNOMED CT,253324006,Coronary sinus defect in left atrium
+SNOMED CT,253326008,Coronary sinus orifice atresia
+SNOMED CT,253327004,Congenital coronary sinus stenosis
+SNOMED CT,253333008,Abnormal connection of hepatic vein to atrium
+SNOMED CT,253335001,Isomerism of atrial appendages
+SNOMED CT,253336000,Isomerism of right atrial appendage
+SNOMED CT,253337009,Isomerism of left atrial appendage
+SNOMED CT,253338004,Mirror imaged atria
+SNOMED CT,253341008,Obstructive Eustachian valve
+SNOMED CT,253342001,Prolapse of Eustachian valve
+SNOMED CT,253343006,Anomalous valve of coronary sinus
+SNOMED CT,253345004,Right atrial appendage absent
+SNOMED CT,253346003,Right atrial appendage - left - juxtaposition
+SNOMED CT,253348002,Endocardial fibroelastosis of right atrium
+SNOMED CT,253349005,Right atrial hypoplasia
+SNOMED CT,253353007,Divided left atrium
+SNOMED CT,253354001,Supramitral left atrial ring
+SNOMED CT,253356004,Left atrial appendage absent
+SNOMED CT,253357008,Left atrial appendage - right - juxtaposition
+SNOMED CT,253359006,Endocardial fibroelastosis of left atrium
+SNOMED CT,253360001,Left atrial hypoplasia
+SNOMED CT,253364005,Foramen ovale valvar aneurysm
+SNOMED CT,253371000,Atrial septal defect through coronary sinus orifice
+SNOMED CT,253373002,Atrioventricular septal defect - isolated atrial component
+SNOMED CT,253374008,Congenital abnormality of atrioventricular valves in atrioventricular septal defect
+SNOMED CT,253376005,Tricuspid annulus hypoplasia
+SNOMED CT,253377001,Dilatation of tricuspid annulus
+SNOMED CT,253378006,Overriding tricuspid valve
+SNOMED CT,253379003,Straddling tricuspid valve
+SNOMED CT,253381001,Absent tricuspid leaflet
+SNOMED CT,253382008,Double orifice of tricuspid valve
+SNOMED CT,253384009,Accessory tissue on tricuspid leaflet
+SNOMED CT,253391007,Parachute malformation of tricuspid valve
+SNOMED CT,253392000,Absent tricuspid papillary muscle
+SNOMED CT,253393005,Fused tricuspid papillary muscle
+SNOMED CT,253394004,Hypoplastic tricuspid papillary muscle
+SNOMED CT,253395003,Mitral valve dysplasia
+SNOMED CT,253396002,Mitral leaflet dysplasia
+SNOMED CT,253397006,Overriding mitral valve
+SNOMED CT,253399009,Straddling mitral valve
+SNOMED CT,253403000,Ebstein-like downward displacement of mitral valve
+SNOMED CT,253404006,Anterior leaflet of mitral valve attached to septum
+SNOMED CT,253405007,Accessory tissue on mitral leaflet
+SNOMED CT,253411005,Absent mitral papillary muscle
+SNOMED CT,253412003,Fused mitral papillary muscles
+SNOMED CT,253413008,Hypoplastic mitral papillary muscle
+SNOMED CT,253414002,Atrioventricular septal defect and common atrioventricular junction
+SNOMED CT,253415001,Atrioventricular septal defect - isolated ventricular component
+SNOMED CT,253416000,Atrioventricular septal defect: atrial and ventricular components
+SNOMED CT,253417009,Atrioventricular septal defect - ventricular component
+SNOMED CT,253418004,Atrioventricular septal defect - ventricular component under superior bridging leaflet
+SNOMED CT,253419007,Atrioventricular septal defect with ventricular component under superior bridging leaflet with chords at crest ventricular septum
+SNOMED CT,253420001,Atrioventricular septal defect with ventricular component under superior bridging leaflet with chords to papillary muscle on right ventricular side septum
+SNOMED CT,253421002,Atrioventricular septal defect with ventricular component under free floating superior bridging leaflet and chords to papillary muscle at right ventricular free wall
+SNOMED CT,253422009,Atrioventricular septal defect - ventricular component under inferior bridging leaflet
+SNOMED CT,253423004,Malaligned atrial septum
+SNOMED CT,253425006,Double outlet right atrium
+SNOMED CT,253426007,Double outlet left atrium
+SNOMED CT,253439006,True cleft of common atrioventricular valve leaflet
+SNOMED CT,253441007,Double orifice of common atrioventricular valve
+SNOMED CT,253450009,Parachute malformation of common atrioventricular valve
+SNOMED CT,253451008,Absent common atrioventricular valve papillary muscle
+SNOMED CT,253458002,Right atrioventricular valve hypoplasia
+SNOMED CT,253465005,Absent right atrioventricular valve leaflets
+SNOMED CT,253478005,Congenital abnormality of right atrioventricular valve papillary muscle
+SNOMED CT,253479002,Congenital parachute malformation of right atrioventricular valve
+SNOMED CT,253480004,Congenital absence of right atrioventricular valve papillary muscle
+SNOMED CT,253481000,Congenital fusion of right atrioventricular valve papillary muscles
+SNOMED CT,253482007,Congenital hypoplastic right atrioventricular valve papillary muscle
+SNOMED CT,253483002,Abnormality of left atrioventricular valve in double inlet ventricle
+SNOMED CT,253484008,Left atrioventricular valve atresia
+SNOMED CT,253485009,Imperforate left atrioventricular valve
+SNOMED CT,253486005,Left atrioventricular valve dysplasia
+SNOMED CT,253487001,Left atrioventricular valve hypoplasia
+SNOMED CT,253489003,Overriding left atrioventricular valve
+SNOMED CT,253492004,Straddling left atrioventricular valve
+SNOMED CT,253493009,Left atrioventricular valve leaflet abnormality
+SNOMED CT,253494003,Absent left atrioventricular valve leaflets
+SNOMED CT,253495002,Double orifice of left atrioventricular valve
+SNOMED CT,253497005,Left atrioventricular valve prolapse
+SNOMED CT,253498000,True cleft of left atrioventricular valve leaflet
+SNOMED CT,253499008,Accessory tissue on left atrioventricular valve leaflet
+SNOMED CT,253500004,Left atrioventricular valve leaflet dysplasia
+SNOMED CT,253501000,Abnormality of left atrioventricular valve chordae tendinae
+SNOMED CT,253502007,Left atrioventricular valve chordae too short
+SNOMED CT,253503002,Left atrioventricular valve chordae too long
+SNOMED CT,253504008,Left atrioventricular valve chordae to outlet septum
+SNOMED CT,253505009,Arcade abnormality of left atrioventricular valve chordae
+SNOMED CT,253506005,Congenital abnormality of left atrioventricular valve papillary muscle
+SNOMED CT,253507001,Congenital parachute malformation of left atrioventricular valve
+SNOMED CT,253508006,Congenital absence of left atrioventricular valve papillary muscle
+SNOMED CT,253509003,Congenital fusion of left atrioventricular valve papillary muscles
+SNOMED CT,253510008,Congenital hypoplastic left atrioventricular valve papillary muscle
+SNOMED CT,253511007,Congenital abnormality of ventricles and ventricular septum
+SNOMED CT,253512000,Tetralogy of Fallot with pulmonary stenosis
+SNOMED CT,253513005,Tetralogy of Fallot with pulmonary atresia
+SNOMED CT,253518001,Diffuse hypoplasia of right ventricle
+SNOMED CT,253519009,Hypoplasia of right ventricular inflow tract
+SNOMED CT,253520003,Hypoplasia of right ventricular outflow tract
+SNOMED CT,253521004,Hypoplasia of right ventricular outflow tract and trabecular area
+SNOMED CT,253523001,Primary endocardial fibroelastosis of right ventricle
+SNOMED CT,253524007,Two chambered right ventricle
+SNOMED CT,253525008,Congenital right ventricular diverticulum
+SNOMED CT,253527000,Congenital right ventricular aneurysm
+SNOMED CT,253528005,Arrhythmogenic right ventricular dysplasia
+SNOMED CT,253529002,Right ventricular outflow tract abnormality
+SNOMED CT,253530007,Right ventricular outflow tract obstruction
+SNOMED CT,253531006,Right ventricular outflow obstruction - localized
+SNOMED CT,253532004,Right ventricular outflow obstruction - tubular
+SNOMED CT,253533009,Right ventricular outflow tract atresia
+SNOMED CT,253534003,Right ventricular outflow tract absent
+SNOMED CT,253536001,Left ventricular hypoplasia
+SNOMED CT,253537005,Diffuse hypoplasia of left ventricle
+SNOMED CT,253538000,Hypoplasia of left ventricular inflow tract
+SNOMED CT,253539008,Hypoplasia of left ventricular outflow tract
+SNOMED CT,253540005,Hypoplasia of left ventricular outflow tract and trabecular area
+SNOMED CT,253542002,Abnormal left ventricular muscle band
+SNOMED CT,253543007,Primary endocardial fibroelastosis of left ventricle
+SNOMED CT,253544001,Congenital left ventricular aneurysm
+SNOMED CT,253545000,Left ventricular outflow tract abnormality
+SNOMED CT,253546004,Left ventricular outflow tract obstruction
+SNOMED CT,253547008,Left ventricular outflow tract atresia
+SNOMED CT,253548003,Indeterminate ventricular outflow tract obstruction
+SNOMED CT,253550006,Multiple ventricular septal defects
+SNOMED CT,253551005,Restrictive ventricular septal defect
+SNOMED CT,253552003,Perimembranous ventricular septal defect with extension to right ventricular inlet
+SNOMED CT,253553008,Perimembranous ventricular septal defect with extension to right ventricular trabecular component
+SNOMED CT,253554002,Perimembranous ventricular septal defect with extension to right ventricular outlet
+SNOMED CT,253555001,Perimembranous ventricular septal defect with extension to all right ventricular components
+SNOMED CT,253556000,Ventricular septal defect with malaligned outlet septum to right
+SNOMED CT,253559007,Ventricular septal defect with malaligned outlet septum to left
+SNOMED CT,253562005,Ventricular septal defect with absent outlet septum and overriding truncal valve
+SNOMED CT,253563000,Muscular ventricular septal defect in inlet septum
+SNOMED CT,253564006,Muscular ventricular septal defect in central trabecular septum
+SNOMED CT,253565007,Muscular ventricular septal defect in apical trabecular septum
+SNOMED CT,253566008,Muscular ventricular septal defect in marginal septum
+SNOMED CT,253567004,Muscular ventricular septal defect in outlet septum
+SNOMED CT,253568009,Doubly committed subarterial ventricular septal defect
+SNOMED CT,253569001,Doubly committed subarterial ventricular septal defect with membranous septum extension
+SNOMED CT,253570000,Doubly committed subarterial ventricular septal defect with muscular posterior inferior rim
+SNOMED CT,253571001,Giant ventricular septal defect
+SNOMED CT,253573003,Subpulmonary infundibulum
+SNOMED CT,253574009,Subaortic infundibulum
+SNOMED CT,253575005,Bilateral muscular infundibula
+SNOMED CT,253576006,Bilateral deficient infundibula
+SNOMED CT,253578007,Congenital abnormality of arterial valves
+SNOMED CT,253580001,Truncal valve dysplasia
+SNOMED CT,253584005,Accessory tissue on truncal valve cusp
+SNOMED CT,253585006,Pulmonary valve cusp hypoplasia
+SNOMED CT,253586007,Pulmonary valve ring hypoplasia
+SNOMED CT,253587003,Commissural fusion of pulmonary valve
+SNOMED CT,253588008,Pulmonary valve dysplasia
+SNOMED CT,253591008,Pulmonary atresia with ventricular septal defect
+SNOMED CT,253593006,Imperforate pulmonary valve
+SNOMED CT,253596003,Absent pulmonary valve syndrome
+SNOMED CT,253597007,Accessory tissue on pulmonary valve cusp
+SNOMED CT,253598002,Unicuspid pulmonary valve
+SNOMED CT,253599005,Bicuspid pulmonary valve
+SNOMED CT,253600008,Quadricuspid pulmonary valve
+SNOMED CT,253601007,Aortic valve ring hypoplasia
+SNOMED CT,253602000,Commissural fusion of aortic valve
+SNOMED CT,253603005,Eccentric opening of aortic valve
+SNOMED CT,253607006,Hypoplasia of aortic valve cusp
+SNOMED CT,253608001,Accessory tissue on aortic valve cusp
+SNOMED CT,253609009,Abnormal number of aortic valve cusps
+SNOMED CT,253610004,Unicuspid aortic valve
+SNOMED CT,253611000,Quadricuspid aortic valve
+SNOMED CT,253624000,Pulmonary atresia with confluent pulmonary arteries
+SNOMED CT,253625004,Pulmonary atresia with absent pulmonary artery
+SNOMED CT,253650001,Aorta to right ventricle tunnel
+SNOMED CT,253700001,Variant coronary origin from aortic sinus
+SNOMED CT,253703004,Anomalous origin of coronary artery from non-facing sinus
+SNOMED CT,253704005,Anomalous origin of left anterior descending from right coronary artery
+SNOMED CT,253706007,Anomalous origin of coronary artery from pulmonary arterial tree
+SNOMED CT,253707003,Anomalous origin of coronary artery from right pulmonary artery
+SNOMED CT,253708008,Anomalous origin of coronary artery from left pulmonary artery
+SNOMED CT,253710005,Coronary orifice abnormally high
+SNOMED CT,253711009,Coronary orifice asymmetrical
+SNOMED CT,253712002,Dual coronary orifice
+SNOMED CT,253714001,Abnormal coronary artery course
+SNOMED CT,253715000,Intramural coronary artery course
+SNOMED CT,253716004,Aberrant course of left anterior descending coronary artery from right coronary artery crossing right ventricular outflow tract
+SNOMED CT,253717008,Coronary artery runs between aorta and pulmonary trunk
+SNOMED CT,253718003,Circumflex runs posterior to pulmonary trunk
+SNOMED CT,253719006,Circumflex runs posterior to aorta
+SNOMED CT,253720000,Congenital coronary arteriovenous fistula
+SNOMED CT,253725005,Congenital coronary artery calcification
+SNOMED CT,253728007,Right dominant coronary system
+SNOMED CT,253729004,Left dominant coronary system
+SNOMED CT,253730009,Balanced coronary system
+SNOMED CT,253731008,Partial agenesis of pericardium
+SNOMED CT,253732001,Totally absent pericardium
+SNOMED CT,253733006,Pleuropericardial cyst
+SNOMED CT,253734000,Pericardial diverticulum
+SNOMED CT,34694006,Pre-existing hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,35303009,Benign essential hypertension complicating AND/OR reason for care during puerperium
+SNOMED CT,35577008,Holoacardius acephalus
+SNOMED CT,35928006,Nocturnal angina
+SNOMED CT,36078000,Perinatal pneumopericardium
+SNOMED CT,36079008,Double cardiac valve orifice
+SNOMED CT,36083008,Sick sinus syndrome
+SNOMED CT,36133000,Abnormal position of cardiac valve
+SNOMED CT,36221001,Benign hypertensive heart disease
+SNOMED CT,36233006,Congenital stenosis of tricuspid valve
+SNOMED CT,36315003,Malignant hypertensive heart disease without congestive heart failure
+SNOMED CT,37104009,Congenital enlargement of coronary sinus
+SNOMED CT,37139009,Varicose veins of vulva AND/OR perineum complicating pregnancy AND/OR puerperium
+SNOMED CT,37217002,Coxsackie myocarditis
+SNOMED CT,37278001,Pericarditis secondary to non-penetrating trauma
+SNOMED CT,37618003,Chronic hypertension complicating AND/OR reason for care during pregnancy
+SNOMED CT,37639005,Anomalous pulmonary venous drainage to right atrium
+SNOMED CT,37715009,Adhesive pericarditis
+SNOMED CT,37760005,Left anterior fascicular block
+SNOMED CT,37787009,Legal termination of pregnancy with blood-clot embolism
+SNOMED CT,37925008,Interstitial myocarditis
+SNOMED CT,38566003,"Right bundle branch block, anterior fascicular block AND incomplete left bundle branch block"
+SNOMED CT,38905006,Illegal termination of pregnancy with amniotic fluid embolism
+SNOMED CT,39018007,Renal arterial hypertension
+SNOMED CT,39097001,Post-traumatic pericarditis
+SNOMED CT,39244004,Pericarditis secondary to myxedema
+SNOMED CT,39357005,Paroxysmal atrial tachycardia with block
+SNOMED CT,39589002,Hypoplasia of right heart
+SNOMED CT,39727004,Hypertension secondary to renal disease complicating AND/OR reason for care during puerperium
+SNOMED CT,40023000,Rheumatic mitral valve failure
+SNOMED CT,40193008,Single vessel of umbilical cord
+SNOMED CT,40272001,Congenital absence of coronary sinus
+SNOMED CT,40312006,Pericarditis secondary to tumor metastatic to pericardium
+SNOMED CT,40593004,Fibrillation
+SNOMED CT,40959008,Acute viral pericarditis
+SNOMED CT,41049003,Holoacardius amorphus
+SNOMED CT,41114007,Mild pre-eclampsia
+SNOMED CT,41334000,"Angina, class II"
+SNOMED CT,41514002,Congenital supravalvular mitral stenosis
+SNOMED CT,41739008,Infectious pericarditis
+SNOMED CT,41863008,"Right bundle branch block, anterior fascicular block AND incomplete posterior fascicular block"
+SNOMED CT,41893002,Left ventricular-right atrial communication
+SNOMED CT,41991004,Angiectasis pregnancy
+SNOMED CT,42653000,Calcification of pericardium
+SNOMED CT,42999000,Chronic adhesive pericarditis
+SNOMED CT,43121002,Rheumatic heart valve regurgitation
+SNOMED CT,43176009,Congenital hypoplasia of tricuspid valve
+SNOMED CT,43306002,Miscarriage complicated by embolism
+SNOMED CT,43736008,Rheumatic left ventricular failure
+SNOMED CT,43742007,Pericarditis associated with severe chronic anemia
+SNOMED CT,43906007,Right bundle branch block AND incomplete left bundle branch block
+SNOMED CT,44101005,Illegal termination of pregnancy with air embolism
+SNOMED CT,44103008,Ventricular arrhythmia
+SNOMED CT,44595001,Mycotic pericarditis
+SNOMED CT,44602002,Persistent sinus bradycardia
+SNOMED CT,44622003,Congenital hypoplasia of umbilical artery
+SNOMED CT,44918005,Varicose veins complicating pregnancy AND/OR puerperium
+SNOMED CT,44993000,Rheumatic mitral valve and aortic valve stenosis
+SNOMED CT,45093008,Chronic interstitial myocarditis
+SNOMED CT,45304001,Pericarditis caused by deposits of cholesterol
+SNOMED CT,45503006,Common ventricle
+SNOMED CT,46113002,Hypertensive heart failure
+SNOMED CT,46165000,Chronic rheumatic endocarditis
+SNOMED CT,46220003,Tic-tac rhythm
+SNOMED CT,46619002,Congenital heart block
+SNOMED CT,46676000,Pericarditis secondary to benign primary tumor
+SNOMED CT,46764007,Severe pre-eclampsia
+SNOMED CT,46935006,Stokes-Adams syndrome
+SNOMED CT,47292005,Tuberculosis of myocardium
+SNOMED CT,47780009,Superficial thrombophlebitis complicating pregnancy AND/OR puerperium
+SNOMED CT,47830009,Junctional escape beats
+SNOMED CT,48121000,Congenital cardiomegaly
+SNOMED CT,48228003,Subacute periendocarditis
+SNOMED CT,48520006,Congenital atresia of cardiac vein
+SNOMED CT,48552006,Hypertension secondary to renal disease complicating AND/OR reason for care during pregnancy
+SNOMED CT,48872007,Rheumatic endocarditis
+SNOMED CT,49044005,Severe sinus bradycardia
+SNOMED CT,49102001,Hypertensive heart AND renal disease in obstetric context
+SNOMED CT,49260003,Idioventricular rhythm
+SNOMED CT,49436004,Atrial fibrillation
+SNOMED CT,49584005,Acute cor pulmonale
+SNOMED CT,49710005,Sinus bradycardia
+SNOMED CT,49956009,Antepartum deep vein thrombosis
+SNOMED CT,49982000,Multifocal atrial tachycardia
+SNOMED CT,50799005,Atrioventricular dissociation
+SNOMED CT,50902000,Acute pneumopericarditis
+SNOMED CT,51096002,Legal termination of pregnancy with pulmonary embolism
+SNOMED CT,51442005,Congenital atresia of aortic valve
+SNOMED CT,51789008,Congenital malposition of cardiac apex
+SNOMED CT,52048004,Rheumatic pulmonary valve failure
+SNOMED CT,52535005,Chronic constrictive pericarditis
+SNOMED CT,53874003,Acute periendocarditis
+SNOMED CT,54073003,Monocuspid cardiac valve
+SNOMED CT,54225002,Malignant hypertensive heart disease
+SNOMED CT,54529009,Illegal termination of pregnancy with cardiac arrest AND/OR failure
+SNOMED CT,55043004,Procainamide-induced pericarditis
+SNOMED CT,55087008,Myocarditis due to chemical agent
+SNOMED CT,55482007,Isolated diffuse granulomatous myocarditis
+SNOMED CT,55510008,Cor triatriatum
+SNOMED CT,55546004,Anomalous origin of left circumflex artery from right coronary artery
+SNOMED CT,55565007,Cardiac failure after obstetrical surgery AND/OR other procedure including delivery
+SNOMED CT,55589000,Illegal termination of pregnancy with pulmonary embolism
+SNOMED CT,55879006,Pericarditis secondary to malignant primary tumor
+SNOMED CT,55976003,Miscarriage with blood-clot embolism
+SNOMED CT,56272000,Deep venous thrombosis in puerperium
+SNOMED CT,56309007,Congenital subaortic stenosis of tunnel type
+SNOMED CT,56501009,Rheumatic adherent pericardium
+SNOMED CT,57231008,Acute pericardial effusion
+SNOMED CT,57684003,Parenchymal renal hypertension
+SNOMED CT,57734001,Legal termination of pregnancy complicated by embolism
+SNOMED CT,57803009,Rheumatic chorea with heart involvement
+SNOMED CT,58474006,Pericarditis secondary to collagen vascular disease
+SNOMED CT,58600007,Postpericardiotomy pericarditis
+SNOMED CT,59021001,Angina decubitus
+SNOMED CT,59118001,Right bundle branch block
+SNOMED CT,59204004,Miscarriage with septic embolism
+SNOMED CT,59272004,Ventricular parasystole
+SNOMED CT,59464004,Rheumatic mitral AND aortic valve regurgitation
+SNOMED CT,59554006,Holoacardius acormus
+SNOMED CT,59733002,Hypertensive heart disease complicating AND/OR reason for care during childbirth
+SNOMED CT,60106004,Common arterial trunk and separate origin of pulmonary arteries
+SNOMED CT,60232001,Cleft leaflet of tricuspid valve
+SNOMED CT,60254004,Fistula of pericardium
+SNOMED CT,60265009,Miscarriage with air embolism
+SNOMED CT,60357009,Pericarditis sicca
+SNOMED CT,60423000,Sinus node dysfunction
+SNOMED CT,60601008,Obstetrical blood clot embolism
+SNOMED CT,60732002,"Atrial septal defect with endocardial cushion defect, partial type"
+SNOMED CT,60812006,Giant cell myocarditis
+SNOMED CT,60899001,Hypertensive heart disease without congestive heart failure
+SNOMED CT,61012002,Chronic rheumatic myocarditis
+SNOMED CT,61277005,Accelerated idioventricular rhythm
+SNOMED CT,61490001,"Angina, class I"
+SNOMED CT,61558009,Hydralazine-induced pericarditis
+SNOMED CT,61575003,Pericarditis secondary to aortic aneurysm
+SNOMED CT,61959006,Common arterial trunk (truncus arteriosus)
+SNOMED CT,62023000,Arterial anomaly of umbilical cord
+SNOMED CT,62026008,Left posterior fascicular block
+SNOMED CT,62067003,Hypoplastic left heart syndrome
+SNOMED CT,62377009,Peripartum cardiomyopathy in puerperium
+SNOMED CT,62583006,Phlegmasia alba dolens in puerperium
+SNOMED CT,62657007,Cardiac arrest AND/OR failure following anesthesia AND/OR sedation in labor AND/OR delivery
+SNOMED CT,63040001,Hemorrhoids complicating pregnancy AND/OR puerperium
+SNOMED CT,63042009,Congenital atresia of tricuspid valve
+SNOMED CT,63232000,Multifocal premature beats
+SNOMED CT,63287004,Benign essential hypertension in obstetric context
+SNOMED CT,63462008,Mumps myocarditis
+SNOMED CT,63467002,Left bundle branch block
+SNOMED CT,63593006,Supraventricular premature beats
+SNOMED CT,63795001,Thrombosis of intracranial venous sinus of pregnancy AND/OR puerperium
+SNOMED CT,64043005,Bacterial myocarditis
+SNOMED CT,64072006,Acute rheumatic pancarditis
+SNOMED CT,64171002,Obstetrical cardiac complication of anesthesia AND/OR sedation
+SNOMED CT,64190005,Rubella myocarditis
+SNOMED CT,64420008,Postcardiac injury pericarditis
+SNOMED CT,64862009,Congenital rhabdomyoma of heart
+SNOMED CT,65402008,Pre-existing hypertension complicating AND/OR reason for care during pregnancy
+SNOMED CT,65447009,Pericarditis due to infectious mononucleosis
+SNOMED CT,65718001,Adenoviral myocarditis
+SNOMED CT,65778007,Sinoatrial block
+SNOMED CT,66052004,Benign hypertensive heart AND renal disease
+SNOMED CT,66131005,Miscarriage with fat embolism
+SNOMED CT,66568003,"Right bundle branch block, posterior fascicular block AND incomplete anterior fascicular block"
+SNOMED CT,66610008,Malignant hypertensive heart AND renal disease
+SNOMED CT,66657009,Paroxysmal ventricular tachycardia
+SNOMED CT,66704002,Meningococcal pericarditis
+SNOMED CT,66989003,Chronic right-sided congestive heart failure
+SNOMED CT,67198005,Paroxysmal supraventricular tachycardia
+SNOMED CT,67256000,Tuberculosis of pericardium
+SNOMED CT,67278007,Congenital stenosis of pulmonary valve
+SNOMED CT,67359005,Pre-eclampsia added to pre-existing hypertension
+SNOMED CT,67486009,Pelvic thrombophlebitis in puerperium
+SNOMED CT,67696008,Rheumatic tricuspid valve regurgitation
+SNOMED CT,69589006,Subacute myoendocarditis
+SNOMED CT,69730002,Idiojunctional tachycardia
+SNOMED CT,69909000,Eclampsia added to pre-existing hypertension
+SNOMED CT,70189005,Viral pericarditis
+SNOMED CT,70272006,Malignant hypertension
+SNOMED CT,71023004,Pericarditis secondary to acute myocardial infarction
+SNOMED CT,71362000,Illegal termination of pregnancy with septic embolism
+SNOMED CT,71792006,Nodal rhythm disorder
+SNOMED CT,71799002,Rheumatic mitral valve stenosis AND aortic valve insufficiency
+SNOMED CT,71874008,Benign essential hypertension complicating AND/OR reason for care during childbirth
+SNOMED CT,71908006,Ventricular fibrillation
+SNOMED CT,72011007,Rheumatic aortic stenosis
+SNOMED CT,72022006,Essential hypertension in obstetric context
+SNOMED CT,72252007,Congenital hypoplasia of cardiac vein
+SNOMED CT,72352009,Bicuspid aortic valve
+SNOMED CT,72527006,Myocarditis due to drug
+SNOMED CT,72654001,Supraventricular arrhythmia
+SNOMED CT,73410007,Benign secondary renovascular hypertension
+SNOMED CT,73459006,"Right branch block, incomplete anterior fascicular block AND incomplete posterior fascicular block"
+SNOMED CT,73660006,Congenital subaortic stenosis
+SNOMED CT,73699003,Common arterial trunk and common origin of pulmonary arteries
+SNOMED CT,74021003,Bifascicular block
+SNOMED CT,74034002,Isolated dextrocardia
+SNOMED CT,74218008,Coronary artery arising from main pulmonary artery
+SNOMED CT,74381009,Familial pericarditis
+SNOMED CT,74451002,Secondary diastolic hypertension
+SNOMED CT,74615001,Tachycardia-bradycardia
+SNOMED CT,74918002,Measles myocarditis
+SNOMED CT,74960003,Acute left-sided congestive heart failure
+SNOMED CT,75270000,Congenital diverticulum of left ventricle
+SNOMED CT,75372006,Congenital anomaly of mitral valve
+SNOMED CT,75398000,Anomalous origin of coronary artery
+SNOMED CT,75532003,Ventricular escape beat
+SNOMED CT,75825001,Legal termination of pregnancy with fat embolism
+SNOMED CT,76257003,Bicuspid cardiac valve
+SNOMED CT,76534005,Myocarditis due to acquired toxoplasmosis
+SNOMED CT,76541004,Pericarditis secondary to chylopericardium
+SNOMED CT,76887001,"Anterior fascicular block, posterior fascicular block AND incomplete right bundle branch block"
+SNOMED CT,77221000,Incomplete atrioventricular block with atrioventricular response
+SNOMED CT,77278008,Velamentous insertion of umbilical cord
+SNOMED CT,77696009,Double aortic valve
+SNOMED CT,77970009,Benign hypertensive heart disease without congestive heart failure
+SNOMED CT,78031003,Rheumatic aortic regurgitation
+SNOMED CT,78046005,Myocarditis due to influenza virus
+SNOMED CT,78069008,Chronic rheumatic pericarditis
+SNOMED CT,78196008,Double mitral valve
+SNOMED CT,78240009,Cardiac arrest due to pacemaker failure
+SNOMED CT,78250005,Ectopia cordis
+SNOMED CT,78320000,Quadricuspid cardiac valve
+SNOMED CT,78381004,"Heart disease in mother complicating pregnancy, childbirth AND/OR puerperium"
+SNOMED CT,78485007,Acyanotic congenital heart disease
+SNOMED CT,78495000,Cleft leaflet of mitral valve
+SNOMED CT,78643003,Postcardiotomy syndrome
+SNOMED CT,78808002,Essential hypertension complicating AND/OR reason for care during pregnancy
+SNOMED CT,78975002,Malignant essential hypertension
+SNOMED CT,79096004,Myocarditis due to physical agent
+SNOMED CT,79355007,Hypertensive heart disease in obstetric context
+SNOMED CT,79955004,Chronic cardiopulmonary disease
+SNOMED CT,80119007,Pericarditis secondary to uremia
+SNOMED CT,80479009,Acute right-sided congestive heart failure
+SNOMED CT,397829000,Asystole
+SNOMED CT,397830005,Pericardial anomaly
+SNOMED CT,397894003,Congenital pericardial defect
+SNOMED CT,398078006,Pericardial defect
+SNOMED CT,398147005,Abnormal communication between pericardial sac and pleura
+SNOMED CT,398254007,Toxemia of pregnancy
+SNOMED CT,399046008,L - transposition of the great vessels
+SNOMED CT,399216004,D - transposition of the great vessels
+SNOMED CT,399228007,Tetralogy of Fallot with absent pulmonary valve
+SNOMED CT,402836009,Spider telangiectasis in association with pregnancy
+SNOMED CT,405546008,Malignant pericardial effusion
+SNOMED CT,405752007,Congenital atrial septal defect
+SNOMED CT,406461004,Ectopic atrial beats
+SNOMED CT,410430005,Cardiorespiratory arrest
+SNOMED CT,412787009,"Intellectual disability, congenital heart disease, blepharophimosis, blepharoptosis and hypoplastic teeth"
+SNOMED CT,413341007,Neonatal bradycardia
+SNOMED CT,413342000,Neonatal tachycardia
+SNOMED CT,413844008,Chronic myocardial ischemia
+SNOMED CT,413905004,Congenital absence of heart structure
+SNOMED CT,413933004,Coxsackie myocarditis of newborn
+SNOMED CT,415810004,Umbilical vein varix
+SNOMED CT,417426005,Four vessels in umbilical cord
+SNOMED CT,418341009,Atrioventricular conduction disorder
+SNOMED CT,418493005,Right atrial incisional tachycardia
+SNOMED CT,418818005,Brugada syndrome
+SNOMED CT,419400008,Incisional tachycardia
+SNOMED CT,419671004,Catecholaminergic polymorphic ventricular tachycardia
+SNOMED CT,419752005,Sinoatrial nodal reentrant tachycardia
+SNOMED CT,420002000,Left atrial incisional tachycardia
+SNOMED CT,420395004,Acute endocarditis with AIDS (acquired immunodeficiency syndrome)
+SNOMED CT,421869004,Bradyarrhythmia
+SNOMED CT,422970001,Cardiac arrest due to trauma
+SNOMED CT,423168004,Cardiac arrest due to respiratory disorder
+SNOMED CT,423191000,Cardiac arrest due to cardiac disorder
+SNOMED CT,424045003,Myocardial bridge of coronary artery
+SNOMED CT,424571008,Cardiac arrest due to drowning
+SNOMED CT,425582007,Inappropriate sinus tachycardia
+SNOMED CT,425615007,Chronic atrial flutter
+SNOMED CT,426263006,Congestive heart failure due to left ventricular systolic dysfunction
+SNOMED CT,426611007,Congestive heart failure due to valvular disease
+SNOMED CT,426749004,Chronic atrial fibrillation
+SNOMED CT,427372006,Eosinophilic myocarditis
+SNOMED CT,427443009,Lymphocytic myocarditis
+SNOMED CT,427665004,Paroxysmal atrial flutter
+SNOMED CT,427889009,Hypertension associated with transplantation
+SNOMED CT,428163005,Hypertensive left ventricular hypertrophy
+SNOMED CT,428575007,Hypertension secondary to kidney transplant
+SNOMED CT,429243003,Sustained ventricular fibrillation
+SNOMED CT,429347004,Rheumatic aortic valve sclerosis
+SNOMED CT,429559004,Typical angina
+SNOMED CT,440028005,Permanent atrial fibrillation
+SNOMED CT,440059007,Persistent atrial fibrillation
+SNOMED CT,442559009,Bundle branch reentrant ventricular tachycardia
+SNOMED CT,442946007,Acquired long QT syndrome
+SNOMED CT,443379009,Functional single ventricle
+SNOMED CT,443478002,Heart block due to drug
+SNOMED CT,443482000,Hypertensive urgency
+SNOMED CT,254826008,Benign mesothelioma of pericardium
+SNOMED CT,261195002,Circulatory arrest
+SNOMED CT,263944006,Anterolateral muscle band
+SNOMED CT,263961009,Bilateral isomeric atria
+SNOMED CT,264086008,Malaligned outlet septum
+SNOMED CT,264162009,Posteromedial muscle band
+SNOMED CT,264467005,False tendon - heart
+SNOMED CT,264571006,Septoparietal trabeculations
+SNOMED CT,266235007,Acute idiopathic pericarditis
+SNOMED CT,266237004,Acute and subacute bacterial endocarditis
+SNOMED CT,266238009,Isolated (Fiedler's) myocarditis
+SNOMED CT,267207004,"Congenital cardiovascular disorders during pregnancy, childbirth and the puerperium"
+SNOMED CT,267280004,Venous complication of pregnancy and/or puerperium
+SNOMED CT,267282007,Varicose veins of perineum and vulva in pregnancy and the puerperium
+SNOMED CT,267283002,Superficial thrombophlebitis in pregnancy and the puerperium - delivered with postnatal complication
+SNOMED CT,267284008,Obstetric pyemic and septic pulmonary embolism
+SNOMED CT,268174004,Bulbus cordis and cardiac septal closure anomalies
+SNOMED CT,268180007,Right hypoplastic heart syndrome
+SNOMED CT,270492004,First degree atrioventricular block
+SNOMED CT,270510008,Anomalous communication of coronary artery
+SNOMED CT,274119009,Rubella in pregnancy
+SNOMED CT,274947007,Divided right atrium
+SNOMED CT,275434003,Stroke in the puerperium
+SNOMED CT,275513007,Viral pericarditis - virus unidentified
+SNOMED CT,275516004,Cardiomegaly due to hypertension
+SNOMED CT,276512006,Fetal dysrhythmia
+SNOMED CT,276513001,Neonatal dysrhythmia
+SNOMED CT,276796006,Atrial tachycardia
+SNOMED CT,278480000,Syphilitic endocarditis of aortic valve
+SNOMED CT,278482008,Atrioventricular tachycardia
+SNOMED CT,278536002,Post-pericardiotomy syndrome
+SNOMED CT,282825002,Paroxysmal atrial fibrillation
+SNOMED CT,284470004,Premature atrial contraction
+SNOMED CT,285830009,Injury of pericardium
+SNOMED CT,286947004,Chronic rheumatic mitral valvulitis
+SNOMED CT,286950001,Chronic rheumatic aortic valve disease
+SNOMED CT,287057009,Atrial premature complex
+SNOMED CT,288250001,Maternal hypertension
+SNOMED CT,300995000,Exercise-induced angina
+SNOMED CT,300996004,Controlled atrial fibrillation
+SNOMED CT,300997008,Asymptomatic sinoatrial node dysfunction
+SNOMED CT,302943003,Abnormal number of pulmonary valve cusps
+SNOMED CT,302945005,Absent blood vessel in umbilical cord
+SNOMED CT,1010405004,Paroxysmal atrial fibrillation with rapid ventricular response
+SNOMED CT,1010443001,Legal abortion complicated by cardiac arrest
+SNOMED CT,1010444007,Legal abortion complicated by cardiac failure
+SNOMED CT,1010446009,Illegal abortion complicated by cardiac arrest
+SNOMED CT,1010447000,Illegal abortion complicated by cardiac failure
+SNOMED CT,1052287002,Gonococcal myocarditis
+SNOMED CT,15960341000119104,Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart
+SNOMED CT,15960461000119105,Unstable angina due to arteriosclerosis of autologous arterial coronary artery bypass graft
+SNOMED CT,15964661000119102,Acute cor pulmonale due to septic pulmonary embolism
+SNOMED CT,876846006,Congenital absence of chordae tendineae of tricuspid valve
+SNOMED CT,880012008,Myocarditis due to Kawasaki disease
+SNOMED CT,890220003,Bicuspid aortic valve-associated aortopathy
+SNOMED CT,890393009,Congenital prolapse of mitral valve
+SNOMED CT,890402009,Congenital abnormality of truncal valve
+SNOMED CT,1222539006,Three consecutive ventricular premature complexes
+SNOMED CT,1220643007,Regular wide QRS complex tachycardia

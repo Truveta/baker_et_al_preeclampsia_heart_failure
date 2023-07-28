@@ -1,0 +1,10 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,O99.84,"Bariatric surgery status complicating pregnancy, childbirth and the puerperium"
+ICD10CM,O99.840,"Bariatric surgery status complicating pregnancy, unspecified trimester"
+ICD10CM,O99.841,"Bariatric surgery status complicating pregnancy, first trimester"
+ICD10CM,O99.842,"Bariatric surgery status complicating pregnancy, second trimester"
+ICD10CM,O99.843,"Bariatric surgery status complicating pregnancy, third trimester"
+ICD10CM,O99.844,Bariatric surgery status complicating childbirth
+ICD10CM,O99.845,Bariatric surgery status complicating the puerperium
+SNOMED CT,100841000119109,Previous bariatric surgery complicating pregnancy
+ICD9CM,649.2,"Bariatric surgery status complicating pregnancy, childbirth, or the puerperium"

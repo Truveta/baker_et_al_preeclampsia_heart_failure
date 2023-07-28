@@ -1,0 +1,74 @@
+CodeSystem,ConceptCode,ConceptName
+SNOMED CT,15938005,Eclampsia
+SNOMED CT,736992003,Nephropathy following pre-eclampsia
+SNOMED CT,736993008,Nephropathy following eclampsia
+SNOMED CT,765182005,Postpartum pre-eclampsia
+SNOMED CT,198983002,Severe pre-eclampsia - delivered
+SNOMED CT,198984008,Severe pre-eclampsia - delivered with postnatal complication
+SNOMED CT,198985009,Severe pre-eclampsia - not delivered
+SNOMED CT,198986005,Severe pre-eclampsia with postnatal complication
+SNOMED CT,198990007,Eclampsia - delivered
+SNOMED CT,198991006,Eclampsia - delivered with postnatal complication
+SNOMED CT,198992004,Eclampsia in pregnancy
+SNOMED CT,198993009,Eclampsia with postnatal complication
+SNOMED CT,198997005,Pre-eclampsia or eclampsia with pre-existing hypertension
+SNOMED CT,198999008,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered
+SNOMED CT,199000005,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication
+SNOMED CT,199002002,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered
+SNOMED CT,199003007,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication
+SNOMED CT,303063000,Eclampsia in puerperium
+SNOMED CT,237281009,Moderate proteinuric hypertension of pregnancy
+SNOMED CT,237282002,Impending eclampsia
+SNOMED CT,237283007,Eclampsia in labor
+SNOMED CT,41114007,Mild pre-eclampsia
+SNOMED CT,46764007,Severe pre-eclampsia
+SNOMED CT,67359005,Pre-eclampsia added to pre-existing hypertension
+SNOMED CT,69909000,Eclampsia added to pre-existing hypertension
+SNOMED CT,398254007,Toxemia of pregnancy
+SNOMED CT,1003729000,Fetal disorder due to maternal pre-eclampsia
+SNOMED CT,10752641000119102,Eclampsia with pre-existing hypertension in childbirth
+SNOMED CT,95605009,Hemolysis-elevated liver enzymes-low platelet count syndrome
+ICD10CM,O11,Pre-existing hypertension with pre-eclampsia
+ICD10CM,O14,Pre-eclampsia
+ICD10CM,O15,Eclampsia
+ICD10CM,O11.1,"Pre-existing hypertension with pre-eclampsia, first trimester"
+ICD10CM,O11.2,"Pre-existing hypertension with pre-eclampsia, second trimester"
+ICD10CM,O11.3,"Pre-existing hypertension with pre-eclampsia, third trimester"
+ICD10CM,O11.4,"Pre-existing hypertension with pre-eclampsia, complicating childbirth"
+ICD10CM,O11.5,"Pre-existing hypertension with pre-eclampsia, complicating the puerperium"
+ICD10CM,O11.9,"Pre-existing hypertension with pre-eclampsia, unspecified trimester"
+ICD10CM,O14.0,Mild to moderate pre-eclampsia
+ICD10CM,O14.00,"Mild to moderate pre-eclampsia, unspecified trimester"
+ICD10CM,O14.02,"Mild to moderate pre-eclampsia, second trimester"
+ICD10CM,O14.03,"Mild to moderate pre-eclampsia, third trimester"
+ICD10CM,O14.04,"Mild to moderate pre-eclampsia, complicating childbirth"
+ICD10CM,O14.05,"Mild to moderate pre-eclampsia, complicating the puerperium"
+ICD10CM,O14.1,Severe pre-eclampsia
+ICD10CM,O14.10,"Severe pre-eclampsia, unspecified trimester"
+ICD10CM,O14.12,"Severe pre-eclampsia, second trimester"
+ICD10CM,O14.13,"Severe pre-eclampsia, third trimester"
+ICD10CM,O14.14,Severe pre-eclampsia complicating childbirth
+ICD10CM,O14.15,"Severe pre-eclampsia, complicating the puerperium"
+ICD10CM,O14.2,HELLP syndrome
+ICD10CM,O14.20,"HELLP syndrome (HELLP), unspecified trimester"
+ICD10CM,O14.22,"HELLP syndrome (HELLP), second trimester"
+ICD10CM,O14.23,"HELLP syndrome (HELLP), third trimester"
+ICD10CM,O14.24,"HELLP syndrome, complicating childbirth"
+ICD10CM,O14.25,"HELLP syndrome, complicating the puerperium"
+ICD10CM,O14.9,Unspecified pre-eclampsia
+ICD10CM,O14.90,"Unspecified pre-eclampsia, unspecified trimester"
+ICD10CM,O14.92,"Unspecified pre-eclampsia, second trimester"
+ICD10CM,O14.93,"Unspecified pre-eclampsia, third trimester"
+ICD10CM,O14.94,"Unspecified pre-eclampsia, complicating childbirth"
+ICD10CM,O14.95,"Unspecified pre-eclampsia, complicating the puerperium"
+ICD10CM,O15.0,Eclampsia complicating pregnancy
+ICD10CM,O15.00,"Eclampsia complicating pregnancy, unspecified trimester"
+ICD10CM,O15.02,"Eclampsia complicating pregnancy, second trimester"
+ICD10CM,O15.03,"Eclampsia complicating pregnancy, third trimester"
+ICD10CM,O15.1,Eclampsia complicating labor
+ICD10CM,O15.2,Eclampsia complicating the puerperium
+ICD10CM,O15.9,"Eclampsia, unspecified as to time period"
+ICD9CM,642.4,Mild or unspecified pre-eclampsia
+ICD9CM,642.5,Severe pre-eclampsia
+ICD9CM,642.6,"Eclampsia complicating pregnancy, childbirth or the puerperium"
+ICD9CM,642.7,Pre-eclampsia or eclampsia superimposed on pre-existing hypertension

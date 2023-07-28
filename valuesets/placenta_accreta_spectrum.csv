@@ -1,0 +1,25 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,O43.2,Morbidly adherent placenta
+ICD10CM,O43.21,Placenta accreta
+ICD10CM,O43.211,"Placenta accreta, first trimester"
+ICD10CM,O43.212,"Placenta accreta, second trimester"
+ICD10CM,O43.213,"Placenta accreta, third trimester"
+ICD10CM,O43.219,"Placenta accreta, unspecified trimester"
+ICD10CM,O43.22,Placenta increta
+ICD10CM,O43.221,"Placenta increta, first trimester"
+ICD10CM,O43.222,"Placenta increta, second trimester"
+ICD10CM,O43.223,"Placenta increta, third trimester"
+ICD10CM,O43.229,"Placenta increta, unspecified trimester"
+ICD10CM,O43.23,Placenta percreta
+ICD10CM,O43.231,"Placenta percreta, first trimester"
+ICD10CM,O43.232,"Placenta percreta, second trimester"
+ICD10CM,O43.233,"Placenta percreta, third trimester"
+ICD10CM,O43.239,"Placenta percreta, unspecified trimester"
+SNOMED CT,237296008,Placenta accreta spectrum
+SNOMED CT,11763009,Placenta increta
+SNOMED CT,25585008,Placenta percreta
+SNOMED CT,33058001,Placenta accreta without hemorrhage
+SNOMED CT,1230040001,Cornual placenta accreta
+SNOMED CT,237297004,Placenta adherent to previous uterine scar
+SNOMED CT,70129008,Placenta accreta
+ICD9CM,667,"Retained placenta or membranes, without hemorrhage"

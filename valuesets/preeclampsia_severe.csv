@@ -1,0 +1,44 @@
+CodeSystem,ConceptCode,ConceptName
+ICD10CM,O11,Pre-existing hypertension with pre-eclampsia
+ICD10CM,O14.1,Severe pre-eclampsia
+ICD10CM,O14.2,HELLP syndrome
+ICD10CM,O15,Eclampsia
+ICD10CM,O11.1,"Pre-existing hypertension with pre-eclampsia, first trimester"
+ICD10CM,O11.2,"Pre-existing hypertension with pre-eclampsia, second trimester"
+ICD10CM,O11.3,"Pre-existing hypertension with pre-eclampsia, third trimester"
+ICD10CM,O11.4,"Pre-existing hypertension with pre-eclampsia, complicating childbirth"
+ICD10CM,O11.5,"Pre-existing hypertension with pre-eclampsia, complicating the puerperium"
+ICD10CM,O11.9,"Pre-existing hypertension with pre-eclampsia, unspecified trimester"
+ICD10CM,O14.10,"Severe pre-eclampsia, unspecified trimester"
+ICD10CM,O14.12,"Severe pre-eclampsia, second trimester"
+ICD10CM,O14.13,"Severe pre-eclampsia, third trimester"
+ICD10CM,O14.14,Severe pre-eclampsia complicating childbirth
+ICD10CM,O14.15,"Severe pre-eclampsia, complicating the puerperium"
+ICD10CM,O14.20,"HELLP syndrome (HELLP), unspecified trimester"
+ICD10CM,O14.22,"HELLP syndrome (HELLP), second trimester"
+ICD10CM,O14.23,"HELLP syndrome (HELLP), third trimester"
+ICD10CM,O14.24,"HELLP syndrome, complicating childbirth"
+ICD10CM,O14.25,"HELLP syndrome, complicating the puerperium"
+ICD10CM,O15.0,Eclampsia complicating pregnancy
+ICD10CM,O15.00,"Eclampsia complicating pregnancy, unspecified trimester"
+ICD10CM,O15.02,"Eclampsia complicating pregnancy, second trimester"
+ICD10CM,O15.03,"Eclampsia complicating pregnancy, third trimester"
+ICD10CM,O15.1,Eclampsia complicating labor
+ICD10CM,O15.2,Eclampsia complicating the puerperium
+ICD10CM,O15.9,"Eclampsia, unspecified as to time period"
+SNOMED CT,95605009,Hemolysis-elevated liver enzymes-low platelet count syndrome
+SNOMED CT,198997005,Pre-eclampsia or eclampsia with pre-existing hypertension
+SNOMED CT,46764007,Severe pre-eclampsia
+SNOMED CT,198983002,Severe pre-eclampsia - delivered
+SNOMED CT,198984008,Severe pre-eclampsia - delivered with postnatal complication
+SNOMED CT,198985009,Severe pre-eclampsia - not delivered
+SNOMED CT,198986005,Severe pre-eclampsia with postnatal complication
+SNOMED CT,198999008,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered
+SNOMED CT,199000005,Pre-eclampsia or eclampsia with pre-existing hypertension - delivered with postnatal complication
+SNOMED CT,199002002,Pre-eclampsia or eclampsia with pre-existing hypertension - not delivered
+SNOMED CT,199003007,Pre-eclampsia or eclampsia with pre-existing hypertension with postnatal complication
+ICD9CM,642.5,Severe pre-eclampsia
+ICD9CM,642.60,"Eclampsia, unspecified as to episode of care or not applicable"
+ICD9CM,642.61,"Eclampsia, delivered, with or without mention of antepartum condition"
+ICD9CM,642.63,"Eclampsia, antepartum condition or complication"
+ICD9CM,642.64,"Eclampsia, postpartum condition or complication"
